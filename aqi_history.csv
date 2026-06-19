@@ -59,3 +59,29 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 58,Guwahati,Assam,"Pan Bazaar, Guwahati, India",26.1445,91.7362,100.0,100.0,55.0,0.2,6.9,4.2,12.4,2026-06-19 19:00:00,2026-06-19 13:58:01,Satisfactory
 59,Shimla,Himachal Pradesh,"HIMUDA Complex Phase-1, Baddi, India",31.1048,77.1734,157.0,157.0,108.0,6.2,29.5,9.0,7.6,2026-06-19 19:00:00,2026-06-19 13:58:01,Moderate
 60,Ooty,Tamil Nadu,"Urban, Chamarajanagar, India",11.4102,76.695,59.0,59.0,35.0,10.6,10.5,3.4,1.6,2026-06-19 19:00:00,2026-06-19 13:58:01,Satisfactory
+61,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,99.0,53.0,99.0,8.5,12.3,5.2,5.3,2026-06-19 21:00:00,2026-06-19 16:30:17,Satisfactory
+62,Gurugram,Haryana,"Sector-51, Gurugram, India",28.4595,77.0266,165.0,165.0,82.0,23.7,6.4,2.7,3.0,2026-06-19 20:00:00,2026-06-19 16:30:17,Moderate
+63,Noida,Uttar Pradesh,"Sector - 62, Noida, India",28.5355,77.391,122.0,122.0,112.0,7.5,32.5,5.2,,2026-06-19 20:00:00,2026-06-19 16:30:17,Moderate
+65,Kanpur,Uttar Pradesh,"FTI Kidwai Nagar, Kanpur, India",26.4499,80.3319,113.0,113.0,69.0,9.7,5.4,6.5,22.6,2026-06-19 20:00:00,2026-06-19 16:30:17,Moderate
+66,Patna,Bihar,"Muradpur, Patna, India",25.5941,85.1376,239.0,133.0,239.0,1.3,18.3,8.7,5.1,2026-06-19 20:00:00,2026-06-19 16:30:17,Poor
+67,Varanasi,Uttar Pradesh,"Maldahiya, Varanasi, India",25.3176,82.9739,86.0,86.0,54.0,0.8,3.2,2.6,12.2,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+69,Chandigarh,Chandigarh,"Sector-25, Chandigarh, India",30.7333,76.7794,132.0,132.0,76.0,2.1,23.0,3.1,3.9,2026-06-19 20:00:00,2026-06-19 16:30:17,Moderate
+70,Jaipur,Rajasthan,"Shastri Nagar, Jaipur, India",26.9124,75.7873,134.0,134.0,67.0,11.7,20.6,14.4,3.7,2026-06-19 20:00:00,2026-06-19 16:30:17,Moderate
+71,Mumbai,Maharashtra,"Kurla, Mumbai, India",19.076,72.8777,94.0,94.0,55.0,2.3,11.6,2.7,11.9,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+73,Pune,Maharashtra,"Nerul, Navi Mumbai, India",18.5204,73.8567,38.0,38.0,19.0,21.9,,,7.3,2026-06-19 20:00:00,2026-06-19 16:30:17,Good
+74,Surat,Gujarat,"GIDC, Ankleshwar, India",21.1702,72.8311,70.0,70.0,46.0,9.0,8.3,8.3,7.2,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+75,Indore,Madhya Pradesh,"Chhoti Gwaltoli, Indore, India",22.7196,75.8577,59.0,55.0,59.0,39.2,1.0,5.7,3.4,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+76,Nagpur,Maharashtra,"Opp GPO Civil Lines, Nagpur, India",21.1458,79.0882,81.0,81.0,49.0,5.8,12.8,2.0,3.0,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+77,Bhopal,Madhya Pradesh,"T T Nagar, Bhopal, India",23.2599,77.4126,59.0,57.0,59.0,6.4,27.0,6.9,4.4,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+78,Bengaluru,Karnataka,"Silk Board, Bengaluru, India",12.9716,77.5946,143.0,132.0,143.0,9.9,0.9,26.2,2.2,2026-06-19 20:00:00,2026-06-19 16:30:17,Moderate
+79,Hyderabad,Telangana,"Zoo Park, Bahadurpura West, Hyderabad, India",17.385,78.4867,87.0,87.0,50.0,3.2,9.6,0.1,0.7,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+80,Chennai,Tamil Nadu,"Kodungaiyur, Chennai, Chennai, India",13.0827,80.2707,122.0,122.0,57.0,5.4,12.8,5.7,2.4,2026-06-19 20:00:00,2026-06-19 16:30:17,Moderate
+81,Visakhapatnam,Andhra Pradesh,"GVM Corporation, Visakhapatnam, India",17.6868,83.2185,64.0,5.0,64.0,17.0,16.6,2.4,3.5,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+82,Dehradun,Uttarakhand,"Doon University, Dehradun, India",30.3165,78.0322,92.0,92.0,59.0,1.9,24.9,7.4,0.3,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+83,Coimbatore,Tamil Nadu,"SIDCO Kurichi, Coimbatore, India",11.0168,76.9558,81.0,81.0,49.0,8.2,8.1,3.1,9.8,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+84,Thiruvananthapuram,Kerala,"Kariavattom, Thiruvananthapuram, India",8.5241,76.9366,86.0,86.0,68.0,2.5,12.4,3.9,4.3,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+85,Kolkata,West Bengal,"Victoria, Kolkata, India",22.5726,88.3639,87.0,87.0,62.0,9.8,9.2,6.8,4.9,2026-06-19 20:00:00,2026-06-19 16:30:17,Satisfactory
+86,Ranchi,Jharkhand,"Tata Stadium, Jorapokhar, India",23.3441,85.3096,139.0,139.0,75.0,2.9,1.1,7.3,1.7,2026-06-19 20:00:00,2026-06-19 16:30:17,Moderate
+87,Bhubaneswar,Odisha,"Talcher Coalfields, Talcher, India",20.2961,85.8245,26.0,6.0,19.0,7.9,5.9,25.7,7.9,2026-06-19 20:00:00,2026-06-19 16:30:17,Good
+88,Guwahati,Assam,"Pan Bazaar, Guwahati, India",26.1445,91.7362,117.0,117.0,61.0,0.2,7.2,4.7,12.0,2026-06-19 20:00:00,2026-06-19 16:30:17,Moderate
+89,Shimla,Himachal Pradesh,"HIMUDA Complex Phase-1, Baddi, India",31.1048,77.1734,164.0,164.0,125.0,7.1,23.9,9.6,7.5,2026-06-19 20:00:00,2026-06-19 16:30:17,Moderate
