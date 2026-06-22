@@ -957,3 +957,32 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 988,Guwahati,Assam,"Pan Bazaar, Guwahati, India",26.1445,91.7362,895.0,540.0,895.0,0.2,4.0,7.2,12.4,2026-06-23 01:00:00,2026-06-22 20:28:04,Severe
 989,Shimla,Himachal Pradesh,"HIMUDA Complex Phase-1, Baddi, India",31.1048,77.1734,120.0,120.0,77.0,4.3,27.4,9.4,6.8,2026-06-23 01:00:00,2026-06-22 20:28:04,Moderate
 990,Ooty,Tamil Nadu,"Urban, Chamarajanagar, India",11.4102,76.695,58.0,58.0,35.0,10.6,7.6,3.5,1.6,2026-06-23 01:00:00,2026-06-22 20:28:04,Satisfactory
+991,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,82.0,82.0,80.0,13.7,2.4,6.1,14.5,2026-06-23 03:00:00,2026-06-22 22:28:44,Satisfactory
+992,Gurugram,Haryana,"Sector-51, Gurugram, India",28.4595,77.0266,180.0,180.0,103.0,11.3,4.8,6.7,2.6,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+993,Noida,Uttar Pradesh,"Sector - 62, Noida, India",28.5355,77.391,175.0,175.0,129.0,12.6,11.8,8.2,,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+994,Lucknow,Uttar Pradesh,"Gomti Nagar, Lucknow, India",26.8467,80.9462,154.0,154.0,64.0,3.8,18.5,7.5,4.7,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+995,Kanpur,Uttar Pradesh,"Nehru Nagar, Kanpur, India",26.4499,80.3319,137.0,137.0,56.0,16.5,0.9,9.4,4.9,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+996,Patna,Bihar,"Muradpur, Patna, India",25.5941,85.1376,119.0,119.0,96.0,1.1,2.5,8.8,5.2,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+997,Varanasi,Uttar Pradesh,"Maldahiya, Varanasi, India",25.3176,82.9739,87.0,87.0,59.0,1.5,2.5,2.7,12.2,2026-06-23 03:00:00,2026-06-22 22:28:44,Satisfactory
+998,Agra,Uttar Pradesh,"Manoharpur, Agra, India",27.1767,78.0081,162.0,162.0,73.0,11.4,2.3,3.3,14.8,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+999,Chandigarh,Chandigarh,"Sector-25, Chandigarh, India",30.7333,76.7794,117.0,117.0,57.0,2.8,8.9,2.8,2.5,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+1000,Jaipur,Rajasthan,"Adarsh Nagar, Jaipur, India",26.9124,75.7873,159.0,159.0,100.0,3.8,9.4,8.2,8.9,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+1001,Mumbai,Maharashtra,"Sion, Mumbai, India",19.076,72.8777,839.0,481.0,839.0,17.1,13.4,3.4,1.8,2026-06-23 03:00:00,2026-06-22 22:28:44,Severe
+1002,Ahmedabad,Gujarat,"Maninagar, Ahmedabad, India",23.0225,72.5714,96.0,96.0,57.0,7.3,10.3,2.4,50.5,2026-06-23 03:00:00,2026-06-22 22:28:44,Satisfactory
+1003,Pune,Maharashtra,"Nerul, Navi Mumbai, India",18.5204,73.8567,20.0,20.0,3.0,21.9,,,7.3,2026-06-23 03:00:00,2026-06-22 22:28:44,Good
+1004,Surat,Gujarat,"GIDC, Ankleshwar, India",21.1702,72.8311,95.0,95.0,54.0,10.5,6.4,8.4,10.4,2026-06-23 03:00:00,2026-06-22 22:28:44,Satisfactory
+1005,Indore,Madhya Pradesh,"Chhoti Gwaltoli, Indore, India",22.7196,75.8577,30.0,30.0,25.0,55.3,0.7,7.5,6.2,2026-06-23 03:00:00,2026-06-22 22:28:44,Good
+1006,Nagpur,Maharashtra,"Opp GPO Civil Lines, Nagpur, India",21.1458,79.0882,56.0,56.0,24.0,5.7,2.9,3.3,1.9,2026-06-23 03:00:00,2026-06-22 22:28:44,Satisfactory
+1007,Bhopal,Madhya Pradesh,"T T Nagar, Bhopal, India",23.2599,77.4126,33.0,25.0,33.0,5.2,14.4,4.1,8.9,2026-06-23 03:00:00,2026-06-22 22:28:44,Good
+1008,Bengaluru,Karnataka,"BWSSB Kadabesanahalli, Bengaluru, India",12.9716,77.5946,102.0,102.0,50.0,0.6,8.0,7.2,1.2,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+1010,Chennai,Tamil Nadu,"Manali Village, Chennai, Chennai, India",13.0827,80.2707,197.0,59.0,22.0,0.2,197.0,4.4,4.7,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+1011,Visakhapatnam,Andhra Pradesh,"GVM Corporation, Visakhapatnam, India",17.6868,83.2185,157.0,157.0,116.0,35.1,2.4,0.8,9.6,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+1012,Dehradun,Uttarakhand,"Doon University, Dehradun, India",30.3165,78.0322,97.0,97.0,53.0,1.3,11.1,1.6,0.3,2026-06-23 03:00:00,2026-06-22 22:28:44,Satisfactory
+1013,Coimbatore,Tamil Nadu,"SIDCO Kurichi, Coimbatore, India",11.0168,76.9558,56.0,56.0,24.0,8.3,8.1,2.6,10.1,2026-06-23 03:00:00,2026-06-22 22:28:44,Satisfactory
+1014,Thiruvananthapuram,Kerala,"Kariavattom, Thiruvananthapuram, India",8.5241,76.9366,79.0,79.0,33.0,2.5,12.3,4.2,1.9,2026-06-23 03:00:00,2026-06-22 22:28:44,Satisfactory
+1015,Kolkata,West Bengal,"Victoria, Kolkata, India",22.5726,88.3639,131.0,131.0,67.0,8.0,8.8,4.5,5.4,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+1016,Ranchi,Jharkhand,"Tata Stadium, Jorapokhar, India",23.3441,85.3096,83.0,83.0,64.0,2.9,0.6,7.0,1.7,2026-06-23 03:00:00,2026-06-22 22:28:44,Satisfactory
+1017,Bhubaneswar,Odisha,"Talcher Coalfields, Talcher, India",20.2961,85.8245,45.0,21.0,45.0,11.6,6.2,19.9,14.8,2026-06-23 03:00:00,2026-06-22 22:28:44,Good
+1018,Guwahati,Assam,"Pan Bazaar, Guwahati, India",26.1445,91.7362,895.0,540.0,895.0,0.1,4.1,6.0,12.1,2026-06-23 03:00:00,2026-06-22 22:28:44,Severe
+1019,Shimla,Himachal Pradesh,"HIMUDA Complex Phase-1, Baddi, India",31.1048,77.1734,143.0,143.0,89.0,5.8,18.8,9.2,8.0,2026-06-23 03:00:00,2026-06-22 22:28:44,Moderate
+1020,Ooty,Tamil Nadu,"Urban, Chamarajanagar, India",11.4102,76.695,59.0,59.0,34.0,10.3,7.5,3.4,1.6,2026-06-23 03:00:00,2026-06-22 22:28:44,Satisfactory
