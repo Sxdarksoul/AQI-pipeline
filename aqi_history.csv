@@ -1073,3 +1073,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 1108,Guwahati,Assam,"Pan Bazaar, Guwahati, India",26.1445,91.7362,394.0,330.0,394.0,0.1,8.4,3.9,11.6,2026-06-23 09:00:00,2026-06-23 06:36:03,Very Poor
 1109,Shimla,Himachal Pradesh,"HIMUDA Complex Phase-1, Baddi, India",31.1048,77.1734,87.0,87.0,60.0,6.0,47.9,8.5,10.2,2026-06-23 10:00:00,2026-06-23 06:36:03,Satisfactory
 1110,Ooty,Tamil Nadu,"Urban, Chamarajanagar, India",11.4102,76.695,44.0,44.0,27.0,5.4,10.8,2.7,1.0,2026-06-23 10:00:00,2026-06-23 06:36:03,Good
+1111,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,152.0,55.0,152.0,3.3,19.4,4.6,7.2,2026-06-23 15:00:00,2026-06-23 10:25:23,Moderate
