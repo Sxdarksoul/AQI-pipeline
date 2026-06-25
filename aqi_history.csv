@@ -1478,3 +1478,12 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 1601,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,124.0,124.0,93.0,9.3,0.5,5.5,4.6,2026-06-26 00:00:00,2026-06-25 18:59:17,Moderate
 1616,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,124.0,124.0,93.0,9.3,0.5,5.5,4.6,2026-06-26 00:00:00,2026-06-25 18:59:17,Moderate
 1621,Kanpur,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.4499,80.3319,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 20:54:27,Moderate
+1643,Lucknow,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.8467,80.9462,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 22:13:21,Moderate
+1645,Patna,Bihar,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.5941,85.1376,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 22:13:21,Moderate
+1646,Varanasi,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.3176,82.9739,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 22:13:21,Moderate
+1659,Chennai,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",13.0827,80.2707,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 22:13:21,Moderate
+1660,Visakhapatnam,Andhra Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.6868,83.2185,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 22:13:21,Moderate
+1664,Kolkata,West Bengal,"Natural Resources and Environment Office, Chiangrai, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดเชียงราย)",22.5726,88.3639,62.0,62.0,36.0,0.6,12.7,0.1,,2026-06-25 23:00:00,2026-06-25 22:13:21,Satisfactory
+1665,Ranchi,Jharkhand,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.3441,85.3096,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 22:13:21,Moderate
+1666,Bhubaneswar,Odisha,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",20.2961,85.8245,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 22:13:21,Moderate
+1667,Guwahati,Assam,"Natural Resources and Environment Office, Chiangrai, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดเชียงราย)",26.1445,91.7362,62.0,62.0,36.0,0.6,12.7,0.1,,2026-06-25 23:00:00,2026-06-25 22:13:21,Satisfactory
