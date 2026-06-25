@@ -1418,3 +1418,10 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 1515,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,46.0,46.0,,,,,,2026-06-25 11:00:00,2026-06-25 05:55:38,Good
 1516,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,49.0,13.0,12.0,2.8,49.2,1.0,2.1,2026-06-25 12:00:00,2026-06-25 05:55:38,Good
 1517,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,183.0,183.0,150.0,9.7,2.7,7.0,16.3,2026-06-25 10:00:00,2026-06-25 05:55:38,Moderate
+1519,New Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",28.6139,77.209,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 08:47:54,Moderate
+1520,Gurugram,Haryana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",28.4595,77.0266,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 08:47:54,Moderate
+1521,Noida,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",28.5355,77.391,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 08:47:54,Moderate
+1524,Jaipur,Rajasthan,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.9124,75.7873,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 08:47:54,Moderate
+1525,Mumbai,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",19.076,72.8777,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 08:47:54,Moderate
+1526,Ahmedabad,Gujarat,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.0225,72.5714,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 08:47:54,Moderate
+1528,Surat,Gujarat,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1702,72.8311,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 08:47:54,Moderate

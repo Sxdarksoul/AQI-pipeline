@@ -1,6 +1,6 @@
 city,state,station,latitude,longitude,CITY_AQI,pm25,pm10,no2,o3,co,so2,HEALTH_RISK_TIER,last_update,fetched_at
 Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 01:55:36
-Ahmedabad,Gujarat,"Sri Auribindo Marg, Delhi, Delhi, India",23.0225,72.5714,81.0,81.0,65.0,15.3,2.4,5.5,1.6,Satisfactory,2026-06-25 04:00:00,2026-06-25 05:55:38
+Ahmedabad,Gujarat,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.0225,72.5714,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 08:47:54
 Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 01:55:36
 Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 01:55:36
 Bhubaneswar,Odisha,"Talcher Coalfields, Talcher, India",20.2961,85.8245,104.0,104.0,60.0,9.6,6.8,23.7,14.4,Moderate,2026-06-23 10:00:00,2026-06-23 06:36:03
@@ -8,24 +8,24 @@ Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,183.0,183.0,
 Chennai,Tamil Nadu,"Royapuram, Chennai, Chennai, India",13.0827,80.2707,76.0,76.0,48.0,4.6,12.1,9.8,2.0,Satisfactory,2026-06-23 10:00:00,2026-06-23 06:36:03
 Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 01:55:36
 Dehradun,Uttarakhand,"Narela, Delhi, Delhi, India",30.3165,78.0322,183.0,183.0,150.0,9.7,2.7,7.0,16.3,Moderate,2026-06-25 10:00:00,2026-06-25 05:55:38
-Gurugram,Haryana,"Sri Auribindo Marg, Delhi, Delhi, India",28.4595,77.0266,81.0,81.0,65.0,15.3,2.4,5.5,1.6,Satisfactory,2026-06-25 04:00:00,2026-06-25 05:55:38
+Gurugram,Haryana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",28.4595,77.0266,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 08:47:54
 Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,49.0,13.0,12.0,2.8,49.2,1.0,2.1,Good,2026-06-25 12:00:00,2026-06-25 05:55:38
 Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 01:55:36
 Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 01:55:36
-Jaipur,Rajasthan,"Sri Auribindo Marg, Delhi, Delhi, India",26.9124,75.7873,81.0,81.0,65.0,15.3,2.4,5.5,1.6,Satisfactory,2026-06-25 04:00:00,2026-06-25 05:55:38
+Jaipur,Rajasthan,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.9124,75.7873,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 08:47:54
 Kanpur,Uttar Pradesh,"FTI Kidwai Nagar, Kanpur, India",26.4499,80.3319,150.0,150.0,86.0,9.9,5.4,6.3,0.4,Moderate,2026-06-23 10:00:00,2026-06-23 06:36:03
 Kolkata,West Bengal,"Victoria, Kolkata, India",22.5726,88.3639,150.0,150.0,72.0,8.7,11.7,4.4,10.2,Moderate,2026-06-23 10:00:00,2026-06-23 06:36:03
 Lucknow,Uttar Pradesh,"Gomti Nagar, Lucknow, India",26.8467,80.9462,151.0,151.0,61.0,4.1,20.0,7.9,4.6,Moderate,2026-06-23 10:00:00,2026-06-23 06:36:03
-Mumbai,Maharashtra,"Sri Auribindo Marg, Delhi, Delhi, India",19.076,72.8777,81.0,81.0,65.0,15.3,2.4,5.5,1.6,Satisfactory,2026-06-25 04:00:00,2026-06-25 05:55:38
+Mumbai,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",19.076,72.8777,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 08:47:54
 Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 01:55:36
-New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,100.0,61.0,100.0,5.9,2.0,13.1,6.4,Satisfactory,2026-06-25 04:00:00,2026-06-24 23:54:57
-Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,85.0,53.0,85.0,19.2,2.5,4.8,3.0,Satisfactory,2026-06-25 05:00:00,2026-06-24 23:54:57
+New Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",28.6139,77.209,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 08:47:54
+Noida,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",28.5355,77.391,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 08:47:54
 Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 01:55:36
 Patna,Bihar,"Muradpur, Patna, India",25.5941,85.1376,134.0,134.0,96.0,1.1,14.1,9.6,5.1,Moderate,2026-06-23 10:00:00,2026-06-23 06:36:03
 Pune,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",18.5204,73.8567,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 05:55:38
 Ranchi,Jharkhand,"Tata Stadium, Jorapokhar, India",23.3441,85.3096,99.0,99.0,56.0,3.0,1.2,7.2,1.7,Satisfactory,2026-06-23 10:00:00,2026-06-23 06:36:03
 Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,183.0,183.0,150.0,9.7,2.7,7.0,16.3,Moderate,2026-06-25 10:00:00,2026-06-25 05:55:38
-Surat,Gujarat,"Sri Auribindo Marg, Delhi, Delhi, India",21.1702,72.8311,81.0,81.0,65.0,15.3,2.4,5.5,1.6,Satisfactory,2026-06-25 04:00:00,2026-06-25 05:55:38
+Surat,Gujarat,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1702,72.8311,103.0,71.0,103.0,10.9,5.7,3.4,2.1,Moderate,2026-06-25 07:00:00,2026-06-25 08:47:54
 Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,46.0,46.0,17.0,2.3,12.4,4.1,1.8,Good,2026-06-25 11:00:00,2026-06-25 05:55:38
 Varanasi,Uttar Pradesh,"Maldahiya, Varanasi, India",25.3176,82.9739,146.0,146.0,76.0,0.6,4.4,2.9,12.2,Moderate,2026-06-23 10:00:00,2026-06-23 06:36:03
 Visakhapatnam,Andhra Pradesh,"GVM Corporation, Visakhapatnam, India",17.6868,83.2185,151.0,151.0,101.0,21.1,10.8,4.7,5.5,Moderate,2026-06-23 10:00:00,2026-06-23 06:36:03
