@@ -1477,3 +1477,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 1596,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 16:12:54,Moderate
 1601,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,124.0,124.0,93.0,9.3,0.5,5.5,4.6,2026-06-26 00:00:00,2026-06-25 18:59:17,Moderate
 1616,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,124.0,124.0,93.0,9.3,0.5,5.5,4.6,2026-06-26 00:00:00,2026-06-25 18:59:17,Moderate
+1621,Kanpur,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.4499,80.3319,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 20:54:27,Moderate
