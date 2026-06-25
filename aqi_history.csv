@@ -1442,3 +1442,17 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 1555,Hyderabad,Telangana,"Narela, Delhi, Delhi, India",17.385,78.4867,183.0,183.0,150.0,9.7,2.7,7.0,16.3,2026-06-25 10:00:00,2026-06-25 11:30:14,Moderate
 1557,Coimbatore,Tamil Nadu,"Narela, Delhi, Delhi, India",11.0168,76.9558,183.0,183.0,150.0,9.7,2.7,7.0,16.3,2026-06-25 10:00:00,2026-06-25 11:30:14,Moderate
 1561,Ooty,Tamil Nadu,"Narela, Delhi, Delhi, India",11.4102,76.695,183.0,183.0,150.0,9.7,2.7,7.0,16.3,2026-06-25 10:00:00,2026-06-25 11:30:14,Moderate
+1562,New Delhi,Delhi,"Narela, Delhi, Delhi, India",28.6139,77.209,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1563,Gurugram,Haryana,"Narela, Delhi, Delhi, India",28.4595,77.0266,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1564,Noida,Uttar Pradesh,"Narela, Delhi, Delhi, India",28.5355,77.391,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1565,Agra,Uttar Pradesh,"Narela, Delhi, Delhi, India",27.1767,78.0081,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1566,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1567,Jaipur,Rajasthan,"Narela, Delhi, Delhi, India",26.9124,75.7873,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1568,Mumbai,Maharashtra,"Narela, Delhi, Delhi, India",19.076,72.8777,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1569,Ahmedabad,Gujarat,"Narela, Delhi, Delhi, India",23.0225,72.5714,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1570,Pune,Maharashtra,"Narela, Delhi, Delhi, India",18.5204,73.8567,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1571,Surat,Gujarat,"Narela, Delhi, Delhi, India",21.1702,72.8311,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1572,Indore,Madhya Pradesh,"Narela, Delhi, Delhi, India",22.7196,75.8577,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1573,Bhopal,Madhya Pradesh,"Narela, Delhi, Delhi, India",23.2599,77.4126,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1574,Dehradun,Uttarakhand,"Narela, Delhi, Delhi, India",30.3165,78.0322,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
+1575,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,114.0,106.0,114.0,7.6,2.8,6.7,4.0,2026-06-25 17:00:00,2026-06-25 13:55:16,Moderate
