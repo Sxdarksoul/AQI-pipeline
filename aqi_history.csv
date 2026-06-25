@@ -1395,3 +1395,15 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 1474,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,44.0,13.0,10.0,1.4,43.5,1.0,2.1,2026-06-25 07:00:00,2026-06-24 23:54:57,Good
 1475,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,153.0,153.0,124.0,11.0,0.4,7.5,9.1,2026-06-25 05:00:00,2026-06-24 23:54:57,Moderate
 1476,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,83.0,67.0,83.0,8.0,6.4,2.8,1.7,2026-06-25 05:00:00,2026-06-24 23:54:57,Satisfactory
+1480,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 01:55:36,Moderate
+1481,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,185.0,185.0,180.0,14.6,2.2,10.2,12.2,2026-06-25 07:00:00,2026-06-25 01:55:36,Moderate
+1487,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 01:55:36,Moderate
+1488,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 01:55:36,Moderate
+1489,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 01:55:36,Moderate
+1490,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 01:55:36,Moderate
+1491,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 01:55:36,Moderate
+1493,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 01:55:36,Moderate
+1494,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,19.0,19.0,,,,,,2026-06-25 08:00:00,2026-06-25 01:55:36,Good
+1495,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,42.0,13.0,9.0,3.2,42.3,1.0,2.1,2026-06-25 09:00:00,2026-06-25 01:55:36,Good
+1496,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,185.0,185.0,180.0,14.6,2.2,10.2,12.2,2026-06-25 07:00:00,2026-06-25 01:55:36,Moderate
+1497,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,103.0,71.0,103.0,10.9,5.7,3.4,2.1,2026-06-25 07:00:00,2026-06-25 01:55:36,Moderate
