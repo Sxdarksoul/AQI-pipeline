@@ -1487,3 +1487,29 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 1665,Ranchi,Jharkhand,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.3441,85.3096,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 22:13:21,Moderate
 1666,Bhubaneswar,Odisha,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",20.2961,85.8245,142.0,122.0,142.0,20.6,11.6,6.7,1.6,2026-06-25 20:00:00,2026-06-25 22:13:21,Moderate
 1667,Guwahati,Assam,"Natural Resources and Environment Office, Chiangrai, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดเชียงราย)",26.1445,91.7362,62.0,62.0,36.0,0.6,12.7,0.1,,2026-06-25 23:00:00,2026-06-25 22:13:21,Satisfactory
+1670,New Delhi,Delhi,"Punjabi Bagh, Delhi, Delhi, India",28.6139,77.209,157.0,157.0,154.0,19.8,11.0,10.9,18.3,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1671,Gurugram,Haryana,"Punjabi Bagh, Delhi, Delhi, India",28.4595,77.0266,157.0,157.0,154.0,19.8,11.0,10.9,18.3,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1672,Noida,Uttar Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",28.5355,77.391,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1673,Lucknow,Uttar Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",26.8467,80.9462,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1674,Kanpur,Uttar Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",26.4499,80.3319,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1675,Patna,Bihar,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",25.5941,85.1376,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1676,Varanasi,Uttar Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",25.3176,82.9739,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1677,Agra,Uttar Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",27.1767,78.0081,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1679,Jaipur,Rajasthan,"Punjabi Bagh, Delhi, Delhi, India",26.9124,75.7873,157.0,157.0,154.0,19.8,11.0,10.9,18.3,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1680,Mumbai,Maharashtra,"Punjabi Bagh, Delhi, Delhi, India",19.076,72.8777,157.0,157.0,154.0,19.8,11.0,10.9,18.3,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1681,Ahmedabad,Gujarat,"Punjabi Bagh, Delhi, Delhi, India",23.0225,72.5714,157.0,157.0,154.0,19.8,11.0,10.9,18.3,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1682,Pune,Maharashtra,"Punjabi Bagh, Delhi, Delhi, India",18.5204,73.8567,157.0,157.0,154.0,19.8,11.0,10.9,18.3,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1683,Surat,Gujarat,"Punjabi Bagh, Delhi, Delhi, India",21.1702,72.8311,157.0,157.0,154.0,19.8,11.0,10.9,18.3,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1684,Indore,Madhya Pradesh,"Punjabi Bagh, Delhi, Delhi, India",22.7196,75.8577,157.0,157.0,154.0,19.8,11.0,10.9,18.3,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1685,Nagpur,Maharashtra,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",21.1458,79.0882,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1686,Bhopal,Madhya Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",23.2599,77.4126,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1687,Bengaluru,Karnataka,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",12.9716,77.5946,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1688,Hyderabad,Telangana,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",17.385,78.4867,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1689,Chennai,Tamil Nadu,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",13.0827,80.2707,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1690,Visakhapatnam,Andhra Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",17.6868,83.2185,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1691,Dehradun,Uttarakhand,"Narela, Delhi, Delhi, India",30.3165,78.0322,124.0,124.0,93.0,9.3,0.5,5.5,4.6,2026-06-26 00:00:00,2026-06-26 00:01:36,Moderate
+1692,Coimbatore,Tamil Nadu,"Punjabi Bagh, Delhi, Delhi, India",11.0168,76.9558,157.0,157.0,154.0,19.8,11.0,10.9,18.3,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1693,Thiruvananthapuram,Kerala,"Punjabi Bagh, Delhi, Delhi, India",8.5241,76.9366,157.0,157.0,154.0,19.8,11.0,10.9,18.3,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1695,Ranchi,Jharkhand,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",23.3441,85.3096,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1696,Bhubaneswar,Odisha,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",20.2961,85.8245,132.0,132.0,114.0,36.2,3.8,14.5,4.1,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
+1699,Ooty,Tamil Nadu,"Punjabi Bagh, Delhi, Delhi, India",11.4102,76.695,157.0,157.0,154.0,19.8,11.0,10.9,18.3,2026-06-25 22:00:00,2026-06-26 00:01:36,Moderate
