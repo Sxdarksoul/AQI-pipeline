@@ -1828,3 +1828,23 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 2054,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,54.0,13.0,10.0,2.3,53.9,2.8,2.1,2026-06-28 01:00:00,2026-06-27 17:56:25,Satisfactory
 2055,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,168.0,168.0,168.0,13.6,3.6,10.0,7.0,2026-06-27 23:00:00,2026-06-27 17:56:25,Moderate
 2056,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,160.0,160.0,147.0,19.7,5.5,8.4,2.4,2026-06-27 23:00:00,2026-06-27 17:56:25,Moderate
+2057,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,142.0,142.0,112.0,11.7,2.0,15.9,19.7,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2058,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,166.0,162.0,166.0,40.9,5.2,13.6,7.8,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2059,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,172.0,161.0,172.0,29.1,1.7,11.8,5.8,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2060,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,165.0,161.0,165.0,23.9,3.3,9.5,2.7,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2061,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,159.0,159.0,146.0,13.7,3.6,9.5,7.7,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2062,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,124.0,124.0,104.0,17.8,2.0,7.7,8.8,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2063,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,124.0,124.0,104.0,17.8,2.0,7.7,8.8,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2064,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,124.0,124.0,104.0,17.8,2.0,7.7,8.8,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2065,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,124.0,124.0,104.0,17.8,2.0,7.7,8.8,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2066,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,124.0,124.0,104.0,17.8,2.0,7.7,8.8,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2067,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,165.0,161.0,165.0,23.9,3.3,9.5,2.7,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2068,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,165.0,161.0,165.0,23.9,3.3,9.5,2.7,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2069,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,165.0,161.0,165.0,23.9,3.3,9.5,2.7,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2070,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,165.0,161.0,165.0,23.9,3.3,9.5,2.7,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2071,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,165.0,161.0,165.0,23.9,3.3,9.5,2.7,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2072,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,167.0,167.0,159.0,4.5,3.4,7.3,2.4,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2073,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,165.0,161.0,165.0,23.9,3.3,9.5,2.7,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2075,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,50.0,13.0,6.0,2.3,49.6,2.8,2.1,2026-06-28 02:00:00,2026-06-27 19:03:42,Good
+2076,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,159.0,159.0,146.0,13.7,3.6,9.5,7.7,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
+2077,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,165.0,161.0,165.0,23.9,3.3,9.5,2.7,2026-06-28 00:00:00,2026-06-27 19:03:42,Moderate
