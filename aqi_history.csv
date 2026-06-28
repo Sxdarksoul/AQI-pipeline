@@ -2044,3 +2044,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 2306,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,53.0,25.0,11.0,5.1,53.2,1.9,2.1,2026-06-29 00:00:00,2026-06-28 16:53:55,Satisfactory
 2307,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,155.0,155.0,128.0,12.7,0.2,10.2,6.2,2026-06-28 22:00:00,2026-06-28 16:53:55,Moderate
 2308,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,165.0,141.0,165.0,17.0,8.1,8.0,1.4,2026-06-28 22:00:00,2026-06-28 16:53:55,Moderate
+2327,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,52.0,25.0,12.0,5.5,51.9,2.8,2.1,2026-06-29 01:00:00,2026-06-28 17:56:16,Satisfactory
