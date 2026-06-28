@@ -1899,3 +1899,23 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 2159,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,41.0,13.0,7.0,3.2,41.1,2.8,2.1,2026-06-28 06:00:00,2026-06-27 23:49:22,Good
 2160,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,97.0,97.0,71.0,9.6,3.6,5.5,3.9,2026-06-28 05:00:00,2026-06-27 23:49:22,Satisfactory
 2161,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,152.0,152.0,116.0,10.1,5.2,5.5,3.2,2026-06-28 04:00:00,2026-06-27 23:49:22,Moderate
+2162,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,72.0,72.0,68.0,21.4,3.9,10.2,20.2,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2163,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,74.0,65.0,74.0,8.8,7.1,4.1,8.3,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2164,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,129.0,129.0,117.0,9.7,3.7,3.4,6.0,2026-06-28 07:00:00,2026-06-28 02:00:58,Moderate
+2165,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,98.0,98.0,87.0,6.9,8.2,3.4,1.9,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2166,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,158.0,158.0,144.0,14.4,3.6,6.8,11.4,2026-06-28 07:00:00,2026-06-28 02:00:58,Moderate
+2167,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,74.0,74.0,69.0,10.8,4.8,6.8,7.0,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2168,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,74.0,74.0,69.0,10.8,4.8,6.8,7.0,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2169,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,74.0,74.0,69.0,10.8,4.8,6.8,7.0,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2170,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,74.0,74.0,69.0,10.8,4.8,6.8,7.0,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2171,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,74.0,74.0,69.0,10.8,4.8,6.8,7.0,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2172,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,98.0,98.0,87.0,6.9,8.2,3.4,1.9,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2173,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,98.0,98.0,87.0,6.9,8.2,3.4,1.9,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2174,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,98.0,98.0,87.0,6.9,8.2,3.4,1.9,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2175,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,98.0,98.0,87.0,6.9,8.2,3.4,1.9,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2176,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,98.0,98.0,87.0,6.9,8.2,3.4,1.9,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2178,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,98.0,98.0,87.0,6.9,8.2,3.4,1.9,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
+2179,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,15.0,15.0,,,,,,2026-06-28 08:00:00,2026-06-28 02:00:58,Good
+2180,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,41.0,25.0,7.0,6.9,40.7,2.8,2.1,2026-06-28 09:00:00,2026-06-28 02:00:58,Good
+2181,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,158.0,158.0,144.0,14.4,3.6,6.8,11.4,2026-06-28 07:00:00,2026-06-28 02:00:58,Moderate
+2182,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,98.0,98.0,87.0,6.9,8.2,3.4,1.9,2026-06-28 07:00:00,2026-06-28 02:00:58,Satisfactory
