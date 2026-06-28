@@ -2085,3 +2085,23 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 2369,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,58.0,13.0,6.0,1.9,57.8,1.9,2.1,2026-06-29 04:00:00,2026-06-28 20:48:09,Satisfactory
 2370,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,156.0,156.0,128.0,10.7,0.2,7.9,7.6,2026-06-29 02:00:00,2026-06-28 20:48:09,Moderate
 2371,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,124.0,124.0,121.0,9.9,9.2,4.1,1.5,2026-06-29 02:00:00,2026-06-28 20:48:09,Moderate
+2372,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,103.0,89.0,103.0,8.1,12.0,7.5,16.0,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2373,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,129.0,129.0,114.0,9.1,6.8,5.7,6.1,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2374,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,139.0,139.0,118.0,9.9,4.0,5.2,4.9,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2375,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,115.0,111.0,115.0,8.8,9.0,3.7,1.7,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2376,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,166.0,166.0,153.0,6.9,0.2,6.4,10.0,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2377,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,107.0,107.0,86.0,14.2,4.0,7.3,6.8,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2378,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,107.0,107.0,86.0,14.2,4.0,7.3,6.8,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2379,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,107.0,107.0,86.0,14.2,4.0,7.3,6.8,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2380,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,107.0,107.0,86.0,14.2,4.0,7.3,6.8,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2381,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,107.0,107.0,86.0,14.2,4.0,7.3,6.8,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2382,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,115.0,111.0,115.0,8.8,9.0,3.7,1.7,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2383,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,115.0,111.0,115.0,8.8,9.0,3.7,1.7,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2384,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,115.0,111.0,115.0,8.8,9.0,3.7,1.7,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2385,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,115.0,111.0,115.0,8.8,9.0,3.7,1.7,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2386,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,115.0,111.0,115.0,8.8,9.0,3.7,1.7,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2387,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,167.0,167.0,142.0,5.8,2.3,3.7,7.1,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2388,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,115.0,111.0,115.0,8.8,9.0,3.7,1.7,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2390,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,57.0,25.0,6.0,1.9,56.5,1.9,2.1,2026-06-29 05:00:00,2026-06-28 21:50:37,Satisfactory
+2391,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,166.0,166.0,153.0,6.9,0.2,6.4,10.0,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
+2392,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,115.0,111.0,115.0,8.8,9.0,3.7,1.7,2026-06-29 03:00:00,2026-06-28 21:50:37,Moderate
