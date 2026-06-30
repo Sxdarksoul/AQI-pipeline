@@ -2426,3 +2426,20 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 2765,Dehradun,Uttarakhand,"Narela, Delhi, Delhi, India",30.3165,78.0322,152.0,152.0,123.0,7.5,5.4,8.2,3.6,2026-06-30 19:00:00,2026-06-30 21:20:48,Moderate
 2767,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,9.0,9.0,,,,,,2026-07-01 03:00:00,2026-06-30 21:20:48,Good
 2768,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,35.0,13.0,10.0,5.5,35.0,1.0,2.1,2026-07-01 04:00:00,2026-06-30 21:20:48,Good
+2771,New Delhi,Delhi,"Satyawati College, Delhi, Delhi, India",28.6139,77.209,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-06-30 23:00:50,Moderate
+2772,Gurugram,Haryana,"DITE Okhla, Delhi, Delhi, India",28.4595,77.0266,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2774,Agra,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",27.1767,78.0081,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2775,Chandigarh,Chandigarh,"Satyawati College, Delhi, Delhi, India",30.7333,76.7794,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-06-30 23:00:50,Moderate
+2776,Jaipur,Rajasthan,"DITE Okhla, Delhi, Delhi, India",26.9124,75.7873,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2777,Mumbai,Maharashtra,"DITE Okhla, Delhi, Delhi, India",19.076,72.8777,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2778,Ahmedabad,Gujarat,"DITE Okhla, Delhi, Delhi, India",23.0225,72.5714,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2779,Pune,Maharashtra,"DITE Okhla, Delhi, Delhi, India",18.5204,73.8567,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2780,Surat,Gujarat,"DITE Okhla, Delhi, Delhi, India",21.1702,72.8311,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2781,Indore,Madhya Pradesh,"DITE Okhla, Delhi, Delhi, India",22.7196,75.8577,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2782,Bhopal,Madhya Pradesh,"DITE Okhla, Delhi, Delhi, India",23.2599,77.4126,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2783,Bengaluru,Karnataka,"DITE Okhla, Delhi, Delhi, India",12.9716,77.5946,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2784,Dehradun,Uttarakhand,"Satyawati College, Delhi, Delhi, India",30.3165,78.0322,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-06-30 23:00:50,Moderate
+2785,Coimbatore,Tamil Nadu,"DITE Okhla, Delhi, Delhi, India",11.0168,76.9558,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2787,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,30.0,9.0,7.8,25.6,1.0,3.6,2026-07-01 06:00:00,2026-06-30 23:00:50,Good
+2788,Shimla,Himachal Pradesh,"Satyawati College, Delhi, Delhi, India",31.1048,77.1734,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-06-30 23:00:50,Moderate
+2789,Ooty,Tamil Nadu,"DITE Okhla, Delhi, Delhi, India",11.4102,76.695,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
