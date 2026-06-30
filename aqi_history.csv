@@ -2416,3 +2416,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 2717,Surat,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",21.1702,72.8311,344.0,142.0,344.0,7.2,5.5,6.4,8.4,2026-06-30 17:00:00,2026-06-30 17:44:34,Very Poor
 2725,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,14.0,14.0,,,,,,2026-06-30 23:00:00,2026-06-30 17:44:34,Good
 2726,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,39.0,13.0,9.0,7.8,38.6,4.6,2.1,2026-07-01 01:00:00,2026-06-30 17:44:34,Good
+2747,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,38.0,13.0,10.0,4.6,37.8,3.7,2.1,2026-07-01 03:00:00,2026-06-30 19:26:55,Good
