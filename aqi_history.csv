@@ -2408,3 +2408,11 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 2705,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,47.0,13.0,7.0,5.5,46.8,4.6,2.1,2026-06-30 22:00:00,2026-06-30 15:27:39,Good
 2706,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,152.0,152.0,123.0,7.5,5.4,8.2,3.6,2026-06-30 19:00:00,2026-06-30 15:27:39,Moderate
 2707,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,158.0,158.0,122.0,6.0,5.2,4.6,1.5,2026-06-30 20:00:00,2026-06-30 15:27:39,Moderate
+2710,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 17:44:34,Moderate
+2713,Jaipur,Rajasthan,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",26.9124,75.7873,344.0,142.0,344.0,7.2,5.5,6.4,8.4,2026-06-30 17:00:00,2026-06-30 17:44:34,Very Poor
+2714,Mumbai,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",19.076,72.8777,344.0,142.0,344.0,7.2,5.5,6.4,8.4,2026-06-30 17:00:00,2026-06-30 17:44:34,Very Poor
+2715,Ahmedabad,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",23.0225,72.5714,344.0,142.0,344.0,7.2,5.5,6.4,8.4,2026-06-30 17:00:00,2026-06-30 17:44:34,Very Poor
+2716,Pune,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",18.5204,73.8567,158.0,158.0,122.0,6.0,5.2,4.6,1.5,2026-06-30 20:00:00,2026-06-30 17:44:34,Moderate
+2717,Surat,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",21.1702,72.8311,344.0,142.0,344.0,7.2,5.5,6.4,8.4,2026-06-30 17:00:00,2026-06-30 17:44:34,Very Poor
+2725,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,14.0,14.0,,,,,,2026-06-30 23:00:00,2026-06-30 17:44:34,Good
+2726,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,39.0,13.0,9.0,7.8,38.6,4.6,2.1,2026-07-01 01:00:00,2026-06-30 17:44:34,Good
