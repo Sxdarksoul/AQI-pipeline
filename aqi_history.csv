@@ -2443,3 +2443,16 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 2787,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,30.0,9.0,7.8,25.6,1.0,3.6,2026-07-01 06:00:00,2026-06-30 23:00:50,Good
 2788,Shimla,Himachal Pradesh,"Satyawati College, Delhi, Delhi, India",31.1048,77.1734,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-06-30 23:00:50,Moderate
 2789,Ooty,Tamil Nadu,"DITE Okhla, Delhi, Delhi, India",11.4102,76.695,156.0,156.0,107.0,7.8,4.3,6.6,4.2,2026-06-30 22:00:00,2026-06-30 23:00:50,Moderate
+2791,Gurugram,Haryana,"Satyawati College, Delhi, Delhi, India",28.4595,77.0266,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-07-01 02:01:42,Moderate
+2792,Noida,Uttar Pradesh,"Satyawati College, Delhi, Delhi, India",28.5355,77.391,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-07-01 02:01:42,Moderate
+2793,Agra,Uttar Pradesh,"Satyawati College, Delhi, Delhi, India",27.1767,78.0081,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-07-01 02:01:42,Moderate
+2795,Jaipur,Rajasthan,"Satyawati College, Delhi, Delhi, India",26.9124,75.7873,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-07-01 02:01:42,Moderate
+2796,Mumbai,Maharashtra,"Satyawati College, Delhi, Delhi, India",19.076,72.8777,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-07-01 02:01:42,Moderate
+2797,Ahmedabad,Gujarat,"Satyawati College, Delhi, Delhi, India",23.0225,72.5714,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-07-01 02:01:42,Moderate
+2798,Pune,Maharashtra,"Satyawati College, Delhi, Delhi, India",18.5204,73.8567,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-07-01 02:01:42,Moderate
+2799,Surat,Gujarat,"Satyawati College, Delhi, Delhi, India",21.1702,72.8311,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-07-01 02:01:42,Moderate
+2800,Indore,Madhya Pradesh,"Satyawati College, Delhi, Delhi, India",22.7196,75.8577,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-07-01 02:01:42,Moderate
+2801,Bhopal,Madhya Pradesh,"Satyawati College, Delhi, Delhi, India",23.2599,77.4126,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-07-01 02:01:42,Moderate
+2803,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,3.0,3.0,,,,,,2026-07-01 07:00:00,2026-07-01 02:01:42,Good
+2804,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,26.0,104.0,9.0,9.2,26.4,2.8,4.6,2026-07-01 08:00:00,2026-07-01 02:01:42,Good
+2806,Ooty,Tamil Nadu,"Satyawati College, Delhi, Delhi, India",11.4102,76.695,144.0,144.0,89.0,7.5,2.2,7.3,6.6,2026-07-01 01:00:00,2026-07-01 02:01:42,Moderate

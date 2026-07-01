@@ -1,31 +1,31 @@
 city,state,station,latitude,longitude,CITY_AQI,pm25,pm10,no2,o3,co,so2,HEALTH_RISK_TIER,last_update,fetched_at
-Agra,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",27.1767,78.0081,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
-Ahmedabad,Gujarat,"DITE Okhla, Delhi, Delhi, India",23.0225,72.5714,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
+Agra,Uttar Pradesh,"Satyawati College, Delhi, Delhi, India",27.1767,78.0081,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-07-01 02:01:42
+Ahmedabad,Gujarat,"Satyawati College, Delhi, Delhi, India",23.0225,72.5714,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-07-01 02:01:42
 Bengaluru,Karnataka,"DITE Okhla, Delhi, Delhi, India",12.9716,77.5946,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
-Bhopal,Madhya Pradesh,"DITE Okhla, Delhi, Delhi, India",23.2599,77.4126,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
+Bhopal,Madhya Pradesh,"Satyawati College, Delhi, Delhi, India",23.2599,77.4126,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-07-01 02:01:42
 Bhubaneswar,Odisha,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",20.2961,85.8245,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
 Chandigarh,Chandigarh,"Satyawati College, Delhi, Delhi, India",30.7333,76.7794,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-06-30 23:00:50
 Chennai,Tamil Nadu,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",13.0827,80.2707,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
 Coimbatore,Tamil Nadu,"DITE Okhla, Delhi, Delhi, India",11.0168,76.9558,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
 Dehradun,Uttarakhand,"Satyawati College, Delhi, Delhi, India",30.3165,78.0322,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-06-30 23:00:50
-Gurugram,Haryana,"DITE Okhla, Delhi, Delhi, India",28.4595,77.0266,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
-Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,30.0,9.0,7.8,25.6,1.0,3.6,Good,2026-07-01 06:00:00,2026-06-30 23:00:50
+Gurugram,Haryana,"Satyawati College, Delhi, Delhi, India",28.4595,77.0266,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-07-01 02:01:42
+Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,26.0,104.0,9.0,9.2,26.4,2.8,4.6,Good,2026-07-01 08:00:00,2026-07-01 02:01:42
 Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,158.0,158.0,122.0,6.0,5.2,4.6,1.5,Moderate,2026-06-30 20:00:00,2026-06-30 15:27:39
-Indore,Madhya Pradesh,"DITE Okhla, Delhi, Delhi, India",22.7196,75.8577,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
-Jaipur,Rajasthan,"DITE Okhla, Delhi, Delhi, India",26.9124,75.7873,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
+Indore,Madhya Pradesh,"Satyawati College, Delhi, Delhi, India",22.7196,75.8577,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-07-01 02:01:42
+Jaipur,Rajasthan,"Satyawati College, Delhi, Delhi, India",26.9124,75.7873,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-07-01 02:01:42
 Kanpur,Uttar Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",26.4499,80.3319,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
 Kolkata,West Bengal,"Natural Resources and Environment Office, Chiangrai, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดเชียงราย)",22.5726,88.3639,62.0,62.0,36.0,0.6,12.7,0.1,10.2,Satisfactory,2026-06-25 23:00:00,2026-06-25 22:13:21
 Lucknow,Uttar Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",26.8467,80.9462,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
-Mumbai,Maharashtra,"DITE Okhla, Delhi, Delhi, India",19.076,72.8777,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
+Mumbai,Maharashtra,"Satyawati College, Delhi, Delhi, India",19.076,72.8777,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-07-01 02:01:42
 Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,158.0,158.0,122.0,6.0,5.2,4.6,1.5,Moderate,2026-06-30 20:00:00,2026-06-30 15:27:39
 New Delhi,Delhi,"Satyawati College, Delhi, Delhi, India",28.6139,77.209,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-06-30 23:00:50
-Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 17:44:34
-Ooty,Tamil Nadu,"DITE Okhla, Delhi, Delhi, India",11.4102,76.695,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
+Noida,Uttar Pradesh,"Satyawati College, Delhi, Delhi, India",28.5355,77.391,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-07-01 02:01:42
+Ooty,Tamil Nadu,"Satyawati College, Delhi, Delhi, India",11.4102,76.695,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-07-01 02:01:42
 Patna,Bihar,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",25.5941,85.1376,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
-Pune,Maharashtra,"DITE Okhla, Delhi, Delhi, India",18.5204,73.8567,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
+Pune,Maharashtra,"Satyawati College, Delhi, Delhi, India",18.5204,73.8567,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-07-01 02:01:42
 Ranchi,Jharkhand,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",23.3441,85.3096,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
 Shimla,Himachal Pradesh,"Satyawati College, Delhi, Delhi, India",31.1048,77.1734,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-06-30 23:00:50
-Surat,Gujarat,"DITE Okhla, Delhi, Delhi, India",21.1702,72.8311,156.0,156.0,107.0,7.8,4.3,6.6,4.2,Moderate,2026-06-30 22:00:00,2026-06-30 23:00:50
-Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,9.0,9.0,154.0,19.8,11.0,10.9,18.3,Good,2026-07-01 03:00:00,2026-06-30 21:20:48
+Surat,Gujarat,"Satyawati College, Delhi, Delhi, India",21.1702,72.8311,144.0,144.0,89.0,7.5,2.2,7.3,6.6,Moderate,2026-07-01 01:00:00,2026-07-01 02:01:42
+Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,3.0,3.0,154.0,19.8,11.0,10.9,18.3,Good,2026-07-01 07:00:00,2026-07-01 02:01:42
 Varanasi,Uttar Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",25.3176,82.9739,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
 Visakhapatnam,Andhra Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",17.6868,83.2185,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
