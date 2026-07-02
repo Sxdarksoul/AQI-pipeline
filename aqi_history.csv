@@ -2643,3 +2643,24 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 2993,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,47.0,13.0,17.0,6.4,46.8,2.8,6.6,2026-07-02 10:00:00,2026-07-02 03:24:29,Good
 2994,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,95.0,95.0,77.0,6.4,4.8,7.3,4.2,2026-07-02 08:00:00,2026-07-02 03:24:29,Satisfactory
 2995,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,96.0,96.0,74.0,5.7,10.5,3.0,1.4,2026-07-02 08:00:00,2026-07-02 03:24:29,Satisfactory
+2996,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,40.0,30.0,40.0,6.2,10.2,10.9,25.5,2026-07-02 12:00:00,2026-07-02 06:57:33,Good
+2997,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,21.0,21.0,15.0,9.4,9.2,7.7,11.7,2026-07-02 12:00:00,2026-07-02 06:57:33,Good
+2998,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,46.0,46.0,46.0,8.9,10.8,6.4,2.7,2026-07-02 12:00:00,2026-07-02 06:57:33,Good
+2999,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,51.0,13.0,51.0,10.0,11.7,4.1,1.2,2026-07-02 12:00:00,2026-07-02 06:57:33,Satisfactory
+3000,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,89.0,89.0,42.0,7.4,7.6,7.3,5.1,2026-07-02 12:00:00,2026-07-02 06:57:33,Satisfactory
+3001,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,50.0,50.0,5.0,6.7,6.1,6.4,4.4,2026-07-02 12:00:00,2026-07-02 06:57:33,Good
+3002,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,50.0,50.0,5.0,6.7,6.1,6.4,4.4,2026-07-02 12:00:00,2026-07-02 06:57:33,Good
+3003,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,50.0,50.0,5.0,6.7,6.1,6.4,4.4,2026-07-02 12:00:00,2026-07-02 06:57:33,Good
+3004,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,50.0,50.0,5.0,6.7,6.1,6.4,4.4,2026-07-02 12:00:00,2026-07-02 06:57:33,Good
+3005,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,50.0,50.0,5.0,6.7,6.1,6.4,4.4,2026-07-02 12:00:00,2026-07-02 06:57:33,Good
+3006,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,51.0,13.0,51.0,10.0,11.7,4.1,1.2,2026-07-02 12:00:00,2026-07-02 06:57:33,Satisfactory
+3007,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,51.0,13.0,51.0,10.0,11.7,4.1,1.2,2026-07-02 12:00:00,2026-07-02 06:57:33,Satisfactory
+3008,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,51.0,13.0,51.0,10.0,11.7,4.1,1.2,2026-07-02 12:00:00,2026-07-02 06:57:33,Satisfactory
+3009,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,51.0,13.0,51.0,10.0,11.7,4.1,1.2,2026-07-02 12:00:00,2026-07-02 06:57:33,Satisfactory
+3010,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,51.0,13.0,51.0,10.0,11.7,4.1,1.2,2026-07-02 12:00:00,2026-07-02 06:57:33,Satisfactory
+3011,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,76.0,76.0,28.0,7.9,9.6,5.5,1.7,2026-07-02 12:00:00,2026-07-02 06:57:33,Satisfactory
+3012,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,51.0,13.0,51.0,10.0,11.7,4.1,1.2,2026-07-02 12:00:00,2026-07-02 06:57:33,Satisfactory
+3013,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,15.0,15.0,,,,,,2026-07-02 12:00:00,2026-07-02 06:57:33,Good
+3014,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,75.0,13.0,6.0,2.8,75.3,1.9,2.6,2026-07-02 14:00:00,2026-07-02 06:57:33,Satisfactory
+3015,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,89.0,89.0,42.0,7.4,7.6,7.3,5.1,2026-07-02 12:00:00,2026-07-02 06:57:33,Satisfactory
+3016,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,51.0,13.0,51.0,10.0,11.7,4.1,1.2,2026-07-02 12:00:00,2026-07-02 06:57:33,Satisfactory
