@@ -2746,3 +2746,23 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 3098,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,59.0,59.0,22.0,19.2,39.0,3.7,2.6,2026-07-03 00:00:00,2026-07-02 17:22:30,Satisfactory
 3099,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,149.0,149.0,120.0,11.4,2.6,8.9,3.9,2026-07-02 22:00:00,2026-07-02 17:22:30,Moderate
 3100,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,153.0,153.0,118.0,7.2,7.1,4.8,1.3,2026-07-02 22:00:00,2026-07-02 17:22:30,Moderate
+3101,New Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.6139,77.209,55.0,55.0,51.0,19.3,0.8,5.5,2.8,2026-07-03 00:00:00,2026-07-02 19:03:55,Satisfactory
+3102,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,112.0,112.0,95.0,12.0,3.9,9.8,11.3,2026-07-03 00:00:00,2026-07-02 19:03:55,Moderate
+3103,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,109.0,109.0,65.0,7.4,5.0,7.3,3.4,2026-07-03 00:00:00,2026-07-02 19:03:55,Moderate
+3104,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,83.0,83.0,55.0,4.3,6.8,3.7,1.1,2026-07-03 00:00:00,2026-07-02 19:03:55,Satisfactory
+3105,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,122.0,122.0,95.0,7.8,3.6,7.5,4.0,2026-07-03 00:00:00,2026-07-02 19:03:55,Moderate
+3106,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,160.0,160.0,75.0,19.8,1.3,9.3,5.3,2026-07-03 00:00:00,2026-07-02 19:03:55,Moderate
+3107,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,160.0,160.0,75.0,19.8,1.3,9.3,5.3,2026-07-03 00:00:00,2026-07-02 19:03:55,Moderate
+3108,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,160.0,160.0,75.0,19.8,1.3,9.3,5.3,2026-07-03 00:00:00,2026-07-02 19:03:55,Moderate
+3109,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,160.0,160.0,75.0,19.8,1.3,9.3,5.3,2026-07-03 00:00:00,2026-07-02 19:03:55,Moderate
+3110,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,160.0,160.0,75.0,19.8,1.3,9.3,5.3,2026-07-03 00:00:00,2026-07-02 19:03:55,Moderate
+3111,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,83.0,83.0,55.0,4.3,6.8,3.7,1.1,2026-07-03 00:00:00,2026-07-02 19:03:55,Satisfactory
+3112,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,83.0,83.0,55.0,4.3,6.8,3.7,1.1,2026-07-03 00:00:00,2026-07-02 19:03:55,Satisfactory
+3113,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,83.0,83.0,55.0,4.3,6.8,3.7,1.1,2026-07-03 00:00:00,2026-07-02 19:03:55,Satisfactory
+3114,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,83.0,83.0,55.0,4.3,6.8,3.7,1.1,2026-07-03 00:00:00,2026-07-02 19:03:55,Satisfactory
+3115,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,83.0,83.0,55.0,4.3,6.8,3.7,1.1,2026-07-03 00:00:00,2026-07-02 19:03:55,Satisfactory
+3116,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,124.0,124.0,65.0,7.6,5.2,5.5,1.5,2026-07-03 00:00:00,2026-07-02 19:03:55,Moderate
+3117,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,83.0,83.0,55.0,4.3,6.8,3.7,1.1,2026-07-03 00:00:00,2026-07-02 19:03:55,Satisfactory
+3119,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,38.0,30.0,18.0,10.6,38.2,3.7,2.1,2026-07-03 02:00:00,2026-07-02 19:03:55,Good
+3120,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,122.0,122.0,95.0,7.8,3.6,7.5,4.0,2026-07-03 00:00:00,2026-07-02 19:03:55,Moderate
+3121,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,83.0,83.0,55.0,4.3,6.8,3.7,1.1,2026-07-03 00:00:00,2026-07-02 19:03:55,Satisfactory
