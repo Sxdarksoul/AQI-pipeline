@@ -3038,3 +3038,24 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 3392,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,53.0,25.0,9.0,2.3,52.6,1.9,2.6,2026-07-04 03:00:00,2026-07-03 20:09:00,Satisfactory
 3393,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,161.0,161.0,128.0,12.6,2.9,9.3,3.3,2026-07-04 01:00:00,2026-07-03 20:09:00,Moderate
 3394,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,164.0,164.0,120.0,15.1,3.4,7.1,1.7,2026-07-04 01:00:00,2026-07-03 20:09:00,Moderate
+3395,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,97.0,97.0,85.0,5.2,2.2,12.7,9.6,2026-07-04 03:00:00,2026-07-03 21:52:39,Satisfactory
+3396,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,158.0,158.0,118.0,20.9,1.7,10.2,7.1,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3397,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,137.0,137.0,91.0,16.3,1.3,7.1,5.1,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3398,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,156.0,156.0,104.0,11.3,3.7,5.5,1.6,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3399,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,174.0,174.0,133.0,10.5,2.7,9.5,3.5,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3400,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,154.0,154.0,68.0,17.1,1.4,7.3,2.2,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3401,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,154.0,154.0,68.0,17.1,1.4,7.3,2.2,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3402,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,154.0,154.0,68.0,17.1,1.4,7.3,2.2,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3403,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,154.0,154.0,68.0,17.1,1.4,7.3,2.2,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3404,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,154.0,154.0,68.0,17.1,1.4,7.3,2.2,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3405,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,156.0,156.0,104.0,11.3,3.7,5.5,1.6,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3406,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,156.0,156.0,104.0,11.3,3.7,5.5,1.6,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3407,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,156.0,156.0,104.0,11.3,3.7,5.5,1.6,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3408,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,156.0,156.0,104.0,11.3,3.7,5.5,1.6,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3409,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,156.0,156.0,104.0,11.3,3.7,5.5,1.6,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3410,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,168.0,168.0,116.0,11.3,1.6,7.3,2.4,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3411,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,156.0,156.0,104.0,11.3,3.7,5.5,1.6,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3412,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,56.0,56.0,,,,,,2026-07-04 04:00:00,2026-07-03 21:52:39,Satisfactory
+3413,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,48.0,25.0,9.0,2.3,48.0,1.9,2.1,2026-07-04 05:00:00,2026-07-03 21:52:39,Good
+3414,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,174.0,174.0,133.0,10.5,2.7,9.5,3.5,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
+3415,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,156.0,156.0,104.0,11.3,3.7,5.5,1.6,2026-07-04 03:00:00,2026-07-03 21:52:39,Moderate
