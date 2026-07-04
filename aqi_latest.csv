@@ -1,31 +1,31 @@
 city,state,station,latitude,longitude,CITY_AQI,pm25,pm10,no2,o3,co,so2,HEALTH_RISK_TIER,last_update,fetched_at
-Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,69.0,69.0,50.0,8.3,10.2,5.0,0.4,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
-Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,97.0,97.0,47.0,6.9,4.7,7.1,2.5,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
-Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,69.0,69.0,50.0,8.3,10.2,5.0,0.4,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
-Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,69.0,69.0,50.0,8.3,10.2,5.0,0.4,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
+Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,78.0,78.0,57.0,7.5,13.5,4.9,0.4,Satisfactory,2026-07-04 17:00:00,2026-07-04 11:59:10
+Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,124.0,124.0,50.0,7.7,7.4,6.4,2.5,Moderate,2026-07-04 17:00:00,2026-07-04 11:59:10
+Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,78.0,78.0,57.0,7.5,13.5,4.9,0.4,Satisfactory,2026-07-04 17:00:00,2026-07-04 11:59:10
+Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,78.0,78.0,57.0,7.5,13.5,4.9,0.4,Satisfactory,2026-07-04 17:00:00,2026-07-04 11:59:10
 Bhubaneswar,Odisha,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",20.2961,85.8245,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
-Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,137.0,137.0,63.0,5.9,2.6,5.5,4.8,Moderate,2026-07-04 15:00:00,2026-07-04 10:46:12
+Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,142.0,142.0,73.0,10.9,3.7,5.5,3.6,Moderate,2026-07-04 17:00:00,2026-07-04 11:59:10
 Chennai,Tamil Nadu,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",13.0827,80.2707,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
-Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,69.0,69.0,50.0,8.3,10.2,5.0,0.4,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
-Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,68.0,68.0,21.0,10.4,3.7,5.0,2.4,Satisfactory,2026-07-04 16:00:00,2026-07-04 10:46:12
-Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,91.0,91.0,89.0,6.9,6.5,9.8,3.3,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
-Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,63.0,13.0,8.0,1.9,63.0,1.9,2.6,Satisfactory,2026-07-04 18:00:00,2026-07-04 10:46:12
-Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,69.0,69.0,50.0,8.3,10.2,5.0,0.4,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
-Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,69.0,69.0,50.0,8.3,10.2,5.0,0.4,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
-Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,97.0,97.0,47.0,6.9,4.7,7.1,2.5,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
+Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,78.0,78.0,57.0,7.5,13.5,4.9,0.4,Satisfactory,2026-07-04 17:00:00,2026-07-04 11:59:10
+Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,109.0,109.0,78.0,10.1,5.3,6.1,2.9,Moderate,2026-07-04 17:00:00,2026-07-04 11:59:10
+Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,112.0,112.0,52.0,11.0,6.4,9.8,8.0,Moderate,2026-07-04 16:00:00,2026-07-04 11:59:10
+Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,59.0,50.0,8.0,3.7,59.1,1.9,2.6,Satisfactory,2026-07-04 19:00:00,2026-07-04 11:59:10
+Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,78.0,78.0,57.0,7.5,13.5,4.9,0.4,Satisfactory,2026-07-04 17:00:00,2026-07-04 11:59:10
+Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,78.0,78.0,57.0,7.5,13.5,4.9,0.4,Satisfactory,2026-07-04 17:00:00,2026-07-04 11:59:10
+Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,124.0,124.0,50.0,7.7,7.4,6.4,2.5,Moderate,2026-07-04 17:00:00,2026-07-04 11:59:10
 Kanpur,Uttar Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",26.4499,80.3319,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
 Kolkata,West Bengal,"Natural Resources and Environment Office, Chiangrai, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดเชียงราย)",22.5726,88.3639,62.0,62.0,36.0,0.6,12.7,0.1,10.2,Satisfactory,2026-06-25 23:00:00,2026-06-25 22:13:21
 Lucknow,Uttar Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",26.8467,80.9462,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
-Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,97.0,97.0,47.0,6.9,4.7,7.1,2.5,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
-Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,69.0,69.0,50.0,8.3,10.2,5.0,0.4,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
-New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,117.0,117.0,37.0,1.8,9.8,13.1,8.7,Moderate,2026-07-04 14:00:00,2026-07-04 10:46:12
-Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,129.0,129.0,71.0,8.4,9.4,6.8,4.1,Moderate,2026-07-04 15:00:00,2026-07-04 10:46:12
-Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,69.0,69.0,50.0,8.3,10.2,5.0,0.4,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
+Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,124.0,124.0,50.0,7.7,7.4,6.4,2.5,Moderate,2026-07-04 17:00:00,2026-07-04 11:59:10
+Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,78.0,78.0,57.0,7.5,13.5,4.9,0.4,Satisfactory,2026-07-04 17:00:00,2026-07-04 11:59:10
+New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,70.0,62.0,70.0,3.1,14.5,14.7,10.7,Satisfactory,2026-07-04 17:00:00,2026-07-04 11:59:10
+Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,114.0,114.0,55.0,6.9,12.3,6.1,4.2,Moderate,2026-07-04 17:00:00,2026-07-04 11:59:10
+Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,78.0,78.0,57.0,7.5,13.5,4.9,0.4,Satisfactory,2026-07-04 17:00:00,2026-07-04 11:59:10
 Patna,Bihar,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",25.5941,85.1376,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
-Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,97.0,97.0,47.0,6.9,4.7,7.1,2.5,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
+Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,124.0,124.0,50.0,7.7,7.4,6.4,2.5,Moderate,2026-07-04 17:00:00,2026-07-04 11:59:10
 Ranchi,Jharkhand,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",23.3441,85.3096,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
-Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,137.0,137.0,63.0,5.9,2.6,5.5,4.8,Moderate,2026-07-04 15:00:00,2026-07-04 10:46:12
-Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,97.0,97.0,47.0,6.9,4.7,7.1,2.5,Satisfactory,2026-07-04 15:00:00,2026-07-04 10:46:12
-Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,8.0,8.0,154.0,19.8,11.0,10.9,18.3,Good,2026-07-04 17:00:00,2026-07-04 10:46:12
+Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,142.0,142.0,73.0,10.9,3.7,5.5,3.6,Moderate,2026-07-04 17:00:00,2026-07-04 11:59:10
+Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,124.0,124.0,50.0,7.7,7.4,6.4,2.5,Moderate,2026-07-04 17:00:00,2026-07-04 11:59:10
+Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,7.0,7.0,154.0,19.8,11.0,10.9,18.3,Good,2026-07-04 18:00:00,2026-07-04 11:59:10
 Varanasi,Uttar Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",25.3176,82.9739,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
 Visakhapatnam,Andhra Pradesh,"ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",17.6868,83.2185,132.0,132.0,114.0,36.2,3.8,14.5,4.1,Moderate,2026-06-25 22:00:00,2026-06-26 00:01:36
