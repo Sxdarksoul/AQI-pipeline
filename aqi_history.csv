@@ -3251,3 +3251,24 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 3620,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,168.0,168.0,109.0,11.4,2.4,8.6,2.5,2026-07-04 21:00:00,2026-07-04 15:52:15,Moderate
 3622,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,37.0,37.0,,,,,,2026-07-04 22:00:00,2026-07-04 15:52:15,Good
 3623,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,46.0,25.0,16.0,10.6,46.3,3.7,3.1,2026-07-04 23:00:00,2026-07-04 15:52:15,Good
+3626,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,154.0,154.0,116.0,5.7,4.6,17.4,10.5,2026-07-04 21:00:00,2026-07-04 16:47:07,Moderate
+3627,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,158.0,158.0,128.0,17.4,4.4,18.1,8.2,2026-07-04 21:00:00,2026-07-04 16:47:07,Moderate
+3628,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,159.0,159.0,99.0,11.3,5.5,8.9,4.1,2026-07-04 21:00:00,2026-07-04 16:47:07,Moderate
+3629,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,157.0,157.0,117.0,23.7,2.5,12.7,0.7,2026-07-04 22:00:00,2026-07-04 16:47:07,Moderate
+3630,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,168.0,168.0,116.0,11.0,2.2,18.3,3.1,2026-07-04 21:00:00,2026-07-04 16:47:07,Moderate
+3631,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,169.0,169.0,69.0,11.5,4.8,12.4,3.2,2026-07-04 21:00:00,2026-07-04 16:47:07,Moderate
+3632,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,169.0,169.0,69.0,11.5,4.8,12.4,3.2,2026-07-04 21:00:00,2026-07-04 16:47:07,Moderate
+3633,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,169.0,169.0,69.0,11.5,4.8,12.4,3.2,2026-07-04 21:00:00,2026-07-04 16:47:07,Moderate
+3634,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,169.0,169.0,69.0,11.5,4.8,12.4,3.2,2026-07-04 21:00:00,2026-07-04 16:47:07,Moderate
+3635,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,169.0,169.0,69.0,11.5,4.8,12.4,3.2,2026-07-04 21:00:00,2026-07-04 16:47:07,Moderate
+3636,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,157.0,157.0,117.0,23.7,2.5,12.7,0.7,2026-07-04 22:00:00,2026-07-04 16:47:07,Moderate
+3637,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,157.0,157.0,117.0,23.7,2.5,12.7,0.7,2026-07-04 22:00:00,2026-07-04 16:47:07,Moderate
+3638,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,157.0,157.0,117.0,23.7,2.5,12.7,0.7,2026-07-04 22:00:00,2026-07-04 16:47:07,Moderate
+3639,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,157.0,157.0,117.0,23.7,2.5,12.7,0.7,2026-07-04 22:00:00,2026-07-04 16:47:07,Moderate
+3640,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,157.0,157.0,117.0,23.7,2.5,12.7,0.7,2026-07-04 22:00:00,2026-07-04 16:47:07,Moderate
+3641,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,175.0,175.0,119.0,11.8,1.9,10.0,2.5,2026-07-04 22:00:00,2026-07-04 16:47:07,Moderate
+3642,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,157.0,157.0,117.0,23.7,2.5,12.7,0.7,2026-07-04 22:00:00,2026-07-04 16:47:07,Moderate
+3643,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,22.0,22.0,,,,,,2026-07-04 23:00:00,2026-07-04 16:47:07,Good
+3644,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,47.0,25.0,18.0,6.9,46.8,2.8,3.1,2026-07-05 00:00:00,2026-07-04 16:47:07,Good
+3645,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,168.0,168.0,116.0,11.0,2.2,18.3,3.1,2026-07-04 21:00:00,2026-07-04 16:47:07,Moderate
+3646,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,157.0,157.0,117.0,23.7,2.5,12.7,0.7,2026-07-04 22:00:00,2026-07-04 16:47:07,Moderate
