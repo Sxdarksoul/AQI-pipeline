@@ -3272,3 +3272,23 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 3644,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,47.0,25.0,18.0,6.9,46.8,2.8,3.1,2026-07-05 00:00:00,2026-07-04 16:47:07,Good
 3645,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,168.0,168.0,116.0,11.0,2.2,18.3,3.1,2026-07-04 21:00:00,2026-07-04 16:47:07,Moderate
 3646,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,157.0,157.0,117.0,23.7,2.5,12.7,0.7,2026-07-04 22:00:00,2026-07-04 16:47:07,Moderate
+3647,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,164.0,164.0,116.0,6.4,1.6,19.7,11.9,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3648,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,154.0,154.0,117.0,26.8,2.5,20.4,5.7,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3649,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,167.0,167.0,112.0,17.0,0.8,12.7,4.1,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3650,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,162.0,162.0,143.0,22.8,1.8,11.8,0.7,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3651,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,187.0,187.0,143.0,16.6,2.6,14.1,2.9,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3652,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,160.0,160.0,73.0,13.9,1.9,14.7,2.5,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3653,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,160.0,160.0,73.0,13.9,1.9,14.7,2.5,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3654,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,160.0,160.0,73.0,13.9,1.9,14.7,2.5,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3655,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,160.0,160.0,73.0,13.9,1.9,14.7,2.5,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3656,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,160.0,160.0,73.0,13.9,1.9,14.7,2.5,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3657,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,162.0,162.0,143.0,22.8,1.8,11.8,0.7,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3658,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,162.0,162.0,143.0,22.8,1.8,11.8,0.7,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3659,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,162.0,162.0,143.0,22.8,1.8,11.8,0.7,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3660,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,162.0,162.0,143.0,22.8,1.8,11.8,0.7,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3661,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,162.0,162.0,143.0,22.8,1.8,11.8,0.7,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3662,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,177.0,177.0,120.0,12.0,2.1,10.3,2.8,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3663,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,162.0,162.0,143.0,22.8,1.8,11.8,0.7,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3665,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,47.0,30.0,17.0,2.3,46.8,1.9,2.1,2026-07-05 01:00:00,2026-07-04 17:52:25,Good
+3666,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,187.0,187.0,143.0,16.6,2.6,14.1,2.9,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
+3667,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,162.0,162.0,143.0,22.8,1.8,11.8,0.7,2026-07-04 23:00:00,2026-07-04 17:52:25,Moderate
