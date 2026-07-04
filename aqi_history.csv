@@ -3373,3 +3373,23 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 3749,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,47.0,13.0,8.0,1.4,46.8,1.9,2.1,2026-07-05 06:00:00,2026-07-04 22:43:11,Good
 3750,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,195.0,195.0,156.0,9.0,2.9,7.6,8.1,2026-07-05 04:00:00,2026-07-04 22:43:11,Moderate
 3751,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,173.0,173.0,152.0,22.4,1.6,11.3,1.8,2026-07-05 04:00:00,2026-07-04 22:43:11,Moderate
+3752,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,218.0,218.0,180.0,2.7,1.0,18.7,14.9,2026-07-05 05:00:00,2026-07-04 23:49:28,Poor
+3753,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,195.0,195.0,182.0,19.7,0.9,18.7,13.3,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3754,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,165.0,165.0,110.0,18.5,1.4,10.0,5.1,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3755,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,174.0,174.0,142.0,23.5,1.4,12.1,2.2,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3756,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,185.0,185.0,125.0,11.0,2.6,6.7,7.1,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3757,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,190.0,190.0,107.0,23.2,3.9,18.6,3.1,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3758,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,190.0,190.0,107.0,23.2,3.9,18.6,3.1,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3759,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,190.0,190.0,107.0,23.2,3.9,18.6,3.1,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3760,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,190.0,190.0,107.0,23.2,3.9,18.6,3.1,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3761,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,190.0,190.0,107.0,23.2,3.9,18.6,3.1,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3762,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,174.0,174.0,142.0,23.5,1.4,12.1,2.2,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3763,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,174.0,174.0,142.0,23.5,1.4,12.1,2.2,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3764,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,174.0,174.0,142.0,23.5,1.4,12.1,2.2,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3765,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,174.0,174.0,142.0,23.5,1.4,12.1,2.2,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3766,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,174.0,174.0,142.0,23.5,1.4,12.1,2.2,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3768,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,174.0,174.0,142.0,23.5,1.4,12.1,2.2,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3769,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,20.0,20.0,,,,,,2026-07-05 06:00:00,2026-07-04 23:49:28,Good
+3770,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,47.0,13.0,7.0,1.4,46.8,1.9,2.1,2026-07-05 07:00:00,2026-07-04 23:49:28,Good
+3771,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,185.0,185.0,125.0,11.0,2.6,6.7,7.1,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
+3772,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,174.0,174.0,142.0,23.5,1.4,12.1,2.2,2026-07-05 05:00:00,2026-07-04 23:49:28,Moderate
