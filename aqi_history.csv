@@ -3623,3 +3623,14 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 4010,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,42.0,30.0,8.0,1.9,41.9,1.9,2.6,2026-07-06 04:00:00,2026-07-05 21:46:00,Good
 4011,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,85.0,85.0,56.0,6.1,3.1,7.3,6.4,2026-07-06 02:00:00,2026-07-05 21:46:00,Satisfactory
 4012,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,117.0,117.0,74.0,8.3,2.1,4.6,1.8,2026-07-06 03:00:00,2026-07-05 21:46:00,Moderate
+4015,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,85.0,85.0,49.0,7.1,3.6,5.5,4.2,2026-07-06 04:00:00,2026-07-05 22:44:52,Satisfactory
+4017,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,142.0,142.0,78.0,8.4,2.6,7.0,6.5,2026-07-06 04:00:00,2026-07-05 22:44:52,Moderate
+4018,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,124.0,124.0,60.0,11.5,1.7,8.6,1.9,2026-07-06 04:00:00,2026-07-05 22:44:52,Moderate
+4019,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,124.0,124.0,60.0,11.5,1.7,8.6,1.9,2026-07-06 04:00:00,2026-07-05 22:44:52,Moderate
+4020,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,124.0,124.0,60.0,11.5,1.7,8.6,1.9,2026-07-06 04:00:00,2026-07-05 22:44:52,Moderate
+4021,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,124.0,124.0,60.0,11.5,1.7,8.6,1.9,2026-07-06 04:00:00,2026-07-05 22:44:52,Moderate
+4022,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,124.0,124.0,60.0,11.5,1.7,8.6,1.9,2026-07-06 04:00:00,2026-07-05 22:44:52,Moderate
+4028,Dehradun,Uttarakhand,"Narela, Delhi, Delhi, India",30.3165,78.0322,142.0,142.0,78.0,8.4,2.6,7.0,6.5,2026-07-06 04:00:00,2026-07-05 22:44:52,Moderate
+4030,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,12.0,12.0,,,,,,2026-07-06 04:00:00,2026-07-05 22:44:52,Good
+4031,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,42.0,25.0,9.0,1.4,41.5,1.9,2.6,2026-07-06 05:00:00,2026-07-05 22:44:52,Good
+4032,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,142.0,142.0,78.0,8.4,2.6,7.0,6.5,2026-07-06 04:00:00,2026-07-05 22:44:52,Moderate
