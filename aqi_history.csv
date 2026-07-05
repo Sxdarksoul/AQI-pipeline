@@ -3589,3 +3589,16 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 3968,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,43.0,25.0,7.0,1.9,42.7,1.9,2.1,2026-07-06 02:00:00,2026-07-05 18:54:04,Good
 3969,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,161.0,161.0,96.0,5.8,3.7,8.6,4.6,2026-07-06 00:00:00,2026-07-05 18:54:04,Moderate
 3970,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,77.0,72.0,77.0,14.7,1.4,6.1,1.5,2026-07-06 00:00:00,2026-07-05 18:54:04,Satisfactory
+3971,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,129.0,129.0,110.0,2.9,1.2,24.4,10.0,2026-07-06 01:00:00,2026-07-05 20:04:11,Moderate
+3972,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,74.0,74.0,68.0,15.9,2.7,10.0,9.0,2026-07-06 01:00:00,2026-07-05 20:04:11,Satisfactory
+3973,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,107.0,107.0,67.0,12.8,2.3,8.4,3.3,2026-07-06 01:00:00,2026-07-05 20:04:11,Moderate
+3975,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,152.0,152.0,80.0,4.6,3.2,7.3,6.2,2026-07-06 01:00:00,2026-07-05 20:04:11,Moderate
+3976,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,142.0,142.0,63.0,21.4,1.4,10.9,1.9,2026-07-06 01:00:00,2026-07-05 20:04:11,Moderate
+3977,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,142.0,142.0,63.0,21.4,1.4,10.9,1.9,2026-07-06 01:00:00,2026-07-05 20:04:11,Moderate
+3978,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,142.0,142.0,63.0,21.4,1.4,10.9,1.9,2026-07-06 01:00:00,2026-07-05 20:04:11,Moderate
+3979,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,142.0,142.0,63.0,21.4,1.4,10.9,1.9,2026-07-06 01:00:00,2026-07-05 20:04:11,Moderate
+3980,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,142.0,142.0,63.0,21.4,1.4,10.9,1.9,2026-07-06 01:00:00,2026-07-05 20:04:11,Moderate
+3986,Dehradun,Uttarakhand,"Narela, Delhi, Delhi, India",30.3165,78.0322,152.0,152.0,80.0,4.6,3.2,7.3,6.2,2026-07-06 01:00:00,2026-07-05 20:04:11,Moderate
+3988,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,30.0,30.0,,,,,,2026-07-06 02:00:00,2026-07-05 20:04:11,Good
+3989,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,42.0,25.0,7.0,2.8,41.5,1.9,2.6,2026-07-06 03:00:00,2026-07-05 20:04:11,Good
+3990,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,152.0,152.0,80.0,4.6,3.2,7.3,6.2,2026-07-06 01:00:00,2026-07-05 20:04:11,Moderate
