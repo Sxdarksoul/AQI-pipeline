@@ -3569,3 +3569,23 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 3947,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,46.0,30.0,10.0,2.8,45.5,2.8,3.6,2026-07-06 00:00:00,2026-07-05 17:00:34,Good
 3948,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,151.0,151.0,78.0,7.0,2.3,10.4,4.9,2026-07-05 22:00:00,2026-07-05 17:00:34,Moderate
 3949,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,89.0,89.0,73.0,11.2,3.0,5.5,1.3,2026-07-05 22:00:00,2026-07-05 17:00:34,Satisfactory
+3950,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,95.0,95.0,70.0,3.9,1.1,22.2,16.9,2026-07-06 00:00:00,2026-07-05 18:54:04,Satisfactory
+3951,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,82.0,82.0,76.0,15.5,2.7,11.1,14.0,2026-07-06 00:00:00,2026-07-05 18:54:04,Satisfactory
+3952,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,107.0,107.0,95.0,13.3,2.7,6.4,3.6,2026-07-06 00:00:00,2026-07-05 18:54:04,Moderate
+3953,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,77.0,72.0,77.0,14.7,1.4,6.1,1.5,2026-07-06 00:00:00,2026-07-05 18:54:04,Satisfactory
+3954,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,161.0,161.0,96.0,5.8,3.7,8.6,4.6,2026-07-06 00:00:00,2026-07-05 18:54:04,Moderate
+3955,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,132.0,132.0,70.0,17.9,1.6,22.2,1.2,2026-07-06 00:00:00,2026-07-05 18:54:04,Moderate
+3956,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,132.0,132.0,70.0,17.9,1.6,22.2,1.2,2026-07-06 00:00:00,2026-07-05 18:54:04,Moderate
+3957,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,132.0,132.0,70.0,17.9,1.6,22.2,1.2,2026-07-06 00:00:00,2026-07-05 18:54:04,Moderate
+3958,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,132.0,132.0,70.0,17.9,1.6,22.2,1.2,2026-07-06 00:00:00,2026-07-05 18:54:04,Moderate
+3959,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,132.0,132.0,70.0,17.9,1.6,22.2,1.2,2026-07-06 00:00:00,2026-07-05 18:54:04,Moderate
+3960,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,77.0,72.0,77.0,14.7,1.4,6.1,1.5,2026-07-06 00:00:00,2026-07-05 18:54:04,Satisfactory
+3961,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,77.0,72.0,77.0,14.7,1.4,6.1,1.5,2026-07-06 00:00:00,2026-07-05 18:54:04,Satisfactory
+3962,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,77.0,72.0,77.0,14.7,1.4,6.1,1.5,2026-07-06 00:00:00,2026-07-05 18:54:04,Satisfactory
+3963,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,77.0,72.0,77.0,14.7,1.4,6.1,1.5,2026-07-06 00:00:00,2026-07-05 18:54:04,Satisfactory
+3964,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,77.0,72.0,77.0,14.7,1.4,6.1,1.5,2026-07-06 00:00:00,2026-07-05 18:54:04,Satisfactory
+3965,Dehradun,Uttarakhand,"Narela, Delhi, Delhi, India",30.3165,78.0322,161.0,161.0,96.0,5.8,3.7,8.6,4.6,2026-07-06 00:00:00,2026-07-05 18:54:04,Moderate
+3966,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,77.0,72.0,77.0,14.7,1.4,6.1,1.5,2026-07-06 00:00:00,2026-07-05 18:54:04,Satisfactory
+3968,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,43.0,25.0,7.0,1.9,42.7,1.9,2.1,2026-07-06 02:00:00,2026-07-05 18:54:04,Good
+3969,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,161.0,161.0,96.0,5.8,3.7,8.6,4.6,2026-07-06 00:00:00,2026-07-05 18:54:04,Moderate
+3970,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,77.0,72.0,77.0,14.7,1.4,6.1,1.5,2026-07-06 00:00:00,2026-07-05 18:54:04,Satisfactory
