@@ -4273,3 +4273,15 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 4687,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,16.0,16.0,,,,,,2026-07-09 05:00:00,2026-07-08 22:51:55,Good
 4688,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,33.0,13.0,6.0,1.9,33.3,3.7,2.1,2026-07-09 06:00:00,2026-07-08 22:51:55,Good
 4690,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,16.0,16.0,3.0,3.2,4.9,2.8,3.2,2026-07-09 04:00:00,2026-07-08 22:51:55,Good
+4691,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,6.0,13.0,6.0,0.2,3.9,0.3,4.0,2026-07-09 05:00:00,2026-07-08 23:56:31,Good
+4693,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,5.0,5.0,2.0,6.2,4.5,2.3,5.0,2026-07-09 05:00:00,2026-07-08 23:56:31,Good
+4695,Chandigarh,Chandigarh,"Alipur, Delhi, Delhi, India",30.7333,76.7794,13.0,13.0,23.0,5.2,2.8,4.0,1.7,2026-07-09 05:00:00,2026-07-08 23:56:31,Good
+4696,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,13.0,5.0,13.0,5.3,5.3,6.4,3.3,2026-07-09 05:00:00,2026-07-08 23:56:31,Good
+4697,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,13.0,5.0,13.0,5.3,5.3,6.4,3.3,2026-07-09 05:00:00,2026-07-08 23:56:31,Good
+4698,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,13.0,5.0,13.0,5.3,5.3,6.4,3.3,2026-07-09 05:00:00,2026-07-08 23:56:31,Good
+4699,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,13.0,5.0,13.0,5.3,5.3,6.4,3.3,2026-07-09 05:00:00,2026-07-08 23:56:31,Good
+4700,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,13.0,5.0,13.0,5.3,5.3,6.4,3.3,2026-07-09 05:00:00,2026-07-08 23:56:31,Good
+4706,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,13.0,13.0,23.0,5.2,2.8,4.0,1.7,2026-07-09 05:00:00,2026-07-08 23:56:31,Good
+4708,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,52.0,52.0,,,,,,2026-07-09 06:00:00,2026-07-08 23:56:31,Satisfactory
+4709,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,31.0,13.0,7.0,2.8,31.3,3.7,2.6,2026-07-09 07:00:00,2026-07-08 23:56:31,Good
+4710,Shimla,Himachal Pradesh,"Alipur, Delhi, Delhi, India",31.1048,77.1734,13.0,13.0,23.0,5.2,2.8,4.0,1.7,2026-07-09 05:00:00,2026-07-08 23:56:31,Good
