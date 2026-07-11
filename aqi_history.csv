@@ -4922,3 +4922,9 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 5360,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,31.0,13.0,8.0,5.1,30.9,3.7,2.1,2026-07-12 01:00:00,2026-07-11 17:43:15,Good
 5361,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,308.0,173.0,308.0,12.7,4.9,6.4,7.3,2026-07-11 23:00:00,2026-07-11 17:43:15,Very Poor
 5362,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,171.0,124.0,171.0,5.4,5.2,4.6,3.3,2026-07-11 23:00:00,2026-07-11 17:43:15,Moderate
+5368,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,163.0,139.0,163.0,11.3,8.9,7.7,1.8,2026-07-12 00:00:00,2026-07-11 18:39:42,Moderate
+5369,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,163.0,139.0,163.0,11.3,8.9,7.7,1.8,2026-07-12 00:00:00,2026-07-11 18:39:42,Moderate
+5370,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,163.0,139.0,163.0,11.3,8.9,7.7,1.8,2026-07-12 00:00:00,2026-07-11 18:39:42,Moderate
+5371,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,163.0,139.0,163.0,11.3,8.9,7.7,1.8,2026-07-12 00:00:00,2026-07-11 18:39:42,Moderate
+5372,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,163.0,139.0,163.0,11.3,8.9,7.7,1.8,2026-07-12 00:00:00,2026-07-11 18:39:42,Moderate
+5381,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,29.0,13.0,7.0,6.0,28.5,3.7,2.6,2026-07-12 02:00:00,2026-07-11 18:39:42,Good
