@@ -4825,3 +4825,24 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 5255,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,36.0,13.0,7.0,5.1,35.8,3.7,2.6,2026-07-11 19:00:00,2026-07-11 11:40:27,Good
 5256,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,269.0,137.0,269.0,5.6,6.5,6.4,6.7,2026-07-11 17:00:00,2026-07-11 11:40:27,Poor
 5257,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,240.0,151.0,240.0,4.4,12.3,3.7,2.9,2026-07-11 17:00:00,2026-07-11 11:40:27,Poor
+5258,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,305.0,159.0,305.0,0.9,9.5,16.3,0.6,2026-07-11 18:00:00,2026-07-11 12:43:48,Very Poor
+5259,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,290.0,139.0,290.0,8.5,8.4,6.8,1.3,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
+5260,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,255.0,142.0,255.0,9.1,9.8,5.5,1.9,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
+5261,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,282.0,127.0,282.0,4.4,11.3,4.1,3.2,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
+5262,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,238.0,127.0,238.0,3.1,7.8,8.2,6.2,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
+5263,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,177.0,142.0,177.0,6.8,7.4,5.5,2.0,2026-07-11 18:00:00,2026-07-11 12:43:48,Moderate
+5264,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,177.0,142.0,177.0,6.8,7.4,5.5,2.0,2026-07-11 18:00:00,2026-07-11 12:43:48,Moderate
+5265,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,177.0,142.0,177.0,6.8,7.4,5.5,2.0,2026-07-11 18:00:00,2026-07-11 12:43:48,Moderate
+5266,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,177.0,142.0,177.0,6.8,7.4,5.5,2.0,2026-07-11 18:00:00,2026-07-11 12:43:48,Moderate
+5267,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,177.0,142.0,177.0,6.8,7.4,5.5,2.0,2026-07-11 18:00:00,2026-07-11 12:43:48,Moderate
+5268,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,282.0,127.0,282.0,4.4,11.3,4.1,3.2,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
+5269,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,282.0,127.0,282.0,4.4,11.3,4.1,3.2,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
+5270,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,282.0,127.0,282.0,4.4,11.3,4.1,3.2,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
+5271,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,282.0,127.0,282.0,4.4,11.3,4.1,3.2,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
+5272,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,282.0,127.0,282.0,4.4,11.3,4.1,3.2,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
+5273,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,313.0,153.0,313.0,5.4,3.7,3.7,1.0,2026-07-11 18:00:00,2026-07-11 12:43:48,Very Poor
+5274,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,282.0,127.0,282.0,4.4,11.3,4.1,3.2,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
+5275,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,13.0,13.0,,,,,,2026-07-11 19:00:00,2026-07-11 12:43:48,Good
+5276,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,34.0,25.0,8.0,6.4,33.8,3.7,2.6,2026-07-11 20:00:00,2026-07-11 12:43:48,Good
+5277,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,238.0,127.0,238.0,3.1,7.8,8.2,6.2,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
+5278,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,282.0,127.0,282.0,4.4,11.3,4.1,3.2,2026-07-11 18:00:00,2026-07-11 12:43:48,Poor
