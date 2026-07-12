@@ -5253,3 +5253,15 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 5738,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,23.0,13.0,10.0,3.7,23.2,3.7,2.6,2026-07-13 03:00:00,2026-07-12 19:58:16,Good
 5739,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,343.0,161.0,343.0,7.2,5.5,9.7,6.6,2026-07-13 01:00:00,2026-07-12 19:58:16,Very Poor
 5740,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,184.0,152.0,184.0,11.0,8.6,4.0,3.2,2026-07-13 01:00:00,2026-07-12 19:58:16,Moderate
+5743,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,154.0,127.0,154.0,9.3,3.9,2.8,1.9,2026-07-13 02:00:00,2026-07-12 20:38:47,Moderate
+5744,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,156.0,122.0,156.0,4.8,10.1,1.9,3.0,2026-07-13 02:00:00,2026-07-12 20:38:47,Moderate
+5745,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,173.0,97.0,173.0,3.6,10.5,11.3,6.1,2026-07-13 02:00:00,2026-07-12 20:38:47,Moderate
+5751,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,156.0,122.0,156.0,4.8,10.1,1.9,3.0,2026-07-13 02:00:00,2026-07-12 20:38:47,Moderate
+5752,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,156.0,122.0,156.0,4.8,10.1,1.9,3.0,2026-07-13 02:00:00,2026-07-12 20:38:47,Moderate
+5753,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,156.0,122.0,156.0,4.8,10.1,1.9,3.0,2026-07-13 02:00:00,2026-07-12 20:38:47,Moderate
+5754,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,156.0,122.0,156.0,4.8,10.1,1.9,3.0,2026-07-13 02:00:00,2026-07-12 20:38:47,Moderate
+5755,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,156.0,122.0,156.0,4.8,10.1,1.9,3.0,2026-07-13 02:00:00,2026-07-12 20:38:47,Moderate
+5756,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,259.0,153.0,259.0,6.4,2.3,4.0,2.1,2026-07-13 02:00:00,2026-07-12 20:38:47,Poor
+5757,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,156.0,122.0,156.0,4.8,10.1,1.9,3.0,2026-07-13 02:00:00,2026-07-12 20:38:47,Moderate
+5760,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,173.0,97.0,173.0,3.6,10.5,11.3,6.1,2026-07-13 02:00:00,2026-07-12 20:38:47,Moderate
+5761,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,156.0,122.0,156.0,4.8,10.1,1.9,3.0,2026-07-13 02:00:00,2026-07-12 20:38:47,Moderate
