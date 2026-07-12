@@ -5286,3 +5286,10 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 5780,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,24.0,13.0,7.0,2.8,24.4,3.7,2.6,2026-07-13 05:00:00,2026-07-12 21:36:21,Good
 5781,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,100.0,72.0,100.0,3.4,12.2,12.1,6.2,2026-07-13 03:00:00,2026-07-12 21:36:21,Satisfactory
 5782,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,83.0,68.0,83.0,6.6,7.8,1.9,3.6,2026-07-13 03:00:00,2026-07-12 21:36:21,Satisfactory
+5788,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,67.0,63.0,67.0,7.3,3.9,5.5,2.5,2026-07-13 04:00:00,2026-07-12 22:34:21,Satisfactory
+5789,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,67.0,63.0,67.0,7.3,3.9,5.5,2.5,2026-07-13 04:00:00,2026-07-12 22:34:21,Satisfactory
+5790,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,67.0,63.0,67.0,7.3,3.9,5.5,2.5,2026-07-13 04:00:00,2026-07-12 22:34:21,Satisfactory
+5791,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,67.0,63.0,67.0,7.3,3.9,5.5,2.5,2026-07-13 04:00:00,2026-07-12 22:34:21,Satisfactory
+5792,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,67.0,63.0,67.0,7.3,3.9,5.5,2.5,2026-07-13 04:00:00,2026-07-12 22:34:21,Satisfactory
+5800,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,25.0,25.0,,,,,,2026-07-13 05:00:00,2026-07-12 22:34:21,Good
+5801,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,25.0,13.0,6.0,2.8,24.8,3.7,2.6,2026-07-13 06:00:00,2026-07-12 22:34:21,Good
