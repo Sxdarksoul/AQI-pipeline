@@ -5115,3 +5115,24 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 5591,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,40.0,38.0,8.0,4.2,39.8,3.7,2.6,2026-07-12 18:00:00,2026-07-12 11:04:38,Good
 5592,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,519.0,162.0,519.0,4.2,6.6,5.7,6.3,2026-07-12 16:00:00,2026-07-12 11:04:38,Severe
 5593,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,434.0,153.0,434.0,6.3,14.1,3.2,2.5,2026-07-12 16:00:00,2026-07-12 11:04:38,Severe
+5594,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,574.0,165.0,574.0,1.2,8.3,16.8,0.6,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5595,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,456.0,157.0,456.0,6.3,7.6,5.5,5.3,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5596,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,411.0,152.0,411.0,7.4,9.5,3.1,1.8,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5597,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,416.0,160.0,416.0,8.4,10.1,4.6,3.2,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5598,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,509.0,158.0,509.0,3.4,8.2,4.6,6.0,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5599,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,401.0,160.0,401.0,5.7,7.8,5.5,0.8,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5600,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,401.0,160.0,401.0,5.7,7.8,5.5,0.8,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5601,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,401.0,160.0,401.0,5.7,7.8,5.5,0.8,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5602,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,401.0,160.0,401.0,5.7,7.8,5.5,0.8,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5603,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,401.0,160.0,401.0,5.7,7.8,5.5,0.8,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5604,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,416.0,160.0,416.0,8.4,10.1,4.6,3.2,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5605,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,416.0,160.0,416.0,8.4,10.1,4.6,3.2,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5606,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,416.0,160.0,416.0,8.4,10.1,4.6,3.2,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5607,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,416.0,160.0,416.0,8.4,10.1,4.6,3.2,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5608,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,416.0,160.0,416.0,8.4,10.1,4.6,3.2,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5609,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,590.0,169.0,590.0,4.8,3.8,2.8,0.8,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5610,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,416.0,160.0,416.0,8.4,10.1,4.6,3.2,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5611,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,5.0,5.0,,,,,,2026-07-12 19:00:00,2026-07-12 12:45:14,Good
+5612,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,32.0,25.0,9.0,5.5,31.7,2.8,2.6,2026-07-12 20:00:00,2026-07-12 12:45:14,Good
+5613,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,509.0,158.0,509.0,3.4,8.2,4.6,6.0,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
+5614,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,416.0,160.0,416.0,8.4,10.1,4.6,3.2,2026-07-12 18:00:00,2026-07-12 12:45:14,Severe
