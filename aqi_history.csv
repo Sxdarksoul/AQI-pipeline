@@ -5759,3 +5759,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 6286,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,20.0,13.0,6.0,6.0,20.4,4.6,2.6,2026-07-15 06:00:00,2026-07-14 22:42:48,Good
 6287,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,76.0,76.0,55.0,3.5,5.1,7.1,5.2,2026-07-15 04:00:00,2026-07-14 22:42:48,Satisfactory
 6288,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,70.0,63.0,70.0,10.7,8.2,2.8,4.0,2026-07-15 04:00:00,2026-07-14 22:42:48,Satisfactory
+6304,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,32.0,32.0,,,,,,2026-07-15 05:00:00,2026-07-14 23:39:03,Good
