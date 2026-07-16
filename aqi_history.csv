@@ -6168,3 +6168,5 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 6817,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,23.0,23.0,,,,,,2026-07-17 04:00:00,2026-07-16 22:44:07,Good
 6819,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,161.0,161.0,142.0,7.5,2.7,7.9,6.9,2026-07-17 04:00:00,2026-07-16 22:44:07,Moderate
 6820,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,136.0,114.0,136.0,12.1,7.6,2.5,2.6,2026-07-17 04:00:00,2026-07-16 22:44:07,Moderate
+6836,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,34.0,34.0,,,,,,2026-07-17 05:00:00,2026-07-16 23:44:31,Good
+6837,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,23.0,13.0,6.0,4.2,23.2,1.0,2.1,2026-07-17 06:00:00,2026-07-16 23:44:31,Good
