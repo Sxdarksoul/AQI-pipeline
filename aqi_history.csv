@@ -6170,3 +6170,13 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 6820,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,136.0,114.0,136.0,12.1,7.6,2.5,2.6,2026-07-17 04:00:00,2026-07-16 22:44:07,Moderate
 6836,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,34.0,34.0,,,,,,2026-07-17 05:00:00,2026-07-16 23:44:31,Good
 6837,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,23.0,13.0,6.0,4.2,23.2,1.0,2.1,2026-07-17 06:00:00,2026-07-16 23:44:31,Good
+6843,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,102.0,64.0,102.0,8.8,6.3,1.9,2.1,2026-07-17 06:00:00,2026-07-17 01:17:56,Moderate
+6844,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,164.0,164.0,151.0,7.4,1.3,7.9,7.1,2026-07-17 06:00:00,2026-07-17 01:17:56,Moderate
+6850,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,102.0,64.0,102.0,8.8,6.3,1.9,2.1,2026-07-17 06:00:00,2026-07-17 01:17:56,Moderate
+6851,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,102.0,64.0,102.0,8.8,6.3,1.9,2.1,2026-07-17 06:00:00,2026-07-17 01:17:56,Moderate
+6852,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,102.0,64.0,102.0,8.8,6.3,1.9,2.1,2026-07-17 06:00:00,2026-07-17 01:17:56,Moderate
+6854,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,102.0,64.0,102.0,8.8,6.3,1.9,2.1,2026-07-17 06:00:00,2026-07-17 01:17:56,Moderate
+6855,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,39.0,39.0,,,,,,2026-07-17 07:00:00,2026-07-17 01:17:56,Good
+6856,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,25.0,25.0,6.0,7.8,18.7,1.9,2.6,2026-07-17 08:00:00,2026-07-17 01:17:56,Good
+6857,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,164.0,164.0,151.0,7.4,1.3,7.9,7.1,2026-07-17 06:00:00,2026-07-17 01:17:56,Moderate
+6858,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,102.0,64.0,102.0,8.8,6.3,1.9,2.1,2026-07-17 06:00:00,2026-07-17 01:17:56,Moderate
