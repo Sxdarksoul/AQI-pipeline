@@ -1,31 +1,31 @@
 city,state,station,latitude,longitude,CITY_AQI,pm25,pm10,no2,o3,co,so2,HEALTH_RISK_TIER,last_update,fetched_at
-Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,126.0,93.0,126.0,5.6,19.4,2.8,3.5,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
-Ahmedabad,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",23.0225,72.5714,131.0,87.0,131.0,10.1,10.3,8.6,3.0,Moderate,2026-07-17 15:00:00,2026-07-17 09:42:06
-Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,126.0,93.0,126.0,5.6,19.4,2.8,3.5,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
-Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,126.0,93.0,126.0,5.6,19.4,2.8,3.5,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
+Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,121.0,76.0,121.0,10.2,12.9,4.0,3.4,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
+Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,87.0,76.0,87.0,4.6,9.0,4.1,8.1,Satisfactory,2026-07-17 16:00:00,2026-07-17 11:11:21
+Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,121.0,76.0,121.0,10.2,12.9,4.0,3.4,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
+Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,121.0,76.0,121.0,10.2,12.9,4.0,3.4,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
 Bhubaneswar,Odisha,"District radiation station, Lhasa (拉萨区辐射站)",20.2961,85.8245,45.0,13.0,9.0,4.2,45.1,1.9,3.6,Good,2026-07-06 13:00:00,2026-07-06 06:13:04
-Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,130.0,102.0,130.0,4.0,16.4,10.9,8.8,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
+Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,120.0,109.0,120.0,7.4,14.6,4.6,7.1,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
 Chennai,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",13.0827,80.2707,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
-Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,126.0,93.0,126.0,5.6,19.4,2.8,3.5,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
-Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,127.0,113.0,127.0,16.1,6.2,6.4,5.0,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
-Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,131.0,87.0,131.0,10.1,10.3,8.6,3.0,Moderate,2026-07-17 15:00:00,2026-07-17 09:42:06
-Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,47.0,13.0,6.0,3.7,46.8,1.0,2.1,Good,2026-07-17 16:00:00,2026-07-17 09:42:06
+Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,121.0,76.0,121.0,10.2,12.9,4.0,3.4,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
+Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,129.0,129.0,123.0,19.6,3.2,2.8,2.9,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
+Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,136.0,89.0,136.0,12.4,9.0,6.6,3.0,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
+Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,35.0,25.0,8.0,3.2,34.6,1.0,2.6,Good,2026-07-17 18:00:00,2026-07-17 11:11:21
 Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,120.0,104.0,120.0,4.5,15.3,3.0,3.5,Moderate,2026-07-13 16:00:00,2026-07-13 11:46:35
-Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,126.0,93.0,126.0,5.6,19.4,2.8,3.5,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
-Jaipur,Rajasthan,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",26.9124,75.7873,131.0,87.0,131.0,10.1,10.3,8.6,3.0,Moderate,2026-07-17 15:00:00,2026-07-17 09:42:06
+Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,121.0,76.0,121.0,10.2,12.9,4.0,3.4,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
+Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,87.0,76.0,87.0,4.6,9.0,4.1,8.1,Satisfactory,2026-07-17 16:00:00,2026-07-17 11:11:21
 Kanpur,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.4499,80.3319,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
 Kolkata,West Bengal,"District radiation station, Lhasa (拉萨区辐射站)",22.5726,88.3639,45.0,13.0,9.0,4.2,45.1,1.9,3.6,Good,2026-07-06 13:00:00,2026-07-06 06:13:04
 Lucknow,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.8467,80.9462,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
-Mumbai,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",19.076,72.8777,131.0,87.0,131.0,10.1,10.3,8.6,3.0,Moderate,2026-07-17 15:00:00,2026-07-17 09:42:06
+Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,87.0,76.0,87.0,4.6,9.0,4.1,8.1,Satisfactory,2026-07-17 16:00:00,2026-07-17 11:11:21
 Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,120.0,104.0,120.0,4.5,15.3,3.0,3.5,Moderate,2026-07-13 16:00:00,2026-07-13 11:46:35
-New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,167.0,167.0,99.0,9.8,13.5,12.7,0.8,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
-Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,117.0,102.0,117.0,7.8,39.2,5.5,2.7,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
-Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,126.0,93.0,126.0,5.6,19.4,2.8,3.5,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
+New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,111.0,86.0,111.0,9.8,13.5,10.2,0.8,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
+Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,120.0,99.0,120.0,11.6,22.1,5.9,3.5,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
+Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,121.0,76.0,121.0,10.2,12.9,4.0,3.4,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
 Patna,Bihar,"District radiation station, Lhasa (拉萨区辐射站)",25.5941,85.1376,45.0,13.0,9.0,4.2,45.1,1.9,3.6,Good,2026-07-06 13:00:00,2026-07-06 06:13:04
-Pune,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",18.5204,73.8567,126.0,93.0,126.0,5.6,19.4,2.8,3.5,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
+Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,87.0,76.0,87.0,4.6,9.0,4.1,8.1,Satisfactory,2026-07-17 16:00:00,2026-07-17 11:11:21
 Ranchi,Jharkhand,"District radiation station, Lhasa (拉萨区辐射站)",23.3441,85.3096,45.0,13.0,9.0,4.2,45.1,1.9,3.6,Good,2026-07-06 13:00:00,2026-07-06 06:13:04
-Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,130.0,102.0,130.0,4.0,16.4,10.9,8.8,Moderate,2026-07-17 14:00:00,2026-07-17 09:42:06
-Surat,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",21.1702,72.8311,131.0,87.0,131.0,10.1,10.3,8.6,3.0,Moderate,2026-07-17 15:00:00,2026-07-17 09:42:06
-Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,31.0,31.0,100.0,10.8,5.8,3.9,3.6,Good,2026-07-17 15:00:00,2026-07-17 09:42:06
+Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,120.0,109.0,120.0,7.4,14.6,4.6,7.1,Moderate,2026-07-17 16:00:00,2026-07-17 11:11:21
+Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,87.0,76.0,87.0,4.6,9.0,4.1,8.1,Satisfactory,2026-07-17 16:00:00,2026-07-17 11:11:21
+Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,27.0,27.0,100.0,10.8,5.8,3.9,3.6,Good,2026-07-17 17:00:00,2026-07-17 11:11:21
 Varanasi,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.3176,82.9739,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
 Visakhapatnam,Andhra Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.6868,83.2185,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
