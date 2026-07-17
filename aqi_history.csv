@@ -6358,3 +6358,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 7046,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,35.0,13.0,6.0,2.8,35.4,1.0,2.1,2026-07-18 02:00:00,2026-07-17 19:54:36,Good
 7047,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,249.0,175.0,249.0,13.2,2.9,12.7,5.1,2026-07-18 01:00:00,2026-07-17 19:54:36,Poor
 7048,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,163.0,163.0,148.0,15.7,4.0,7.3,2.2,2026-07-18 01:00:00,2026-07-17 19:54:36,Moderate
+7065,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,13.0,6.0,5.1,30.1,1.0,2.1,2026-07-18 03:00:00,2026-07-17 20:39:42,Good
