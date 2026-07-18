@@ -6647,3 +6647,14 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 7381,Surat,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",21.1702,72.8311,175.0,139.0,175.0,23.6,2.2,8.5,4.9,2026-07-19 02:00:00,2026-07-18 20:37:42,Moderate
 7388,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,25.0,12.0,4.6,30.1,1.0,2.1,2026-07-19 03:00:00,2026-07-18 20:37:42,Good
 7389,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,193.0,158.0,193.0,18.8,4.0,10.9,5.7,2026-07-19 02:00:00,2026-07-18 20:37:42,Moderate
+7391,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,100.0,85.0,100.0,22.5,0.8,62.0,8.4,2026-07-19 02:00:00,2026-07-18 21:37:14,Satisfactory
+7393,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,226.0,170.0,226.0,14.8,1.8,3.4,2.8,2026-07-19 02:00:00,2026-07-18 21:37:14,Poor
+7394,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,180.0,180.0,164.0,13.9,2.7,6.6,3.6,2026-07-19 02:00:00,2026-07-18 21:37:14,Moderate
+7399,Pune,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",18.5204,73.8567,180.0,180.0,164.0,13.9,2.7,6.6,3.6,2026-07-19 02:00:00,2026-07-18 21:37:14,Moderate
+7401,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,180.0,180.0,164.0,13.9,2.7,6.6,3.6,2026-07-19 02:00:00,2026-07-18 21:37:14,Moderate
+7402,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,180.0,180.0,164.0,13.9,2.7,6.6,3.6,2026-07-19 02:00:00,2026-07-18 21:37:14,Moderate
+7403,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,180.0,180.0,164.0,13.9,2.7,6.6,3.6,2026-07-19 02:00:00,2026-07-18 21:37:14,Moderate
+7404,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,177.0,163.0,177.0,21.5,0.8,8.2,2.8,2026-07-19 02:00:00,2026-07-18 21:37:14,Moderate
+7405,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,180.0,180.0,164.0,13.9,2.7,6.6,3.6,2026-07-19 02:00:00,2026-07-18 21:37:14,Moderate
+7406,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,43.0,43.0,,,,,,2026-07-19 02:00:00,2026-07-18 21:37:14,Good
+7409,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,180.0,180.0,164.0,13.9,2.7,6.6,3.6,2026-07-19 02:00:00,2026-07-18 21:37:14,Moderate
