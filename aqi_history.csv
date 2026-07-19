@@ -6903,3 +6903,5 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 7673,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,47.0,46.0,14.0,4.2,46.8,1.9,2.1,2026-07-20 03:00:00,2026-07-19 19:59:27,Good
 7674,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,165.0,165.0,124.0,5.9,3.9,8.4,3.5,2026-07-20 01:00:00,2026-07-19 19:59:27,Moderate
 7675,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,89.0,89.0,75.0,7.7,4.7,5.2,2.3,2026-07-20 01:00:00,2026-07-19 19:59:27,Satisfactory
+7676,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,129.0,129.0,95.0,17.3,210.5,92.9,8.7,2026-07-20 01:00:00,2026-07-19 20:43:36,Moderate
+7691,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,41.0,41.0,,,,,,2026-07-20 02:00:00,2026-07-19 20:43:36,Good
