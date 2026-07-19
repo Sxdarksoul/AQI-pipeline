@@ -6791,3 +6791,16 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 7540,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,70.0,13.0,10.0,1.9,70.1,1.0,2.6,2026-07-19 17:00:00,2026-07-19 11:01:57,Satisfactory
 7541,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,106.0,91.0,106.0,2.1,10.2,6.4,5.8,2026-07-19 16:00:00,2026-07-19 11:01:57,Moderate
 7542,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,151.0,151.0,108.0,4.6,10.5,3.9,2.6,2026-07-19 16:00:00,2026-07-19 11:01:57,Moderate
+7543,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,113.0,74.0,113.0,12.5,73.4,81.7,10.1,2026-07-19 17:00:00,2026-07-19 12:43:05,Moderate
+7544,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,124.0,89.0,124.0,8.8,12.9,5.9,4.7,2026-07-19 17:00:00,2026-07-19 12:43:05,Moderate
+7545,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,115.0,89.0,115.0,7.9,7.6,1.0,4.8,2026-07-19 17:00:00,2026-07-19 12:43:05,Moderate
+7547,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,99.0,91.0,99.0,3.5,13.4,7.5,5.5,2026-07-19 18:00:00,2026-07-19 12:43:05,Satisfactory
+7548,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,76.0,76.0,70.0,4.7,7.1,1.0,8.0,2026-07-19 17:00:00,2026-07-19 12:43:05,Satisfactory
+7549,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,76.0,76.0,70.0,4.7,7.1,1.0,8.0,2026-07-19 17:00:00,2026-07-19 12:43:05,Satisfactory
+7550,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,76.0,76.0,70.0,4.7,7.1,1.0,8.0,2026-07-19 17:00:00,2026-07-19 12:43:05,Satisfactory
+7551,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,76.0,76.0,70.0,4.7,7.1,1.0,8.0,2026-07-19 17:00:00,2026-07-19 12:43:05,Satisfactory
+7552,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,76.0,76.0,70.0,4.7,7.1,1.0,8.0,2026-07-19 17:00:00,2026-07-19 12:43:05,Satisfactory
+7556,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,95.0,95.0,87.0,11.6,4.8,2.8,2.9,2026-07-19 17:00:00,2026-07-19 12:43:05,Satisfactory
+7558,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,28.0,28.0,,,,,,2026-07-19 18:00:00,2026-07-19 12:43:05,Good
+7559,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,70.0,25.0,13.0,1.9,70.1,1.9,2.6,2026-07-19 19:00:00,2026-07-19 12:43:05,Satisfactory
+7560,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,99.0,91.0,99.0,3.5,13.4,7.5,5.5,2026-07-19 18:00:00,2026-07-19 12:43:05,Satisfactory
