@@ -6842,3 +6842,17 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 7597,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,59.0,59.0,15.0,9.6,47.6,2.8,2.6,2026-07-19 22:00:00,2026-07-19 15:42:39,Satisfactory
 7598,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,157.0,157.0,156.0,7.5,5.6,9.5,4.1,2026-07-19 20:00:00,2026-07-19 15:42:39,Moderate
 7599,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,104.0,103.0,104.0,6.7,5.9,5.2,2.6,2026-07-19 20:00:00,2026-07-19 15:42:39,Moderate
+7600,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,127.0,97.0,127.0,17.1,71.4,92.0,10.2,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
+7601,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,140.0,137.0,140.0,12.4,8.3,10.0,5.3,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
+7602,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,152.0,152.0,100.0,7.5,4.2,1.0,5.0,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
+7603,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,154.0,154.0,105.0,6.9,6.5,5.5,2.3,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
+7604,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,155.0,155.0,142.0,9.0,7.1,10.0,4.2,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
+7610,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,154.0,154.0,105.0,6.9,6.5,5.5,2.3,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
+7611,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,154.0,154.0,105.0,6.9,6.5,5.5,2.3,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
+7612,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,154.0,154.0,105.0,6.9,6.5,5.5,2.3,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
+7613,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,160.0,160.0,139.0,19.8,3.3,6.1,2.8,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
+7614,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,154.0,154.0,105.0,6.9,6.5,5.5,2.3,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
+7615,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,48.0,48.0,,,,,,2026-07-19 23:00:00,2026-07-19 16:40:17,Good
+7616,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,78.0,78.0,27.0,17.9,32.1,2.8,2.6,2026-07-20 00:00:00,2026-07-19 16:40:17,Satisfactory
+7617,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,155.0,155.0,142.0,9.0,7.1,10.0,4.2,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
+7618,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,154.0,154.0,105.0,6.9,6.5,5.5,2.3,2026-07-19 21:00:00,2026-07-19 16:40:17,Moderate
