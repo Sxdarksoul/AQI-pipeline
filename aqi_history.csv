@@ -7145,3 +7145,8 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 7938,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,41.0,41.0,,,,,,2026-07-21 04:00:00,2026-07-20 21:54:54,Good
 7939,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,53.0,13.0,6.0,2.3,52.6,1.9,2.1,2026-07-21 04:00:00,2026-07-20 21:54:54,Satisfactory
 7941,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,49.0,31.0,49.0,6.2,3.4,3.7,2.8,2026-07-21 03:00:00,2026-07-20 21:54:54,Good
+7942,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,54.0,38.0,54.0,17.5,1.6,39.8,5.4,2026-07-21 03:00:00,2026-07-20 22:43:08,Satisfactory
+7943,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,53.0,53.0,27.0,15.4,0.5,5.7,4.0,2026-07-21 03:00:00,2026-07-20 22:43:08,Satisfactory
+7946,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,59.0,59.0,44.0,6.2,3.3,3.7,6.0,2026-07-21 03:00:00,2026-07-20 22:43:08,Satisfactory
+7958,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,49.0,25.0,6.0,2.3,49.2,1.9,2.1,2026-07-21 05:00:00,2026-07-20 22:43:08,Good
+7959,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,59.0,59.0,44.0,6.2,3.3,3.7,6.0,2026-07-21 03:00:00,2026-07-20 22:43:08,Satisfactory
