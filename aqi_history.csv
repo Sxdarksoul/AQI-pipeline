@@ -7150,3 +7150,16 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 7946,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,59.0,59.0,44.0,6.2,3.3,3.7,6.0,2026-07-21 03:00:00,2026-07-20 22:43:08,Satisfactory
 7958,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,49.0,25.0,6.0,2.3,49.2,1.9,2.1,2026-07-21 05:00:00,2026-07-20 22:43:08,Good
 7959,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,59.0,59.0,44.0,6.2,3.3,3.7,6.0,2026-07-21 03:00:00,2026-07-20 22:43:08,Satisfactory
+7963,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,59.0,59.0,42.0,8.3,3.3,3.2,3.9,2026-07-21 04:00:00,2026-07-20 23:43:29,Satisfactory
+7964,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,48.0,48.0,40.0,5.9,4.3,3.7,1.7,2026-07-21 04:00:00,2026-07-20 23:43:29,Good
+7966,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,74.0,74.0,23.0,10.5,3.4,8.6,2.7,2026-07-21 04:00:00,2026-07-20 23:43:29,Satisfactory
+7967,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,74.0,74.0,23.0,10.5,3.4,8.6,2.7,2026-07-21 04:00:00,2026-07-20 23:43:29,Satisfactory
+7968,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,74.0,74.0,23.0,10.5,3.4,8.6,2.7,2026-07-21 04:00:00,2026-07-20 23:43:29,Satisfactory
+7969,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,74.0,74.0,23.0,10.5,3.4,8.6,2.7,2026-07-21 04:00:00,2026-07-20 23:43:29,Satisfactory
+7970,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,74.0,74.0,23.0,10.5,3.4,8.6,2.7,2026-07-21 04:00:00,2026-07-20 23:43:29,Satisfactory
+7971,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,48.0,48.0,40.0,5.9,4.3,3.7,1.7,2026-07-21 04:00:00,2026-07-20 23:43:29,Good
+7972,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,48.0,48.0,40.0,5.9,4.3,3.7,1.7,2026-07-21 04:00:00,2026-07-20 23:43:29,Good
+7973,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,48.0,48.0,40.0,5.9,4.3,3.7,1.7,2026-07-21 04:00:00,2026-07-20 23:43:29,Good
+7974,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,79.0,79.0,51.0,13.2,2.7,4.6,3.3,2026-07-21 04:00:00,2026-07-20 23:43:29,Satisfactory
+7975,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,48.0,48.0,40.0,5.9,4.3,3.7,1.7,2026-07-21 04:00:00,2026-07-20 23:43:29,Good
+7979,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,48.0,48.0,40.0,5.9,4.3,3.7,1.7,2026-07-21 04:00:00,2026-07-20 23:43:29,Good
