@@ -1,21 +1,21 @@
 state,STATE_AQI,cities,HEALTH_RISK_TIER
 Andhra Pradesh,81.0,1,Satisfactory
-Assam,49.0,1,Good
+Assam,51.0,1,Satisfactory
 Bihar,45.0,1,Good
-Chandigarh,59.0,1,Satisfactory
-Delhi,54.0,1,Satisfactory
-Gujarat,74.0,2,Satisfactory
-Haryana,53.0,1,Satisfactory
-Himachal Pradesh,59.0,1,Satisfactory
+Chandigarh,74.0,1,Satisfactory
+Delhi,65.0,1,Satisfactory
+Gujarat,124.0,2,Moderate
+Haryana,55.0,1,Satisfactory
+Himachal Pradesh,74.0,1,Satisfactory
 Jharkhand,45.0,1,Good
-Karnataka,48.0,1,Good
-Kerala,41.0,1,Good
-Madhya Pradesh,48.0,2,Good
-Maharashtra,120.0,3,Moderate
+Karnataka,72.0,1,Satisfactory
+Kerala,24.0,1,Good
+Madhya Pradesh,72.0,2,Satisfactory
+Maharashtra,124.0,3,Moderate
 Odisha,45.0,1,Good
-Rajasthan,74.0,1,Satisfactory
+Rajasthan,124.0,1,Moderate
 Tamil Nadu,81.0,3,Satisfactory
 Telangana,120.0,1,Moderate
 Uttar Pradesh,81.0,5,Satisfactory
-Uttarakhand,79.0,1,Satisfactory
+Uttarakhand,53.0,1,Satisfactory
 West Bengal,45.0,1,Good
