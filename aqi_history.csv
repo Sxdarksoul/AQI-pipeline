@@ -8170,3 +8170,8 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 9074,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,52.0,52.0,,,,,,2026-07-29 03:00:00,2026-07-28 21:52:43,Satisfactory
 9075,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,37.0,13.0,8.0,1.4,36.6,1.9,3.1,2026-07-29 05:00:00,2026-07-28 21:52:43,Good
 9076,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,31.0,13.0,8.0,4.6,30.5,2.8,2.6,2026-07-29 05:00:00,2026-07-28 21:52:43,Good
+9077,Chandigarh,Chandigarh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.7333,76.7794,33.0,13.0,6.0,1.0,32.5,1.9,3.1,2026-07-29 06:00:00,2026-07-28 22:46:36,Good
+9078,Dehradun,Uttarakhand,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.3165,78.0322,33.0,13.0,6.0,1.0,32.5,1.9,3.1,2026-07-29 06:00:00,2026-07-28 22:46:36,Good
+9079,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,47.0,47.0,,,,,,2026-07-29 05:00:00,2026-07-28 22:46:36,Good
+9080,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,38.0,30.0,8.0,1.4,37.8,1.9,3.6,2026-07-29 06:00:00,2026-07-28 22:46:36,Good
+9081,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,33.0,13.0,6.0,1.0,32.5,1.9,3.1,2026-07-29 06:00:00,2026-07-28 22:46:36,Good
