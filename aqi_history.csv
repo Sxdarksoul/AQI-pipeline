@@ -8238,3 +8238,6 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 9144,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,52.0,52.0,,,,,,2026-07-30 06:00:00,2026-07-29 23:49:43,Satisfactory
 9145,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,13.0,6.0,1.4,29.7,1.9,3.1,2026-07-30 07:00:00,2026-07-29 23:49:43,Good
 9146,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,44.0,13.0,6.0,0.5,43.5,1.9,3.1,2026-07-30 06:00:00,2026-07-29 23:49:43,Good
+9147,Chandigarh,Chandigarh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.7333,76.7794,43.0,13.0,6.0,0.5,42.7,1.9,3.1,2026-07-30 08:00:00,2026-07-30 01:08:42,Good
+9148,Dehradun,Uttarakhand,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.3165,78.0322,43.0,13.0,6.0,0.5,42.7,1.9,3.1,2026-07-30 08:00:00,2026-07-30 01:08:42,Good
+9151,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,43.0,13.0,6.0,0.5,42.7,1.9,3.1,2026-07-30 08:00:00,2026-07-30 01:08:42,Good
