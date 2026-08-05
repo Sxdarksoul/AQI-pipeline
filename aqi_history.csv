@@ -8630,3 +8630,19 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 9561,Dehradun,Uttarakhand,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.3165,78.0322,30.0,30.0,7.0,16.5,21.2,1.9,3.1,2026-08-06 02:00:00,2026-08-05 19:07:43,Good
 9562,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,44.0,25.0,9.0,3.2,44.3,1.9,2.6,2026-08-06 02:00:00,2026-08-05 19:07:43,Good
 9563,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,30.0,30.0,7.0,16.5,21.2,1.9,3.1,2026-08-06 02:00:00,2026-08-05 19:07:43,Good
+9564,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,107.0,107.0,82.0,6.8,5.7,12.5,,2026-08-06 02:00:00,2026-08-05 20:52:23,Moderate
+9565,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,97.0,97.0,89.0,10.7,1.6,5.2,5.1,2026-08-06 02:00:00,2026-08-05 20:52:23,Satisfactory
+9566,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,76.0,76.0,55.0,9.7,2.0,5.9,4.5,2026-08-06 02:00:00,2026-08-05 20:52:23,Satisfactory
+9567,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,59.0,59.0,51.0,5.0,1.5,4.0,3.5,2026-08-06 01:00:00,2026-08-05 20:52:23,Satisfactory
+9569,Jaipur,Rajasthan,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",26.9124,75.7873,97.0,97.0,89.0,10.7,1.6,5.2,5.1,2026-08-06 02:00:00,2026-08-05 20:52:23,Satisfactory
+9570,Mumbai,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",19.076,72.8777,97.0,97.0,89.0,10.7,1.6,5.2,5.1,2026-08-06 02:00:00,2026-08-05 20:52:23,Satisfactory
+9571,Ahmedabad,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",23.0225,72.5714,97.0,97.0,89.0,10.7,1.6,5.2,5.1,2026-08-06 02:00:00,2026-08-05 20:52:23,Satisfactory
+9572,Pune,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",18.5204,73.8567,59.0,59.0,51.0,5.0,1.5,4.0,3.5,2026-08-06 01:00:00,2026-08-05 20:52:23,Satisfactory
+9573,Surat,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",21.1702,72.8311,97.0,97.0,89.0,10.7,1.6,5.2,5.1,2026-08-06 02:00:00,2026-08-05 20:52:23,Satisfactory
+9574,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,59.0,59.0,51.0,5.0,1.5,4.0,3.5,2026-08-06 01:00:00,2026-08-05 20:52:23,Satisfactory
+9575,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,59.0,59.0,51.0,5.0,1.5,4.0,3.5,2026-08-06 01:00:00,2026-08-05 20:52:23,Satisfactory
+9576,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,59.0,59.0,51.0,5.0,1.5,4.0,3.5,2026-08-06 01:00:00,2026-08-05 20:52:23,Satisfactory
+9578,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,59.0,59.0,51.0,5.0,1.5,4.0,3.5,2026-08-06 01:00:00,2026-08-05 20:52:23,Satisfactory
+9579,Thiruvananthapuram,Kerala,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",8.5241,76.9366,59.0,59.0,51.0,5.0,1.5,4.0,3.5,2026-08-06 01:00:00,2026-08-05 20:52:23,Satisfactory
+9580,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,46.0,13.0,6.0,1.9,45.5,1.0,2.6,2026-08-06 04:00:00,2026-08-05 20:52:23,Good
+9582,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,59.0,59.0,51.0,5.0,1.5,4.0,3.5,2026-08-06 01:00:00,2026-08-05 20:52:23,Satisfactory
