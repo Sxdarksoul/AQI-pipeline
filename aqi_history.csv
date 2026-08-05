@@ -8626,3 +8626,7 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 9557,Dehradun,Uttarakhand,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.3165,78.0322,32.0,13.0,6.0,2.3,32.1,1.9,2.1,2026-08-06 00:00:00,2026-08-05 17:14:52,Good
 9558,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,46.0,46.0,18.0,11.9,37.8,2.8,2.6,2026-08-06 00:00:00,2026-08-05 17:14:52,Good
 9559,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,32.0,13.0,6.0,2.3,32.1,1.9,2.1,2026-08-06 00:00:00,2026-08-05 17:14:52,Good
+9560,Chandigarh,Chandigarh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.7333,76.7794,30.0,30.0,7.0,16.5,21.2,1.9,3.1,2026-08-06 02:00:00,2026-08-05 19:07:43,Good
+9561,Dehradun,Uttarakhand,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.3165,78.0322,30.0,30.0,7.0,16.5,21.2,1.9,3.1,2026-08-06 02:00:00,2026-08-05 19:07:43,Good
+9562,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,44.0,25.0,9.0,3.2,44.3,1.9,2.6,2026-08-06 02:00:00,2026-08-05 19:07:43,Good
+9563,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,30.0,30.0,7.0,16.5,21.2,1.9,3.1,2026-08-06 02:00:00,2026-08-05 19:07:43,Good
