@@ -8947,3 +8947,6 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 9975,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,75.0,72.0,75.0,12.8,2.7,5.2,2.4,2026-08-07 23:00:00,2026-08-07 17:37:14,Satisfactory
 9978,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,48.0,25.0,10.0,4.6,48.0,1.9,3.1,2026-08-08 01:00:00,2026-08-07 17:37:14,Good
 9979,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,82.0,82.0,63.0,10.4,5.1,5.7,4.0,2026-08-07 23:00:00,2026-08-07 17:37:14,Satisfactory
+9981,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,154.0,154.0,28.0,11.3,2.1,15.0,,2026-08-08 00:00:00,2026-08-07 18:34:24,Moderate
+9982,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,38.0,38.0,31.0,8.5,2.7,6.8,7.4,2026-08-08 00:00:00,2026-08-07 18:34:24,Good
+9994,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,70.0,68.0,70.0,13.7,1.8,4.6,2.5,2026-08-08 00:00:00,2026-08-07 18:34:24,Satisfactory
