@@ -8896,3 +8896,16 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 9901,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,29.0,29.0,,,,,,2026-08-07 19:00:00,2026-08-07 12:33:09,Good
 9902,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,53.0,13.0,8.0,6.0,53.2,1.9,3.1,2026-08-07 19:00:00,2026-08-07 12:33:09,Satisfactory
 9903,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,76.0,76.0,55.0,10.0,8.5,7.1,7.2,2026-08-07 17:00:00,2026-08-07 12:33:09,Satisfactory
+9905,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,61.0,61.0,16.0,6.4,3.8,13.4,,2026-08-07 19:00:00,2026-08-07 14:02:44,Satisfactory
+9906,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,32.0,9.0,32.0,9.6,2.9,7.3,6.8,2026-08-07 19:00:00,2026-08-07 14:02:44,Good
+9907,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,72.0,72.0,26.0,6.5,4.3,7.5,3.0,2026-08-07 19:00:00,2026-08-07 14:02:44,Satisfactory
+9909,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,55.0,55.0,51.0,11.9,7.7,6.4,5.9,2026-08-07 19:00:00,2026-08-07 14:02:44,Satisfactory
+9910,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,85.0,85.0,30.0,4.7,5.1,6.6,12.3,2026-08-07 19:00:00,2026-08-07 14:02:44,Satisfactory
+9911,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,85.0,85.0,30.0,4.7,5.1,6.6,12.3,2026-08-07 19:00:00,2026-08-07 14:02:44,Satisfactory
+9912,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,85.0,85.0,30.0,4.7,5.1,6.6,12.3,2026-08-07 19:00:00,2026-08-07 14:02:44,Satisfactory
+9913,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,85.0,85.0,30.0,4.7,5.1,6.6,12.3,2026-08-07 19:00:00,2026-08-07 14:02:44,Satisfactory
+9914,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,85.0,85.0,30.0,4.7,5.1,6.6,12.3,2026-08-07 19:00:00,2026-08-07 14:02:44,Satisfactory
+9918,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,68.0,68.0,55.0,13.2,3.3,3.7,2.4,2026-08-07 19:00:00,2026-08-07 14:02:44,Satisfactory
+9920,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,32.0,32.0,,,,,,2026-08-07 20:00:00,2026-08-07 14:02:44,Good
+9921,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,66.0,46.0,9.0,2.8,65.6,1.9,2.1,2026-08-07 21:00:00,2026-08-07 14:02:44,Satisfactory
+9922,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,55.0,55.0,51.0,11.9,7.7,6.4,5.9,2026-08-07 19:00:00,2026-08-07 14:02:44,Satisfactory
