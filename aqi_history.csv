@@ -9221,3 +9221,12 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 10339,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,53.0,13.0,16.0,7.4,53.2,1.9,3.1,2026-08-08 20:00:00,2026-08-08 13:36:01,Satisfactory
 10340,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,82.0,82.0,56.0,10.3,14.7,6.4,3.6,2026-08-08 18:00:00,2026-08-08 13:36:01,Satisfactory
 10341,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,38.0,38.0,17.0,8.6,6.0,6.7,2.6,2026-08-08 19:00:00,2026-08-08 13:36:01,Good
+10344,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,38.0,38.0,17.0,9.9,4.1,7.7,3.7,2026-08-08 19:00:00,2026-08-08 14:20:28,Good
+10346,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,21.0,21.0,56.0,7.9,13.7,6.9,3.3,2026-08-08 19:00:00,2026-08-08 14:20:28,Good
+10347,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,74.0,74.0,33.0,6.6,6.1,6.4,12.8,2026-08-08 19:00:00,2026-08-08 14:20:28,Satisfactory
+10348,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,74.0,74.0,33.0,6.6,6.1,6.4,12.8,2026-08-08 19:00:00,2026-08-08 14:20:28,Satisfactory
+10349,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,74.0,74.0,33.0,6.6,6.1,6.4,12.8,2026-08-08 19:00:00,2026-08-08 14:20:28,Satisfactory
+10350,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,74.0,74.0,33.0,6.6,6.1,6.4,12.8,2026-08-08 19:00:00,2026-08-08 14:20:28,Satisfactory
+10351,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,74.0,74.0,33.0,6.6,6.1,6.4,12.8,2026-08-08 19:00:00,2026-08-08 14:20:28,Satisfactory
+10358,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,53.0,25.0,29.0,6.0,53.2,1.9,3.1,2026-08-08 21:00:00,2026-08-08 14:20:28,Satisfactory
+10359,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,21.0,21.0,56.0,7.9,13.7,6.9,3.3,2026-08-08 19:00:00,2026-08-08 14:20:28,Good
