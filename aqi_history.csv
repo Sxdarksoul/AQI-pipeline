@@ -9105,3 +9105,11 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 10185,Coimbatore,Tamil Nadu,"Sri Auribindo Marg, Delhi, Delhi, India",11.0168,76.9558,46.0,46.0,37.0,5.5,5.4,9.1,7.2,2026-08-08 11:00:00,2026-08-08 05:34:36,Good
 10186,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,53.0,53.0,,,,,,2026-08-08 12:00:00,2026-08-08 05:34:36,Satisfactory
 10189,Ooty,Tamil Nadu,"Sri Auribindo Marg, Delhi, Delhi, India",11.4102,76.695,46.0,46.0,37.0,5.5,5.4,9.1,7.2,2026-08-08 11:00:00,2026-08-08 05:34:36,Good
+10195,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,74.0,74.0,43.0,4.3,5.7,6.4,13.4,2026-08-08 11:00:00,2026-08-08 06:27:57,Satisfactory
+10196,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,74.0,74.0,43.0,4.3,5.7,6.4,13.4,2026-08-08 11:00:00,2026-08-08 06:27:57,Satisfactory
+10197,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,74.0,74.0,43.0,4.3,5.7,6.4,13.4,2026-08-08 11:00:00,2026-08-08 06:27:57,Satisfactory
+10198,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,74.0,74.0,43.0,4.3,5.7,6.4,13.4,2026-08-08 11:00:00,2026-08-08 06:27:57,Satisfactory
+10199,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,74.0,74.0,43.0,4.3,5.7,6.4,13.4,2026-08-08 11:00:00,2026-08-08 06:27:57,Satisfactory
+10200,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,60.0,60.0,40.0,2.0,7.7,7.3,2.3,2026-08-08 11:00:00,2026-08-08 06:27:57,Satisfactory
+10205,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,34.0,34.0,,,,,,2026-08-08 13:00:00,2026-08-08 06:27:57,Good
+10206,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,56.0,13.0,10.0,2.8,55.8,1.9,2.6,2026-08-08 14:00:00,2026-08-08 06:27:57,Satisfactory
