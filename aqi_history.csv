@@ -9131,3 +9131,5 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 10224,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,51.0,51.0,,,,,,2026-08-08 14:00:00,2026-08-08 07:38:15,Satisfactory
 10226,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,17.0,13.0,17.0,10.1,15.1,4.6,2.9,2026-08-08 13:00:00,2026-08-08 07:38:15,Good
 10227,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,78.0,78.0,39.0,2.3,7.0,6.1,2.4,2026-08-08 13:00:00,2026-08-08 07:38:15,Satisfactory
+10243,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,36.0,36.0,,,,,,2026-08-08 15:00:00,2026-08-08 08:23:59,Good
+10244,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,55.0,13.0,8.0,3.2,54.5,1.9,3.1,2026-08-08 15:00:00,2026-08-08 08:23:59,Satisfactory
