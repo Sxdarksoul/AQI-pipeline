@@ -9631,3 +9631,16 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 10814,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,46.0,46.0,10.0,6.4,44.7,1.9,2.6,2026-08-09 23:00:00,2026-08-09 16:17:44,Good
 10815,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,65.0,65.0,50.0,8.9,15.2,8.4,3.2,2026-08-09 21:00:00,2026-08-09 16:17:44,Satisfactory
 10816,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,66.0,66.0,53.0,10.5,5.4,8.4,2.3,2026-08-09 21:00:00,2026-08-09 16:17:44,Satisfactory
+10818,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,142.0,68.0,142.0,19.7,3.1,10.0,5.9,2026-08-09 22:00:00,2026-08-09 17:19:02,Moderate
+10819,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,95.0,95.0,89.0,14.6,2.1,8.2,4.4,2026-08-09 22:00:00,2026-08-09 17:19:02,Satisfactory
+10820,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,113.0,113.0,71.0,11.6,4.9,8.9,2.2,2026-08-09 22:00:00,2026-08-09 17:19:02,Moderate
+10821,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,97.0,97.0,87.0,11.1,9.1,6.4,3.7,2026-08-09 22:00:00,2026-08-09 17:19:02,Satisfactory
+10827,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,113.0,113.0,71.0,11.6,4.9,8.9,2.2,2026-08-09 22:00:00,2026-08-09 17:19:02,Moderate
+10828,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,113.0,113.0,71.0,11.6,4.9,8.9,2.2,2026-08-09 22:00:00,2026-08-09 17:19:02,Moderate
+10829,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,113.0,113.0,71.0,11.6,4.9,8.9,2.2,2026-08-09 22:00:00,2026-08-09 17:19:02,Moderate
+10830,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,98.0,53.0,98.0,13.5,1.5,5.3,3.6,2026-08-09 22:00:00,2026-08-09 17:19:02,Satisfactory
+10831,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,113.0,113.0,71.0,11.6,4.9,8.9,2.2,2026-08-09 22:00:00,2026-08-09 17:19:02,Moderate
+10832,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,29.0,29.0,,,,,,2026-08-09 23:00:00,2026-08-09 17:19:02,Good
+10833,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,48.0,34.0,14.0,2.8,48.4,1.9,2.6,2026-08-10 00:00:00,2026-08-09 17:19:02,Good
+10834,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,97.0,97.0,87.0,11.1,9.1,6.4,3.7,2026-08-09 22:00:00,2026-08-09 17:19:02,Satisfactory
+10835,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,113.0,113.0,71.0,11.6,4.9,8.9,2.2,2026-08-09 22:00:00,2026-08-09 17:19:02,Moderate
