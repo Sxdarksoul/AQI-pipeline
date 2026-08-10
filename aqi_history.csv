@@ -9728,3 +9728,19 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 10997,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,46.0,25.0,8.0,7.8,46.3,1.9,2.6,2026-08-10 12:00:00,2026-08-10 05:13:04,Good
 10998,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,82.0,82.0,47.0,10.1,18.5,4.1,3.3,2026-08-10 10:00:00,2026-08-10 05:13:04,Satisfactory
 10999,Ooty,Tamil Nadu,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",11.4102,76.695,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 05:13:04,Satisfactory
+11000,New Delhi,Delhi,"Alipur, Delhi, Delhi, India",28.6139,77.209,75.0,72.0,75.0,11.4,3.7,2.8,2.4,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11001,Gurugram,Haryana,"Narela, Delhi, Delhi, India",28.4595,77.0266,63.0,63.0,57.0,9.9,19.2,4.3,3.3,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11002,Noida,Uttar Pradesh,"Alipur, Delhi, Delhi, India",28.5355,77.391,75.0,72.0,75.0,11.4,3.7,2.8,2.4,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11003,Agra,Uttar Pradesh,"Alipur, Delhi, Delhi, India",27.1767,78.0081,75.0,72.0,75.0,11.4,3.7,2.8,2.4,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11004,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,63.0,63.0,57.0,9.9,19.2,4.3,3.3,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11005,Jaipur,Rajasthan,"Narela, Delhi, Delhi, India",26.9124,75.7873,63.0,63.0,57.0,9.9,19.2,4.3,3.3,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11006,Mumbai,Maharashtra,"Narela, Delhi, Delhi, India",19.076,72.8777,63.0,63.0,57.0,9.9,19.2,4.3,3.3,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11007,Ahmedabad,Gujarat,"Narela, Delhi, Delhi, India",23.0225,72.5714,63.0,63.0,57.0,9.9,19.2,4.3,3.3,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11008,Pune,Maharashtra,"Narela, Delhi, Delhi, India",18.5204,73.8567,63.0,63.0,57.0,9.9,19.2,4.3,3.3,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11009,Surat,Gujarat,"Narela, Delhi, Delhi, India",21.1702,72.8311,63.0,63.0,57.0,9.9,19.2,4.3,3.3,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11010,Indore,Madhya Pradesh,"Narela, Delhi, Delhi, India",22.7196,75.8577,63.0,63.0,57.0,9.9,19.2,4.3,3.3,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11011,Bhopal,Madhya Pradesh,"Alipur, Delhi, Delhi, India",23.2599,77.4126,75.0,72.0,75.0,11.4,3.7,2.8,2.4,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11012,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,75.0,72.0,75.0,11.4,3.7,2.8,2.4,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
+11013,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,24.0,24.0,,,,,,2026-08-10 13:00:00,2026-08-10 07:01:18,Good
+11014,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,56.0,21.0,10.0,5.5,55.8,2.8,2.6,2026-08-10 14:00:00,2026-08-10 07:01:18,Satisfactory
+11015,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,63.0,63.0,57.0,9.9,19.2,4.3,3.3,2026-08-10 12:00:00,2026-08-10 07:01:18,Satisfactory
