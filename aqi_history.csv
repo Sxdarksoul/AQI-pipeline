@@ -9800,3 +9800,17 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 11140,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,74.0,74.0,23.0,17.1,1.6,4.6,2.8,2026-08-10 23:00:00,2026-08-10 17:40:36,Satisfactory
 11142,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,41.0,13.0,6.0,2.8,40.7,2.8,2.1,2026-08-11 01:00:00,2026-08-10 17:40:36,Good
 11143,Shimla,Himachal Pradesh,"Alipur, Delhi, Delhi, India",31.1048,77.1734,74.0,74.0,23.0,17.1,1.6,4.6,2.8,2026-08-10 23:00:00,2026-08-10 17:40:36,Satisfactory
+11144,New Delhi,Delhi,"Alipur, Delhi, Delhi, India",28.6139,77.209,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11145,Gurugram,Haryana,"Alipur, Delhi, Delhi, India",28.4595,77.0266,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11146,Noida,Uttar Pradesh,"Alipur, Delhi, Delhi, India",28.5355,77.391,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11147,Agra,Uttar Pradesh,"Alipur, Delhi, Delhi, India",27.1767,78.0081,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11148,Chandigarh,Chandigarh,"Alipur, Delhi, Delhi, India",30.7333,76.7794,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11149,Jaipur,Rajasthan,"Alipur, Delhi, Delhi, India",26.9124,75.7873,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11150,Mumbai,Maharashtra,"Alipur, Delhi, Delhi, India",19.076,72.8777,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11151,Ahmedabad,Gujarat,"Alipur, Delhi, Delhi, India",23.0225,72.5714,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11152,Pune,Maharashtra,"Alipur, Delhi, Delhi, India",18.5204,73.8567,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11153,Surat,Gujarat,"Alipur, Delhi, Delhi, India",21.1702,72.8311,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11154,Indore,Madhya Pradesh,"Alipur, Delhi, Delhi, India",22.7196,75.8577,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11155,Bhopal,Madhya Pradesh,"Alipur, Delhi, Delhi, India",23.2599,77.4126,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11156,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
+11159,Shimla,Himachal Pradesh,"Alipur, Delhi, Delhi, India",31.1048,77.1734,119.0,119.0,29.0,12.5,1.2,5.2,3.1,2026-08-11 00:00:00,2026-08-10 18:37:51,Moderate
