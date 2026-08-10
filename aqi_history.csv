@@ -9758,3 +9758,14 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 11077,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,54.0,54.0,,,,,,2026-08-10 19:00:00,2026-08-10 12:36:35,Satisfactory
 11093,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,66.0,66.0,,,,,,2026-08-10 20:00:00,2026-08-10 14:09:09,Satisfactory
 11094,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,45.0,13.0,6.0,4.6,45.1,2.8,3.1,2026-08-10 21:00:00,2026-08-10 14:09:09,Good
+11097,Gurugram,Haryana,"Alipur, Delhi, Delhi, India",28.4595,77.0266,85.0,68.0,85.0,13.2,2.4,4.6,2.8,2026-08-10 14:00:00,2026-08-10 15:45:52,Satisfactory
+11100,Chandigarh,Chandigarh,"Alipur, Delhi, Delhi, India",30.7333,76.7794,85.0,68.0,85.0,13.2,2.4,4.6,2.8,2026-08-10 14:00:00,2026-08-10 15:45:52,Satisfactory
+11101,Jaipur,Rajasthan,"Alipur, Delhi, Delhi, India",26.9124,75.7873,85.0,68.0,85.0,13.2,2.4,4.6,2.8,2026-08-10 14:00:00,2026-08-10 15:45:52,Satisfactory
+11102,Mumbai,Maharashtra,"Alipur, Delhi, Delhi, India",19.076,72.8777,85.0,68.0,85.0,13.2,2.4,4.6,2.8,2026-08-10 14:00:00,2026-08-10 15:45:52,Satisfactory
+11103,Ahmedabad,Gujarat,"Alipur, Delhi, Delhi, India",23.0225,72.5714,85.0,68.0,85.0,13.2,2.4,4.6,2.8,2026-08-10 14:00:00,2026-08-10 15:45:52,Satisfactory
+11104,Pune,Maharashtra,"Alipur, Delhi, Delhi, India",18.5204,73.8567,85.0,68.0,85.0,13.2,2.4,4.6,2.8,2026-08-10 14:00:00,2026-08-10 15:45:52,Satisfactory
+11105,Surat,Gujarat,"Alipur, Delhi, Delhi, India",21.1702,72.8311,85.0,68.0,85.0,13.2,2.4,4.6,2.8,2026-08-10 14:00:00,2026-08-10 15:45:52,Satisfactory
+11106,Indore,Madhya Pradesh,"Alipur, Delhi, Delhi, India",22.7196,75.8577,85.0,68.0,85.0,13.2,2.4,4.6,2.8,2026-08-10 14:00:00,2026-08-10 15:45:52,Satisfactory
+11109,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,64.0,64.0,,,,,,2026-08-10 22:00:00,2026-08-10 15:45:52,Satisfactory
+11110,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,44.0,42.0,9.0,4.2,43.5,2.8,2.6,2026-08-10 23:00:00,2026-08-10 15:45:52,Good
+11111,Shimla,Himachal Pradesh,"Alipur, Delhi, Delhi, India",31.1048,77.1734,85.0,68.0,85.0,13.2,2.4,4.6,2.8,2026-08-10 14:00:00,2026-08-10 15:45:52,Satisfactory
