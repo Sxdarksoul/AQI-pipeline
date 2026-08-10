@@ -9704,3 +9704,14 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 10957,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,128.0,128.0,96.0,14.0,1.6,5.2,3.2,2026-08-10 05:00:00,2026-08-10 00:41:27,Moderate
 10959,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,60.0,60.0,,,,,,2026-08-10 07:00:00,2026-08-10 00:41:27,Satisfactory
 10961,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,156.0,156.0,100.0,10.0,20.2,4.0,3.2,2026-08-10 05:00:00,2026-08-10 00:41:27,Moderate
+10963,New Delhi,Delhi,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",28.6139,77.209,160.0,160.0,91.0,17.1,2.9,7.5,4.1,2026-08-10 02:00:00,2026-08-10 03:03:07,Moderate
+10967,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,117.0,117.0,70.0,7.5,22.7,3.7,3.9,2026-08-10 08:00:00,2026-08-10 03:03:07,Moderate
+10968,Jaipur,Rajasthan,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",26.9124,75.7873,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 03:03:07,Satisfactory
+10969,Mumbai,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",19.076,72.8777,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 03:03:07,Satisfactory
+10970,Ahmedabad,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",23.0225,72.5714,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 03:03:07,Satisfactory
+10971,Pune,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",18.5204,73.8567,96.0,96.0,63.0,7.9,4.7,7.3,2.0,2026-08-10 01:00:00,2026-08-10 03:03:07,Satisfactory
+10972,Surat,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",21.1702,72.8311,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 03:03:07,Satisfactory
+10976,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,133.0,133.0,100.0,11.6,1.3,4.6,3.5,2026-08-10 08:00:00,2026-08-10 03:03:07,Moderate
+10978,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,48.0,48.0,,,,,,2026-08-10 09:00:00,2026-08-10 03:03:07,Good
+10979,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,45.0,25.0,6.0,4.6,45.1,1.9,2.1,2026-08-10 10:00:00,2026-08-10 03:03:07,Good
+10980,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,117.0,117.0,70.0,7.5,22.7,3.7,3.9,2026-08-10 08:00:00,2026-08-10 03:03:07,Moderate
