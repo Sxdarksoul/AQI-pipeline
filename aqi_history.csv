@@ -9700,3 +9700,7 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 10946,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,55.0,55.0,,,,,,2026-08-10 05:00:00,2026-08-09 23:17:17,Satisfactory
 10947,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,38.0,13.0,6.0,3.2,38.2,1.9,3.1,2026-08-10 06:00:00,2026-08-09 23:17:17,Good
 10948,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,125.0,125.0,88.0,10.0,19.6,5.3,3.3,2026-08-10 04:00:00,2026-08-09 23:17:17,Moderate
+10953,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,156.0,156.0,100.0,10.0,20.2,4.0,3.2,2026-08-10 05:00:00,2026-08-10 00:41:27,Moderate
+10957,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,128.0,128.0,96.0,14.0,1.6,5.2,3.2,2026-08-10 05:00:00,2026-08-10 00:41:27,Moderate
+10959,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,60.0,60.0,,,,,,2026-08-10 07:00:00,2026-08-10 00:41:27,Satisfactory
+10961,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,156.0,156.0,100.0,10.0,20.2,4.0,3.2,2026-08-10 05:00:00,2026-08-10 00:41:27,Moderate
