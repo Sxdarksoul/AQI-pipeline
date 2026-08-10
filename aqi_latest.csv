@@ -9,7 +9,7 @@ Chennai,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",13.0827
 Coimbatore,Tamil Nadu,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",11.0168,76.9558,80.0,78.0,80.0,19.6,3.8,6.6,4.5,Satisfactory,2026-08-10 03:00:00,2026-08-10 05:13:04
 Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,85.0,68.0,85.0,13.2,5.7,4.0,3.2,Satisfactory,2026-08-10 14:00:00,2026-08-10 09:02:49
 Gurugram,Haryana,"Narela, Delhi, Delhi, India",28.4595,77.0266,63.0,63.0,57.0,9.9,19.2,4.3,3.3,Satisfactory,2026-08-10 12:00:00,2026-08-10 07:01:18
-Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,60.0,13.0,8.0,3.2,59.7,2.8,3.1,Satisfactory,2026-08-10 19:00:00,2026-08-10 11:38:35
+Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,45.0,13.0,6.0,4.6,45.1,2.8,3.1,Good,2026-08-10 21:00:00,2026-08-10 14:09:09
 Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,120.0,104.0,120.0,4.5,15.3,3.0,3.5,Moderate,2026-07-13 16:00:00,2026-07-13 11:46:35
 Indore,Madhya Pradesh,"Narela, Delhi, Delhi, India",22.7196,75.8577,63.0,63.0,57.0,9.9,19.2,4.3,3.3,Satisfactory,2026-08-10 12:00:00,2026-08-10 07:01:18
 Jaipur,Rajasthan,"Narela, Delhi, Delhi, India",26.9124,75.7873,63.0,63.0,57.0,9.9,19.2,4.3,3.3,Satisfactory,2026-08-10 12:00:00,2026-08-10 07:01:18
@@ -26,6 +26,6 @@ Pune,Maharashtra,"Narela, Delhi, Delhi, India",18.5204,73.8567,63.0,63.0,57.0,9.
 Ranchi,Jharkhand,"District radiation station, Lhasa (拉萨区辐射站)",23.3441,85.3096,45.0,13.0,9.0,4.2,45.1,1.9,3.6,Good,2026-07-06 13:00:00,2026-07-06 06:13:04
 Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,63.0,63.0,57.0,9.9,19.2,4.3,3.3,Satisfactory,2026-08-10 12:00:00,2026-08-10 07:01:18
 Surat,Gujarat,"Narela, Delhi, Delhi, India",21.1702,72.8311,63.0,63.0,57.0,9.9,19.2,4.3,3.3,Satisfactory,2026-08-10 12:00:00,2026-08-10 07:01:18
-Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,54.0,54.0,46.0,6.4,5.9,5.5,1.9,Satisfactory,2026-08-10 19:00:00,2026-08-10 12:36:35
+Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,66.0,66.0,46.0,6.4,5.9,5.5,1.9,Satisfactory,2026-08-10 20:00:00,2026-08-10 14:09:09
 Varanasi,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.3176,82.9739,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
 Visakhapatnam,Andhra Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.6868,83.2185,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
