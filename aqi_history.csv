@@ -9715,3 +9715,16 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 10978,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,48.0,48.0,,,,,,2026-08-10 09:00:00,2026-08-10 03:03:07,Good
 10979,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,45.0,25.0,6.0,4.6,45.1,1.9,2.1,2026-08-10 10:00:00,2026-08-10 03:03:07,Good
 10980,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,117.0,117.0,70.0,7.5,22.7,3.7,3.9,2026-08-10 08:00:00,2026-08-10 03:03:07,Moderate
+10982,New Delhi,Delhi,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.6139,77.209,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 05:13:04,Satisfactory
+10984,Noida,Uttar Pradesh,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.5355,77.391,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 05:13:04,Satisfactory
+10985,Agra,Uttar Pradesh,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",27.1767,78.0081,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 05:13:04,Satisfactory
+10986,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,82.0,82.0,47.0,10.1,18.5,4.1,3.3,2026-08-10 10:00:00,2026-08-10 05:13:04,Satisfactory
+10990,Pune,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",18.5204,73.8567,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 05:13:04,Satisfactory
+10992,Indore,Madhya Pradesh,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",22.7196,75.8577,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 05:13:04,Satisfactory
+10993,Bhopal,Madhya Pradesh,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",23.2599,77.4126,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 05:13:04,Satisfactory
+10994,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,94.0,91.0,94.0,10.6,4.9,4.3,3.5,2026-08-10 10:00:00,2026-08-10 05:13:04,Satisfactory
+10995,Coimbatore,Tamil Nadu,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",11.0168,76.9558,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 05:13:04,Satisfactory
+10996,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,64.0,64.0,,,,,,2026-08-10 11:00:00,2026-08-10 05:13:04,Satisfactory
+10997,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,46.0,25.0,8.0,7.8,46.3,1.9,2.6,2026-08-10 12:00:00,2026-08-10 05:13:04,Good
+10998,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,82.0,82.0,47.0,10.1,18.5,4.1,3.3,2026-08-10 10:00:00,2026-08-10 05:13:04,Satisfactory
+10999,Ooty,Tamil Nadu,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",11.4102,76.695,80.0,78.0,80.0,19.6,3.8,6.6,4.5,2026-08-10 03:00:00,2026-08-10 05:13:04,Satisfactory
