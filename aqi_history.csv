@@ -10461,3 +10461,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 11915,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,50.0,50.0,13.0,1.9,39.8,2.8,2.6,2026-08-13 03:00:00,2026-08-12 19:54:19,Good
 11916,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,164.0,164.0,118.0,11.5,6.0,4.8,4.1,2026-08-13 01:00:00,2026-08-12 19:54:19,Moderate
 11917,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,155.0,155.0,54.0,7.3,4.8,7.5,3.5,2026-08-13 01:00:00,2026-08-12 19:54:19,Moderate
+11933,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,42.0,42.0,,,,,,2026-08-13 02:00:00,2026-08-12 20:28:17,Good
