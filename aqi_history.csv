@@ -10780,3 +10780,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 12276,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,37.0,13.0,8.0,2.8,36.6,2.8,2.6,2026-08-14 03:00:00,2026-08-13 19:48:16,Good
 12277,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,149.0,149.0,87.0,8.5,7.6,5.0,4.7,2026-08-14 01:00:00,2026-08-13 19:48:16,Moderate
 12278,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,109.0,109.0,83.0,8.2,5.1,7.3,3.2,2026-08-14 01:00:00,2026-08-13 19:48:16,Moderate
+12294,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,49.0,49.0,,,,,,2026-08-14 02:00:00,2026-08-13 20:26:17,Good
