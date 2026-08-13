@@ -10712,3 +10712,16 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 12200,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,42.0,25.0,10.0,5.5,41.5,2.8,3.1,2026-08-13 22:00:00,2026-08-13 15:45:03,Good
 12201,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,114.0,114.0,85.0,12.6,16.5,10.2,4.7,2026-08-13 21:00:00,2026-08-13 15:45:03,Moderate
 12202,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,139.0,139.0,54.0,11.2,6.8,8.8,3.0,2026-08-13 21:00:00,2026-08-13 15:45:03,Moderate
+12203,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,61.0,61.0,47.0,6.1,2.0,18.3,2.4,2026-08-13 22:00:00,2026-08-13 16:41:07,Satisfactory
+12204,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,97.0,97.0,91.0,23.0,17.2,23.1,5.7,2026-08-13 22:00:00,2026-08-13 16:41:07,Satisfactory
+12205,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,164.0,151.0,164.0,22.9,1.9,22.2,3.5,2026-08-13 22:00:00,2026-08-13 16:41:07,Moderate
+12207,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,144.0,144.0,99.0,11.2,11.2,6.8,5.0,2026-08-13 22:00:00,2026-08-13 16:41:07,Moderate
+12208,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,85.0,85.0,52.0,6.4,4.8,4.8,12.9,2026-08-13 22:00:00,2026-08-13 16:41:07,Satisfactory
+12209,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,85.0,85.0,52.0,6.4,4.8,4.8,12.9,2026-08-13 22:00:00,2026-08-13 16:41:07,Satisfactory
+12210,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,85.0,85.0,52.0,6.4,4.8,4.8,12.9,2026-08-13 22:00:00,2026-08-13 16:41:07,Satisfactory
+12211,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,85.0,85.0,52.0,6.4,4.8,4.8,12.9,2026-08-13 22:00:00,2026-08-13 16:41:07,Satisfactory
+12212,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,85.0,85.0,52.0,6.4,4.8,4.8,12.9,2026-08-13 22:00:00,2026-08-13 16:41:07,Satisfactory
+12216,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,132.0,132.0,93.0,22.8,2.4,10.0,3.5,2026-08-13 22:00:00,2026-08-13 16:41:07,Moderate
+12218,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,36.0,36.0,,,,,,2026-08-13 23:00:00,2026-08-13 16:41:07,Good
+12219,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,38.0,25.0,12.0,6.9,37.8,2.8,3.1,2026-08-13 23:00:00,2026-08-13 16:41:07,Good
+12220,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,144.0,144.0,99.0,11.2,11.2,6.8,5.0,2026-08-13 22:00:00,2026-08-13 16:41:07,Moderate
