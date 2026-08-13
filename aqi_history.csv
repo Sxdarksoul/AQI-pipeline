@@ -10663,3 +10663,15 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 12142,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,37.0,37.0,,,,,,2026-08-13 18:00:00,2026-08-13 11:41:37,Good
 12144,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,72.0,72.0,37.0,11.1,7.2,5.5,4.0,2026-08-13 17:00:00,2026-08-13 11:41:37,Satisfactory
 12145,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,63.0,63.0,52.0,8.9,9.5,6.4,3.0,2026-08-13 17:00:00,2026-08-13 11:41:37,Satisfactory
+12146,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,44.0,9.0,44.0,8.9,4.4,9.1,2.3,2026-08-13 18:00:00,2026-08-13 12:37:02,Good
+12149,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,65.0,65.0,52.0,17.8,8.3,8.2,3.1,2026-08-13 18:00:00,2026-08-13 12:37:02,Satisfactory
+12150,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,68.0,68.0,21.0,9.5,15.1,7.3,4.0,2026-08-13 18:00:00,2026-08-13 12:37:02,Satisfactory
+12156,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,65.0,65.0,52.0,17.8,8.3,8.2,3.1,2026-08-13 18:00:00,2026-08-13 12:37:02,Satisfactory
+12157,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,65.0,65.0,52.0,17.8,8.3,8.2,3.1,2026-08-13 18:00:00,2026-08-13 12:37:02,Satisfactory
+12158,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,65.0,65.0,52.0,17.8,8.3,8.2,3.1,2026-08-13 18:00:00,2026-08-13 12:37:02,Satisfactory
+12159,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,107.0,107.0,55.0,17.8,4.6,4.6,2.7,2026-08-13 18:00:00,2026-08-13 12:37:02,Moderate
+12160,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,65.0,65.0,52.0,17.8,8.3,8.2,3.1,2026-08-13 18:00:00,2026-08-13 12:37:02,Satisfactory
+12161,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,49.0,49.0,,,,,,2026-08-13 19:00:00,2026-08-13 12:37:02,Good
+12162,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,50.0,42.0,7.0,4.2,50.0,2.8,2.6,2026-08-13 20:00:00,2026-08-13 12:37:02,Good
+12163,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,68.0,68.0,21.0,9.5,15.1,7.3,4.0,2026-08-13 18:00:00,2026-08-13 12:37:02,Satisfactory
+12164,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,65.0,65.0,52.0,17.8,8.3,8.2,3.1,2026-08-13 18:00:00,2026-08-13 12:37:02,Satisfactory
