@@ -10969,3 +10969,15 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 12502,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,107.0,107.0,23.0,15.0,6.3,8.5,2.5,2026-08-14 17:00:00,2026-08-14 11:33:38,Moderate
 12503,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,41.0,41.0,,,,,,2026-08-14 18:00:00,2026-08-14 11:33:38,Good
 12506,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,107.0,107.0,23.0,15.0,6.3,8.5,2.5,2026-08-14 17:00:00,2026-08-14 11:33:38,Moderate
+12507,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,37.0,109.0,37.0,13.8,4.1,10.7,2.6,2026-08-14 17:00:00,2026-08-14 12:33:07,Good
+12509,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,61.0,61.0,36.0,21.3,3.6,10.2,1.6,2026-08-14 18:00:00,2026-08-14 12:33:07,Satisfactory
+12511,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,67.0,67.0,49.0,12.3,16.1,5.7,3.7,2026-08-14 17:00:00,2026-08-14 12:33:07,Satisfactory
+12512,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,95.0,95.0,41.0,14.4,2.5,1.4,11.2,2026-08-14 18:00:00,2026-08-14 12:33:07,Satisfactory
+12513,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,95.0,95.0,41.0,14.4,2.5,1.4,11.2,2026-08-14 18:00:00,2026-08-14 12:33:07,Satisfactory
+12514,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,95.0,95.0,41.0,14.4,2.5,1.4,11.2,2026-08-14 18:00:00,2026-08-14 12:33:07,Satisfactory
+12515,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,95.0,95.0,41.0,14.4,2.5,1.4,11.2,2026-08-14 18:00:00,2026-08-14 12:33:07,Satisfactory
+12516,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,95.0,95.0,41.0,14.4,2.5,1.4,11.2,2026-08-14 18:00:00,2026-08-14 12:33:07,Satisfactory
+12520,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,63.0,59.0,63.0,40.8,4.7,5.2,2.3,2026-08-14 18:00:00,2026-08-14 12:33:07,Satisfactory
+12522,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,35.0,35.0,,,,,,2026-08-14 19:00:00,2026-08-14 12:33:07,Good
+12523,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,40.0,13.0,8.0,7.4,39.8,2.8,3.1,2026-08-14 19:00:00,2026-08-14 12:33:07,Good
+12524,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,67.0,67.0,49.0,12.3,16.1,5.7,3.7,2026-08-14 17:00:00,2026-08-14 12:33:07,Satisfactory
