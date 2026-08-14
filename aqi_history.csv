@@ -11087,3 +11087,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 12636,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,55.0,55.0,,,,,,2026-08-15 02:00:00,2026-08-14 19:40:09,Satisfactory
 12638,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,109.0,109.0,73.0,13.5,0.1,9.5,4.4,2026-08-15 01:00:00,2026-08-14 19:40:09,Moderate
 12639,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,122.0,122.0,66.0,7.9,4.7,8.5,2.7,2026-08-15 01:00:00,2026-08-14 19:40:09,Moderate
+12656,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,25.0,25.0,8.0,11.0,20.4,3.7,4.1,2026-08-15 03:00:00,2026-08-14 20:18:26,Good
