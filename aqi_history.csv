@@ -11239,3 +11239,22 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 12808,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,34.0,25.0,11.0,4.6,34.2,2.8,2.6,2026-08-15 12:00:00,2026-08-15 05:13:19,Good
 12809,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,9.0,5.0,9.0,8.9,4.7,4.6,3.9,2026-08-15 10:00:00,2026-08-15 05:13:19,Good
 12810,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,178.0,178.0,105.0,11.6,8.1,9.3,2.5,2026-08-15 10:00:00,2026-08-15 05:13:19,Moderate
+12811,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,102.0,102.0,57.0,5.9,10.2,9.3,2.7,2026-08-15 11:00:00,2026-08-15 06:15:14,Moderate
+12812,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,99.0,99.0,90.0,8.8,7.2,6.1,5.9,2026-08-15 11:00:00,2026-08-15 06:15:14,Satisfactory
+12813,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,163.0,163.0,78.0,7.8,13.7,10.4,2.8,2026-08-15 11:00:00,2026-08-15 06:15:14,Moderate
+12814,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,190.0,190.0,59.0,7.8,10.1,8.2,2.2,2026-08-15 11:00:00,2026-08-15 06:15:14,Moderate
+12815,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,11.0,5.0,11.0,8.6,4.0,4.6,3.5,2026-08-15 11:00:00,2026-08-15 06:15:14,Good
+12816,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,85.0,85.0,60.0,5.8,2.5,3.4,9.3,2026-08-15 11:00:00,2026-08-15 06:15:14,Satisfactory
+12817,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,85.0,85.0,60.0,5.8,2.5,3.4,9.3,2026-08-15 11:00:00,2026-08-15 06:15:14,Satisfactory
+12818,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,85.0,85.0,60.0,5.8,2.5,3.4,9.3,2026-08-15 11:00:00,2026-08-15 06:15:14,Satisfactory
+12819,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,85.0,85.0,60.0,5.8,2.5,3.4,9.3,2026-08-15 11:00:00,2026-08-15 06:15:14,Satisfactory
+12820,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,85.0,85.0,60.0,5.8,2.5,3.4,9.3,2026-08-15 11:00:00,2026-08-15 06:15:14,Satisfactory
+12821,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,190.0,190.0,59.0,7.8,10.1,8.2,2.2,2026-08-15 11:00:00,2026-08-15 06:15:14,Moderate
+12822,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,190.0,190.0,59.0,7.8,10.1,8.2,2.2,2026-08-15 11:00:00,2026-08-15 06:15:14,Moderate
+12823,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,190.0,190.0,59.0,7.8,10.1,8.2,2.2,2026-08-15 11:00:00,2026-08-15 06:15:14,Moderate
+12824,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,67.0,67.0,48.0,18.6,5.4,2.8,1.5,2026-08-15 11:00:00,2026-08-15 06:15:14,Satisfactory
+12825,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,190.0,190.0,59.0,7.8,10.1,8.2,2.2,2026-08-15 11:00:00,2026-08-15 06:15:14,Moderate
+12826,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,44.0,44.0,,,,,,2026-08-15 12:00:00,2026-08-15 06:15:14,Good
+12827,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,37.0,25.0,11.0,2.8,37.4,2.8,3.1,2026-08-15 13:00:00,2026-08-15 06:15:14,Good
+12828,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,11.0,5.0,11.0,8.6,4.0,4.6,3.5,2026-08-15 11:00:00,2026-08-15 06:15:14,Good
+12829,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,190.0,190.0,59.0,7.8,10.1,8.2,2.2,2026-08-15 11:00:00,2026-08-15 06:15:14,Moderate
