@@ -12108,3 +12108,6 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 13720,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,37.0,25.0,6.0,4.2,36.6,2.8,3.1,2026-08-17 15:00:00,2026-08-17 07:40:32,Good
 13721,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,72.0,72.0,69.0,9.3,3.0,2.3,4.4,2026-08-17 13:00:00,2026-08-17 07:40:32,Satisfactory
 13722,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,61.0,61.0,57.0,4.2,11.0,5.2,1.7,2026-08-17 13:00:00,2026-08-17 07:40:32,Satisfactory
+13724,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,100.0,63.0,100.0,7.0,5.4,4.6,6.5,2026-08-17 13:00:00,2026-08-17 08:27:07,Satisfactory
+13738,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,48.0,48.0,,,,,,2026-08-17 15:00:00,2026-08-17 08:27:07,Good
+13739,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,36.0,34.0,8.0,4.6,36.2,2.8,3.1,2026-08-17 16:00:00,2026-08-17 08:27:07,Good
