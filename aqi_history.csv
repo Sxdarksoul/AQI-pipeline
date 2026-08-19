@@ -12786,3 +12786,7 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 14480,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,36.0,13.0,6.0,3.7,35.8,2.8,2.6,2026-08-19 08:00:00,2026-08-19 00:25:48,Good
 14481,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,91.0,91.0,60.0,10.1,6.7,6.1,5.7,2026-08-19 05:00:00,2026-08-19 00:25:48,Satisfactory
 14482,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,63.0,63.0,52.0,9.4,2.6,4.6,2.2,2026-08-19 05:00:00,2026-08-19 00:25:48,Satisfactory
+14487,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,78.0,78.0,60.0,8.6,6.6,6.4,5.8,2026-08-19 06:00:00,2026-08-19 02:09:08,Satisfactory
+14498,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,44.0,44.0,,,,,,2026-08-19 08:00:00,2026-08-19 02:09:08,Good
+14499,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,29.0,13.0,6.0,11.5,28.9,2.8,2.6,2026-08-19 09:00:00,2026-08-19 02:09:08,Good
+14500,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,78.0,78.0,60.0,8.6,6.6,6.4,5.8,2026-08-19 06:00:00,2026-08-19 02:09:08,Satisfactory
