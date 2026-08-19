@@ -12795,3 +12795,13 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 14536,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,66.0,66.0,,,,,,2026-08-19 11:00:00,2026-08-19 04:23:03,Satisfactory
 14537,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,31.0,13.0,11.0,11.0,31.3,3.7,5.1,2026-08-19 12:00:00,2026-08-19 04:23:03,Good
 14556,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,36.0,13.0,12.0,7.4,35.8,2.8,4.1,2026-08-19 13:00:00,2026-08-19 05:17:59,Good
+14559,New Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.6139,77.209,46.0,46.0,42.0,19.6,3.9,3.1,6.9,2026-08-19 04:00:00,2026-08-19 06:20:02,Good
+14561,Noida,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",28.5355,77.391,63.0,63.0,52.0,9.4,2.6,4.6,2.2,2026-08-19 05:00:00,2026-08-19 06:20:02,Satisfactory
+14564,Jaipur,Rajasthan,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",26.9124,75.7873,41.0,72.0,41.0,10.4,2.9,3.9,5.2,2026-08-19 05:00:00,2026-08-19 06:20:02,Good
+14565,Mumbai,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",19.076,72.8777,41.0,72.0,41.0,10.4,2.9,3.9,5.2,2026-08-19 05:00:00,2026-08-19 06:20:02,Good
+14566,Ahmedabad,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",23.0225,72.5714,41.0,72.0,41.0,10.4,2.9,3.9,5.2,2026-08-19 05:00:00,2026-08-19 06:20:02,Good
+14567,Pune,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",18.5204,73.8567,63.0,63.0,52.0,9.4,2.6,4.6,2.2,2026-08-19 05:00:00,2026-08-19 06:20:02,Satisfactory
+14568,Surat,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",21.1702,72.8311,41.0,72.0,41.0,10.4,2.9,3.9,5.2,2026-08-19 05:00:00,2026-08-19 06:20:02,Good
+14572,Dehradun,Uttarakhand,"Narela, Delhi, Delhi, India",30.3165,78.0322,78.0,78.0,60.0,8.6,6.6,6.4,5.8,2026-08-19 06:00:00,2026-08-19 06:20:02,Satisfactory
+14574,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,81.0,81.0,,,,,,2026-08-19 12:00:00,2026-08-19 06:20:02,Satisfactory
+14575,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,40.0,25.0,9.0,4.2,39.8,2.8,3.1,2026-08-19 14:00:00,2026-08-19 06:20:02,Good
