@@ -12794,3 +12794,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 14518,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,29.0,13.0,10.0,11.9,29.3,3.7,5.6,2026-08-19 11:00:00,2026-08-19 03:34:40,Good
 14536,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,66.0,66.0,,,,,,2026-08-19 11:00:00,2026-08-19 04:23:03,Satisfactory
 14537,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,31.0,13.0,11.0,11.0,31.3,3.7,5.1,2026-08-19 12:00:00,2026-08-19 04:23:03,Good
+14556,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,36.0,13.0,12.0,7.4,35.8,2.8,4.1,2026-08-19 13:00:00,2026-08-19 05:17:59,Good
