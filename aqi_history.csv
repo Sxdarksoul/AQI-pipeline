@@ -13163,3 +13163,14 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 14955,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,26.0,25.0,13.0,6.0,26.4,3.7,2.6,2026-08-20 11:00:00,2026-08-20 03:34:55,Good
 14956,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,99.0,99.0,48.0,7.5,5.3,5.8,5.3,2026-08-20 08:00:00,2026-08-20 03:34:55,Satisfactory
 14957,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,87.0,87.0,73.0,14.5,2.6,10.3,3.2,2026-08-20 09:00:00,2026-08-20 03:34:55,Satisfactory
+14959,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,46.0,46.0,46.0,12.4,2.2,9.3,20.0,2026-08-20 09:00:00,2026-08-20 04:23:01,Good
+14962,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,99.0,99.0,52.0,8.8,5.3,6.4,5.4,2026-08-20 09:00:00,2026-08-20 04:23:01,Satisfactory
+14963,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,91.0,91.0,54.0,6.9,5.5,4.3,6.8,2026-08-20 09:00:00,2026-08-20 04:23:01,Satisfactory
+14964,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,91.0,91.0,54.0,6.9,5.5,4.3,6.8,2026-08-20 09:00:00,2026-08-20 04:23:01,Satisfactory
+14965,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,91.0,91.0,54.0,6.9,5.5,4.3,6.8,2026-08-20 09:00:00,2026-08-20 04:23:01,Satisfactory
+14966,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,91.0,91.0,54.0,6.9,5.5,4.3,6.8,2026-08-20 09:00:00,2026-08-20 04:23:01,Satisfactory
+14967,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,91.0,91.0,54.0,6.9,5.5,4.3,6.8,2026-08-20 09:00:00,2026-08-20 04:23:01,Satisfactory
+14971,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,99.0,99.0,64.0,17.6,3.0,4.1,2.7,2026-08-20 09:00:00,2026-08-20 04:23:01,Satisfactory
+14973,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,62.0,62.0,,,,,,2026-08-20 11:00:00,2026-08-20 04:23:01,Satisfactory
+14974,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,32.0,13.0,10.0,4.6,31.7,3.7,3.1,2026-08-20 12:00:00,2026-08-20 04:23:01,Good
+14975,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,99.0,99.0,52.0,8.8,5.3,6.4,5.4,2026-08-20 09:00:00,2026-08-20 04:23:01,Satisfactory
