@@ -13570,3 +13570,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 15392,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,20.0,13.0,7.0,7.4,19.9,3.7,3.1,2026-08-21 11:00:00,2026-08-21 03:38:54,Good
 15393,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,97.0,97.0,63.0,9.6,3.6,3.7,5.0,2026-08-21 09:00:00,2026-08-21 03:38:54,Satisfactory
 15394,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,82.0,68.0,82.0,5.5,5.2,4.9,3.1,2026-08-21 09:00:00,2026-08-21 03:38:54,Satisfactory
+15410,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,52.0,52.0,,,,,,2026-08-21 11:00:00,2026-08-21 04:25:25,Satisfactory
