@@ -13778,3 +13778,5 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 15657,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,86.0,86.0,,,,,,2026-08-21 23:00:00,2026-08-21 17:16:44,Satisfactory
 15658,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,25.0,25.0,8.0,7.8,22.0,3.7,3.1,2026-08-22 00:00:00,2026-08-21 17:16:44,Good
 15677,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,20.0,13.0,6.0,6.9,20.4,3.7,3.1,2026-08-22 01:00:00,2026-08-21 18:17:39,Good
+15695,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,91.0,91.0,,,,,,2026-08-22 01:00:00,2026-08-21 19:17:21,Satisfactory
+15696,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,13.0,13.0,7.0,15.6,12.6,3.7,3.1,2026-08-22 02:00:00,2026-08-21 19:17:21,Good
