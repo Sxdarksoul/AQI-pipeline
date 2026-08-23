@@ -13920,3 +13920,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 15916,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,48.0,48.0,,,,,,2026-08-23 20:00:00,2026-08-23 13:22:42,Good
 15917,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,30.0,15.0,11.9,20.4,3.7,3.6,2026-08-23 20:00:00,2026-08-23 13:22:42,Good
 15918,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,46.0,13.0,18.0,1.9,46.3,1.0,3.6,2026-08-23 21:00:00,2026-08-23 13:22:42,Good
+15921,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,30.0,12.0,10.1,20.4,3.7,3.6,2026-08-23 21:00:00,2026-08-23 14:10:45,Good
