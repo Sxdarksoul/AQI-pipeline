@@ -13900,3 +13900,7 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 15893,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,36.0,13.0,12.0,2.8,35.8,3.7,3.1,2026-08-23 14:00:00,2026-08-23 07:22:30,Good
 15894,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,48.0,13.0,6.0,1.4,47.6,1.9,3.6,2026-08-23 15:00:00,2026-08-23 07:22:30,Good
 15897,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,39.0,13.0,8.0,3.2,39.4,2.8,3.1,2026-08-23 15:00:00,2026-08-23 08:14:10,Good
+15899,Chandigarh,Chandigarh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.7333,76.7794,50.0,13.0,6.0,1.0,50.0,1.9,4.1,2026-08-23 16:00:00,2026-08-23 09:14:27,Good
+15900,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,55.0,55.0,,,,,,2026-08-23 15:00:00,2026-08-23 09:14:27,Satisfactory
+15901,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,38.0,25.0,10.0,3.2,37.8,2.8,3.1,2026-08-23 16:00:00,2026-08-23 09:14:27,Good
+15902,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,50.0,13.0,6.0,1.0,50.0,1.9,4.1,2026-08-23 16:00:00,2026-08-23 09:14:27,Good
