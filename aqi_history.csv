@@ -13993,3 +13993,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 15995,Chandigarh,Chandigarh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.7333,76.7794,44.0,13.0,13.0,2.8,43.9,1.9,3.6,2026-08-24 18:00:00,2026-08-24 10:24:29,Good
 15996,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,60.0,60.0,,,,,,2026-08-24 17:00:00,2026-08-24 10:24:29,Satisfactory
 15998,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,44.0,13.0,13.0,2.8,43.9,1.9,3.6,2026-08-24 18:00:00,2026-08-24 10:24:29,Good
+16001,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,35.0,25.0,7.0,2.8,35.0,2.8,3.1,2026-08-24 18:00:00,2026-08-24 11:15:35,Good
