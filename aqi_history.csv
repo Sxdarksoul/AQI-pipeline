@@ -14002,3 +14002,6 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 16008,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,74.0,74.0,,,,,,2026-08-24 21:00:00,2026-08-24 14:28:55,Satisfactory
 16009,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,26.0,25.0,14.0,10.6,26.0,3.7,3.1,2026-08-24 22:00:00,2026-08-24 14:28:55,Good
 16010,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,53.0,13.0,10.0,1.9,52.6,1.9,3.6,2026-08-24 22:00:00,2026-08-24 14:28:55,Satisfactory
+16011,Chandigarh,Chandigarh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.7333,76.7794,50.0,13.0,10.0,1.9,50.0,1.9,3.6,2026-08-24 23:00:00,2026-08-24 15:25:56,Good
+16012,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,189.0,189.0,,,,,,2026-08-24 22:00:00,2026-08-24 15:25:56,Moderate
+16014,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,50.0,13.0,10.0,1.9,50.0,1.9,3.6,2026-08-24 23:00:00,2026-08-24 15:25:56,Good
