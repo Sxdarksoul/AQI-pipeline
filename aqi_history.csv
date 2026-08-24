@@ -13971,3 +13971,6 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 15972,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,62.0,62.0,,,,,,2026-08-24 11:00:00,2026-08-24 04:32:18,Satisfactory
 15973,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,32.0,13.0,10.0,2.3,31.7,2.8,3.1,2026-08-24 12:00:00,2026-08-24 04:32:18,Good
 15974,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,44.0,13.0,6.0,1.9,44.3,2.8,3.6,2026-08-24 12:00:00,2026-08-24 04:32:18,Good
+15975,Chandigarh,Chandigarh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",30.7333,76.7794,46.0,13.0,6.0,1.4,45.9,1.9,3.6,2026-08-24 13:00:00,2026-08-24 05:26:37,Good
+15976,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,51.0,51.0,,,,,,2026-08-24 12:00:00,2026-08-24 05:26:37,Satisfactory
+15978,Shimla,Himachal Pradesh,"Ngari Station, Ngari Sanai (阿里地区阿里监测站)",31.1048,77.1734,46.0,13.0,6.0,1.4,45.9,1.9,3.6,2026-08-24 13:00:00,2026-08-24 05:26:37,Good
