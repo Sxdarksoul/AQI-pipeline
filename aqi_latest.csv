@@ -1,31 +1,31 @@
 city,state,station,latitude,longitude,CITY_AQI,pm25,pm10,no2,o3,co,so2,HEALTH_RISK_TIER,last_update,fetched_at
-Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,114.0,114.0,81.0,4.3,4.3,3.2,2.7,Moderate,2026-08-31 00:00:00,2026-08-30 18:51:07
-Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,85.0,85.0,85.0,4.9,2.8,2.8,1.6,Satisfactory,2026-08-31 00:00:00,2026-08-30 18:51:07
-Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,114.0,114.0,81.0,4.3,4.3,3.2,2.7,Moderate,2026-08-31 00:00:00,2026-08-30 18:51:07
-Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,114.0,114.0,81.0,4.3,4.3,3.2,2.7,Moderate,2026-08-31 00:00:00,2026-08-30 18:51:07
+Agra,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",27.1767,78.0081,78.0,78.0,75.0,6.8,4.5,8.5,5.4,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
+Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,51.0,13.0,51.0,3.0,2.8,1.0,1.7,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
+Bengaluru,Karnataka,"Sri Auribindo Marg, Delhi, Delhi, India",12.9716,77.5946,91.0,91.0,69.0,5.9,2.6,4.6,3.9,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
+Bhopal,Madhya Pradesh,"Sri Auribindo Marg, Delhi, Delhi, India",23.2599,77.4126,91.0,91.0,69.0,5.9,2.6,4.6,3.9,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
 Bhubaneswar,Odisha,"District radiation station, Lhasa (拉萨区辐射站)",20.2961,85.8245,45.0,13.0,9.0,4.2,45.1,1.9,3.6,Good,2026-07-06 13:00:00,2026-07-06 06:13:04
-Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,151.0,151.0,115.0,9.9,5.4,13.6,4.2,Moderate,2026-08-31 00:00:00,2026-08-30 18:51:07
+Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,102.0,102.0,70.0,9.5,9.4,9.1,4.6,Moderate,2026-08-31 03:00:00,2026-08-30 21:40:44
 Chennai,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",13.0827,80.2707,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
-Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,114.0,114.0,81.0,4.3,4.3,3.2,2.7,Moderate,2026-08-31 00:00:00,2026-08-30 18:51:07
+Coimbatore,Tamil Nadu,"Sri Auribindo Marg, Delhi, Delhi, India",11.0168,76.9558,91.0,91.0,69.0,5.9,2.6,4.6,3.9,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
 Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,124.0,124.0,121.0,13.5,7.3,30.8,4.5,Moderate,2026-08-30 20:00:00,2026-08-30 15:31:03
-Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,165.0,99.0,165.0,19.5,3.9,1.9,1.8,Moderate,2026-08-31 00:00:00,2026-08-30 18:51:07
-Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,32.0,25.0,6.0,5.5,32.1,1.9,3.1,Good,2026-08-31 02:00:00,2026-08-30 18:51:07
+Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,65.0,50.0,65.0,6.4,5.0,0.7,3.4,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
+Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,13.0,6.0,6.9,30.1,1.9,3.6,Good,2026-08-31 05:00:00,2026-08-30 21:40:44
 Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,120.0,104.0,120.0,4.5,15.3,3.0,3.5,Moderate,2026-07-13 16:00:00,2026-07-13 11:46:35
-Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,114.0,114.0,81.0,4.3,4.3,3.2,2.7,Moderate,2026-08-31 00:00:00,2026-08-30 18:51:07
-Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,85.0,85.0,85.0,4.9,2.8,2.8,1.6,Satisfactory,2026-08-31 00:00:00,2026-08-30 18:51:07
+Indore,Madhya Pradesh,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",22.7196,75.8577,51.0,13.0,51.0,3.0,2.8,1.0,1.7,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
+Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,51.0,13.0,51.0,3.0,2.8,1.0,1.7,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
 Kanpur,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.4499,80.3319,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
 Kolkata,West Bengal,"District radiation station, Lhasa (拉萨区辐射站)",22.5726,88.3639,45.0,13.0,9.0,4.2,45.1,1.9,3.6,Good,2026-07-06 13:00:00,2026-07-06 06:13:04
 Lucknow,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.8467,80.9462,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
-Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,85.0,85.0,85.0,4.9,2.8,2.8,1.6,Satisfactory,2026-08-31 00:00:00,2026-08-30 18:51:07
+Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,51.0,13.0,51.0,3.0,2.8,1.0,1.7,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
 Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,120.0,104.0,120.0,4.5,15.3,3.0,3.5,Moderate,2026-07-13 16:00:00,2026-07-13 11:46:35
-New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,71.0,61.0,71.0,6.6,2.1,8.6,8.1,Satisfactory,2026-08-31 00:00:00,2026-08-30 18:51:07
-Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,109.0,109.0,104.0,9.0,4.2,11.1,4.7,Moderate,2026-08-31 00:00:00,2026-08-30 18:51:07
-Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,114.0,114.0,81.0,4.3,4.3,3.2,2.7,Moderate,2026-08-31 00:00:00,2026-08-30 18:51:07
+New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,65.0,42.0,65.0,5.4,3.2,4.8,8.6,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
+Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,78.0,78.0,75.0,6.8,4.5,8.5,5.4,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
+Ooty,Tamil Nadu,"Sri Auribindo Marg, Delhi, Delhi, India",11.4102,76.695,91.0,91.0,69.0,5.9,2.6,4.6,3.9,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
 Patna,Bihar,"District radiation station, Lhasa (拉萨区辐射站)",25.5941,85.1376,45.0,13.0,9.0,4.2,45.1,1.9,3.6,Good,2026-07-06 13:00:00,2026-07-06 06:13:04
-Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,85.0,85.0,85.0,4.9,2.8,2.8,1.6,Satisfactory,2026-08-31 00:00:00,2026-08-30 18:51:07
+Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,51.0,13.0,51.0,3.0,2.8,1.0,1.7,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
 Ranchi,Jharkhand,"District radiation station, Lhasa (拉萨区辐射站)",23.3441,85.3096,45.0,13.0,9.0,4.2,45.1,1.9,3.6,Good,2026-07-06 13:00:00,2026-07-06 06:13:04
-Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,151.0,151.0,115.0,9.9,5.4,13.6,4.2,Moderate,2026-08-31 00:00:00,2026-08-30 18:51:07
-Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,85.0,85.0,85.0,4.9,2.8,2.8,1.6,Satisfactory,2026-08-31 00:00:00,2026-08-30 18:51:07
-Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,85.0,85.0,46.0,6.4,5.9,5.5,1.9,Satisfactory,2026-08-30 23:00:00,2026-08-30 18:51:07
+Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,102.0,102.0,70.0,9.5,9.4,9.1,4.6,Moderate,2026-08-31 03:00:00,2026-08-30 21:40:44
+Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,51.0,13.0,51.0,3.0,2.8,1.0,1.7,Satisfactory,2026-08-31 03:00:00,2026-08-30 21:40:44
+Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,96.0,96.0,46.0,6.4,5.9,5.5,1.9,Satisfactory,2026-08-31 04:00:00,2026-08-30 21:40:44
 Varanasi,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.3176,82.9739,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
 Visakhapatnam,Andhra Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.6868,83.2185,81.0,81.0,51.0,4.1,12.3,3.7,1.3,Satisfactory,2026-07-06 11:00:00,2026-07-06 06:13:04
