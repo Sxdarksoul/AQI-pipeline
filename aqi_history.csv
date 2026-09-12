@@ -16574,3 +16574,4 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 18727,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,52.0,52.0,,,,,,2026-09-13 02:00:00,2026-09-12 21:43:21,Satisfactory
 18728,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,24.0,13.0,7.0,6.0,24.4,1.9,3.1,2026-09-13 04:00:00,2026-09-12 21:43:21,Good
 18729,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,117.0,117.0,90.0,4.8,3.6,9.1,4.2,2026-09-13 02:00:00,2026-09-12 21:43:21,Moderate
+18744,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,117.0,117.0,63.0,11.9,2.0,4.9,1.0,2026-09-13 04:00:00,2026-09-12 23:28:09,Moderate
