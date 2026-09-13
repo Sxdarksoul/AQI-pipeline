@@ -16617,3 +16617,22 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 18804,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,57.0,57.0,21.0,6.9,34.2,1.0,4.6,2026-09-13 19:00:00,2026-09-13 12:21:29,Satisfactory
 18805,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,74.0,74.0,52.0,4.3,14.9,8.2,3.6,2026-09-13 17:00:00,2026-09-13 12:21:29,Satisfactory
 18806,Ooty,Tamil Nadu,"Sri Auribindo Marg, Delhi, Delhi, India",11.4102,76.695,76.0,76.0,54.0,4.5,11.7,8.2,2.0,2026-09-13 17:00:00,2026-09-13 12:21:29,Satisfactory
+18807,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,76.0,68.0,76.0,7.1,3.6,14.7,21.6,2026-09-13 22:00:00,2026-09-13 16:40:45,Satisfactory
+18808,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,71.0,61.0,71.0,10.0,6.2,3.7,5.5,2026-09-13 22:00:00,2026-09-13 16:40:45,Satisfactory
+18809,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,112.0,112.0,90.0,8.7,3.8,5.5,3.6,2026-09-13 22:00:00,2026-09-13 16:40:45,Moderate
+18810,Agra,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",27.1767,78.0081,112.0,112.0,90.0,8.7,3.8,5.5,3.6,2026-09-13 22:00:00,2026-09-13 16:40:45,Moderate
+18811,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,63.0,63.0,60.0,2.5,8.1,9.1,2.9,2026-09-13 22:00:00,2026-09-13 16:40:45,Satisfactory
+18812,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,60.0,46.0,60.0,4.0,2.9,3.2,3.2,2026-09-13 22:00:00,2026-09-13 16:40:45,Satisfactory
+18813,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,60.0,46.0,60.0,4.0,2.9,3.2,3.2,2026-09-13 22:00:00,2026-09-13 16:40:45,Satisfactory
+18814,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,60.0,46.0,60.0,4.0,2.9,3.2,3.2,2026-09-13 22:00:00,2026-09-13 16:40:45,Satisfactory
+18815,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,60.0,46.0,60.0,4.0,2.9,3.2,3.2,2026-09-13 22:00:00,2026-09-13 16:40:45,Satisfactory
+18816,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,60.0,46.0,60.0,4.0,2.9,3.2,3.2,2026-09-13 22:00:00,2026-09-13 16:40:45,Satisfactory
+18817,Indore,Madhya Pradesh,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",22.7196,75.8577,60.0,46.0,60.0,4.0,2.9,3.2,3.2,2026-09-13 22:00:00,2026-09-13 16:40:45,Satisfactory
+18818,Bhopal,Madhya Pradesh,"Sri Auribindo Marg, Delhi, Delhi, India",23.2599,77.4126,107.0,107.0,79.0,10.3,3.5,10.0,2.2,2026-09-13 22:00:00,2026-09-13 16:40:45,Moderate
+18819,Bengaluru,Karnataka,"Sri Auribindo Marg, Delhi, Delhi, India",12.9716,77.5946,107.0,107.0,79.0,10.3,3.5,10.0,2.2,2026-09-13 22:00:00,2026-09-13 16:40:45,Moderate
+18820,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,78.0,78.0,42.0,10.2,2.8,4.8,1.1,2026-09-13 22:00:00,2026-09-13 16:40:45,Satisfactory
+18821,Coimbatore,Tamil Nadu,"Sri Auribindo Marg, Delhi, Delhi, India",11.0168,76.9558,107.0,107.0,79.0,10.3,3.5,10.0,2.2,2026-09-13 22:00:00,2026-09-13 16:40:45,Moderate
+18822,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,52.0,52.0,,,,,,2026-09-13 23:00:00,2026-09-13 16:40:45,Satisfactory
+18823,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,25.0,13.0,6.0,5.1,25.2,1.9,3.1,2026-09-14 00:00:00,2026-09-13 16:40:45,Good
+18824,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,63.0,63.0,60.0,2.5,8.1,9.1,2.9,2026-09-13 22:00:00,2026-09-13 16:40:45,Satisfactory
+18825,Ooty,Tamil Nadu,"Sri Auribindo Marg, Delhi, Delhi, India",11.4102,76.695,107.0,107.0,79.0,10.3,3.5,10.0,2.2,2026-09-13 22:00:00,2026-09-13 16:40:45,Moderate
