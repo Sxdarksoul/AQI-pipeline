@@ -17085,3 +17085,14 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 19279,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,58.0,13.0,7.0,1.9,57.8,1.0,3.1,2026-09-18 00:00:00,2026-09-17 17:18:32,Satisfactory
 19280,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,99.0,99.0,65.0,6.2,9.8,6.9,2.6,2026-09-17 18:00:00,2026-09-17 17:18:32,Satisfactory
 19281,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,132.0,132.0,101.0,9.6,11.7,6.1,2.2,2026-09-17 20:00:00,2026-09-17 17:18:32,Moderate
+19283,Gurugram,Haryana,"Sri Auribindo Marg, Delhi, Delhi, India",28.4595,77.0266,112.0,112.0,75.0,7.3,3.8,9.4,7.2,2026-09-17 20:00:00,2026-09-17 20:36:14,Moderate
+19284,Noida,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",28.5355,77.391,132.0,132.0,101.0,9.6,11.7,6.1,2.2,2026-09-17 20:00:00,2026-09-17 20:36:14,Moderate
+19286,Chandigarh,Chandigarh,"Alipur, Delhi, Delhi, India",30.7333,76.7794,139.0,139.0,68.0,9.9,1.8,8.8,0.6,2026-09-17 21:00:00,2026-09-17 20:36:14,Moderate
+19287,Jaipur,Rajasthan,"Sri Auribindo Marg, Delhi, Delhi, India",26.9124,75.7873,112.0,112.0,75.0,7.3,3.8,9.4,7.2,2026-09-17 20:00:00,2026-09-17 20:36:14,Moderate
+19288,Mumbai,Maharashtra,"Sri Auribindo Marg, Delhi, Delhi, India",19.076,72.8777,112.0,112.0,75.0,7.3,3.8,9.4,7.2,2026-09-17 20:00:00,2026-09-17 20:36:14,Moderate
+19289,Ahmedabad,Gujarat,"Sri Auribindo Marg, Delhi, Delhi, India",23.0225,72.5714,112.0,112.0,75.0,7.3,3.8,9.4,7.2,2026-09-17 20:00:00,2026-09-17 20:36:14,Moderate
+19290,Pune,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",18.5204,73.8567,132.0,132.0,101.0,9.6,11.7,6.1,2.2,2026-09-17 20:00:00,2026-09-17 20:36:14,Moderate
+19291,Surat,Gujarat,"Sri Auribindo Marg, Delhi, Delhi, India",21.1702,72.8311,112.0,112.0,75.0,7.3,3.8,9.4,7.2,2026-09-17 20:00:00,2026-09-17 20:36:14,Moderate
+19297,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,66.0,66.0,,,,,,2026-09-18 02:00:00,2026-09-17 20:36:14,Satisfactory
+19298,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,45.0,13.0,6.0,5.1,45.1,1.9,3.6,2026-09-18 03:00:00,2026-09-17 20:36:14,Good
+19299,Shimla,Himachal Pradesh,"Alipur, Delhi, Delhi, India",31.1048,77.1734,139.0,139.0,68.0,9.9,1.8,8.8,0.6,2026-09-17 21:00:00,2026-09-17 20:36:14,Moderate
