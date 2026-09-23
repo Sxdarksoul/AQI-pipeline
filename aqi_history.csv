@@ -17714,3 +17714,20 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 19958,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,62.0,62.0,,,,,,2026-09-23 08:00:00,2026-09-23 01:55:19,Satisfactory
 19959,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,39.0,13.0,6.0,1.9,38.6,1.9,3.1,2026-09-23 08:00:00,2026-09-23 01:55:19,Good
 19960,Shimla,Himachal Pradesh,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",31.1048,77.1734,161.0,161.0,106.0,5.1,5.1,13.4,4.6,2026-09-23 07:00:00,2026-09-23 01:55:19,Moderate
+19962,New Delhi,Delhi,"Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",28.6139,77.209,175.0,175.0,91.0,8.3,4.9,12.2,8.2,2026-09-23 08:00:00,2026-09-23 06:49:52,Moderate
+19963,Gurugram,Haryana,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",28.4595,77.0266,167.0,167.0,118.0,1.1,14.2,7.5,8.0,2026-09-23 12:00:00,2026-09-23 06:49:52,Moderate
+19964,Noida,Uttar Pradesh,"Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",28.5355,77.391,175.0,175.0,91.0,8.3,4.9,12.2,8.2,2026-09-23 08:00:00,2026-09-23 06:49:52,Moderate
+19965,Agra,Uttar Pradesh,"Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",27.1767,78.0081,175.0,175.0,91.0,8.3,4.9,12.2,8.2,2026-09-23 08:00:00,2026-09-23 06:49:52,Moderate
+19966,Chandigarh,Chandigarh,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",30.7333,76.7794,167.0,167.0,118.0,1.1,14.2,7.5,8.0,2026-09-23 12:00:00,2026-09-23 06:49:52,Moderate
+19967,Jaipur,Rajasthan,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",26.9124,75.7873,167.0,167.0,118.0,1.1,14.2,7.5,8.0,2026-09-23 12:00:00,2026-09-23 06:49:52,Moderate
+19968,Mumbai,Maharashtra,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",19.076,72.8777,167.0,167.0,118.0,1.1,14.2,7.5,8.0,2026-09-23 12:00:00,2026-09-23 06:49:52,Moderate
+19969,Ahmedabad,Gujarat,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",23.0225,72.5714,167.0,167.0,118.0,1.1,14.2,7.5,8.0,2026-09-23 12:00:00,2026-09-23 06:49:52,Moderate
+19970,Pune,Maharashtra,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",18.5204,73.8567,167.0,167.0,118.0,1.1,14.2,7.5,8.0,2026-09-23 12:00:00,2026-09-23 06:49:52,Moderate
+19971,Surat,Gujarat,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",21.1702,72.8311,167.0,167.0,118.0,1.1,14.2,7.5,8.0,2026-09-23 12:00:00,2026-09-23 06:49:52,Moderate
+19972,Indore,Madhya Pradesh,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",22.7196,75.8577,167.0,167.0,118.0,1.1,14.2,7.5,8.0,2026-09-23 12:00:00,2026-09-23 06:49:52,Moderate
+19973,Bhopal,Madhya Pradesh,"Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",23.2599,77.4126,175.0,175.0,91.0,8.3,4.9,12.2,8.2,2026-09-23 08:00:00,2026-09-23 06:49:52,Moderate
+19974,Dehradun,Uttarakhand,"Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",30.3165,78.0322,175.0,175.0,91.0,8.3,4.9,12.2,8.2,2026-09-23 08:00:00,2026-09-23 06:49:52,Moderate
+19975,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,134.0,134.0,,,,,,2026-09-23 13:00:00,2026-09-23 06:49:52,Moderate
+19976,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,40.0,25.0,8.0,4.6,40.3,2.8,3.6,2026-09-23 14:00:00,2026-09-23 06:49:52,Good
+19977,Shimla,Himachal Pradesh,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",31.1048,77.1734,167.0,167.0,118.0,1.1,14.2,7.5,8.0,2026-09-23 12:00:00,2026-09-23 06:49:52,Moderate
+19978,Ooty,Tamil Nadu,"Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",11.4102,76.695,175.0,175.0,91.0,8.3,4.9,12.2,8.2,2026-09-23 08:00:00,2026-09-23 06:49:52,Moderate
