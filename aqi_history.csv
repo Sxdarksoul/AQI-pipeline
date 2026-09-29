@@ -18285,3 +18285,16 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 20565,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,30.0,15.0,8.7,20.4,2.8,4.1,2026-09-29 03:00:00,2026-09-28 20:16:59,Good
 20566,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,102.0,102.0,73.0,11.2,6.3,7.0,3.3,2026-09-28 22:00:00,2026-09-28 20:16:59,Moderate
 20567,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,72.0,72.0,59.0,10.4,4.0,5.5,2.5,2026-09-29 01:00:00,2026-09-28 20:16:59,Satisfactory
+20568,New Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.6139,77.209,50.0,50.0,48.0,23.0,0.1,13.1,7.6,2026-09-28 23:00:00,2026-09-29 00:38:59,Good
+20570,Noida,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",28.5355,77.391,89.0,89.0,53.0,6.8,2.9,4.6,2.2,2026-09-29 05:00:00,2026-09-29 00:38:59,Satisfactory
+20571,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,89.0,89.0,53.0,6.8,2.9,4.6,2.2,2026-09-29 05:00:00,2026-09-29 00:38:59,Satisfactory
+20572,Chandigarh,Chandigarh,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",30.7333,76.7794,112.0,112.0,48.0,1.1,6.1,5.5,3.9,2026-09-29 06:00:00,2026-09-29 00:38:59,Moderate
+20578,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,89.0,89.0,53.0,6.8,2.9,4.6,2.2,2026-09-29 05:00:00,2026-09-29 00:38:59,Satisfactory
+20579,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,89.0,89.0,53.0,6.8,2.9,4.6,2.2,2026-09-29 05:00:00,2026-09-29 00:38:59,Satisfactory
+20580,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,89.0,89.0,53.0,6.8,2.9,4.6,2.2,2026-09-29 05:00:00,2026-09-29 00:38:59,Satisfactory
+20581,Dehradun,Uttarakhand,"Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",30.3165,78.0322,107.0,107.0,43.0,10.9,1.6,7.6,8.4,2026-09-29 06:00:00,2026-09-29 00:38:59,Moderate
+20582,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,89.0,89.0,53.0,6.8,2.9,4.6,2.2,2026-09-29 05:00:00,2026-09-29 00:38:59,Satisfactory
+20583,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,25.0,25.0,,,,,,2026-09-29 06:00:00,2026-09-29 00:38:59,Good
+20584,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,30.0,10.0,11.0,14.7,2.8,4.1,2026-09-29 07:00:00,2026-09-29 00:38:59,Good
+20585,Shimla,Himachal Pradesh,"Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",31.1048,77.1734,112.0,112.0,48.0,1.1,6.1,5.5,3.9,2026-09-29 06:00:00,2026-09-29 00:38:59,Moderate
+20586,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,89.0,89.0,53.0,6.8,2.9,4.6,2.2,2026-09-29 05:00:00,2026-09-29 00:38:59,Satisfactory
