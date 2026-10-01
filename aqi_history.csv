@@ -18463,3 +18463,22 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 20755,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,25.0,25.0,16.0,10.1,16.3,2.8,4.1,2026-10-01 06:00:00,2026-09-30 23:14:26,Good
 20756,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,129.0,129.0,111.0,9.7,2.6,7.5,4.2,2026-10-01 04:00:00,2026-09-30 23:14:26,Moderate
 20757,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,153.0,153.0,118.0,12.8,5.7,6.6,2.4,2026-10-01 04:00:00,2026-09-30 23:14:26,Moderate
+20758,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,154.0,154.0,86.0,14.4,2.6,11.8,15.0,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20759,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,156.0,156.0,144.0,17.2,4.5,4.8,7.1,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20760,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,154.0,154.0,116.0,17.8,2.8,12.9,5.0,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20761,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,174.0,174.0,128.0,9.3,7.4,6.4,2.7,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20762,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,151.0,151.0,99.0,7.2,7.0,7.3,3.4,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20763,Jaipur,Rajasthan,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",26.9124,75.7873,156.0,156.0,144.0,17.2,4.5,4.8,7.1,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20764,Mumbai,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",19.076,72.8777,156.0,156.0,144.0,17.2,4.5,4.8,7.1,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20765,Ahmedabad,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",23.0225,72.5714,156.0,156.0,144.0,17.2,4.5,4.8,7.1,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20766,Pune,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",18.5204,73.8567,174.0,174.0,128.0,9.3,7.4,6.4,2.7,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20767,Surat,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",21.1702,72.8311,156.0,156.0,144.0,17.2,4.5,4.8,7.1,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20768,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,174.0,174.0,128.0,9.3,7.4,6.4,2.7,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20769,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,174.0,174.0,128.0,9.3,7.4,6.4,2.7,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20770,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,174.0,174.0,128.0,9.3,7.4,6.4,2.7,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20771,Dehradun,Uttarakhand,"Narela, Delhi, Delhi, India",30.3165,78.0322,151.0,151.0,99.0,7.2,7.0,7.3,3.4,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20772,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,174.0,174.0,128.0,9.3,7.4,6.4,2.7,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20773,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,42.0,42.0,,,,,,2026-10-01 09:00:00,2026-10-01 02:34:22,Good
+20774,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,25.0,25.0,16.0,10.1,17.5,2.8,4.1,2026-10-01 09:00:00,2026-10-01 02:34:22,Good
+20775,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,151.0,151.0,99.0,7.2,7.0,7.3,3.4,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
+20776,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,174.0,174.0,128.0,9.3,7.4,6.4,2.7,2026-10-01 08:00:00,2026-10-01 02:34:22,Moderate
