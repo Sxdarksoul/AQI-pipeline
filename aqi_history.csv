@@ -18679,3 +18679,16 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 20982,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,20.0,20.0,,,,,,2026-10-03 20:00:00,2026-10-03 13:58:38,Good
 20983,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,48.0,25.0,8.0,2.3,47.6,1.9,3.1,2026-10-03 21:00:00,2026-10-03 13:58:38,Good
 20984,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,142.0,142.0,127.0,7.0,18.9,2.5,8.4,2026-10-03 15:00:00,2026-10-03 13:58:38,Moderate
+20986,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,157.0,157.0,118.0,22.1,2.3,22.4,4.1,2026-10-03 23:00:00,2026-10-03 17:43:42,Moderate
+20987,Gurugram,Haryana,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",28.4595,77.0266,101.0,99.0,101.0,1.7,9.7,3.7,5.6,2026-10-03 16:00:00,2026-10-03 17:43:42,Moderate
+20988,Noida,Uttar Pradesh,"Mandir Marg, Delhi, Delhi, India",28.5355,77.391,157.0,157.0,118.0,22.1,2.3,22.4,4.1,2026-10-03 23:00:00,2026-10-03 17:43:42,Moderate
+20989,Agra,Uttar Pradesh,"Mandir Marg, Delhi, Delhi, India",27.1767,78.0081,157.0,157.0,118.0,22.1,2.3,22.4,4.1,2026-10-03 23:00:00,2026-10-03 17:43:42,Moderate
+20990,Chandigarh,Chandigarh,"Pooth Khurd, Bawana, Delhi, Delhi, India",30.7333,76.7794,132.0,132.0,118.0,2.6,4.5,1.9,2.5,2026-10-03 16:00:00,2026-10-03 17:43:42,Moderate
+20996,Indore,Madhya Pradesh,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",22.7196,75.8577,101.0,99.0,101.0,1.7,9.7,3.7,5.6,2026-10-03 16:00:00,2026-10-03 17:43:42,Moderate
+20997,Bhopal,Madhya Pradesh,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.2599,77.4126,101.0,99.0,101.0,1.7,9.7,3.7,5.6,2026-10-03 16:00:00,2026-10-03 17:43:42,Moderate
+20998,Dehradun,Uttarakhand,"Pooth Khurd, Bawana, Delhi, Delhi, India",30.3165,78.0322,132.0,132.0,118.0,2.6,4.5,1.9,2.5,2026-10-03 16:00:00,2026-10-03 17:43:42,Moderate
+20999,Coimbatore,Tamil Nadu,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",11.0168,76.9558,101.0,99.0,101.0,1.7,9.7,3.7,5.6,2026-10-03 16:00:00,2026-10-03 17:43:42,Moderate
+21000,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,51.0,51.0,,,,,,2026-10-03 23:00:00,2026-10-03 17:43:42,Satisfactory
+21001,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,36.0,25.0,10.0,5.5,35.8,1.9,3.1,2026-10-04 01:00:00,2026-10-03 17:43:42,Good
+21002,Shimla,Himachal Pradesh,"Pooth Khurd, Bawana, Delhi, Delhi, India",31.1048,77.1734,132.0,132.0,118.0,2.6,4.5,1.9,2.5,2026-10-03 16:00:00,2026-10-03 17:43:42,Moderate
+21003,Ooty,Tamil Nadu,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",11.4102,76.695,101.0,99.0,101.0,1.7,9.7,3.7,5.6,2026-10-03 16:00:00,2026-10-03 17:43:42,Moderate
