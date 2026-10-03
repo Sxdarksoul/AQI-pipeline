@@ -18692,3 +18692,21 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 21001,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,36.0,25.0,10.0,5.5,35.8,1.9,3.1,2026-10-04 01:00:00,2026-10-03 17:43:42,Good
 21002,Shimla,Himachal Pradesh,"Pooth Khurd, Bawana, Delhi, Delhi, India",31.1048,77.1734,132.0,132.0,118.0,2.6,4.5,1.9,2.5,2026-10-03 16:00:00,2026-10-03 17:43:42,Moderate
 21003,Ooty,Tamil Nadu,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",11.4102,76.695,101.0,99.0,101.0,1.7,9.7,3.7,5.6,2026-10-03 16:00:00,2026-10-03 17:43:42,Moderate
+21004,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,170.0,170.0,124.0,17.3,2.9,19.0,4.5,2026-10-04 01:00:00,2026-10-03 20:14:36,Moderate
+21005,Gurugram,Haryana,"Punjabi Bagh, Delhi, Delhi, India",28.4595,77.0266,156.0,156.0,133.0,2.1,10.3,8.4,13.0,2026-10-03 18:00:00,2026-10-03 20:14:36,Moderate
+21006,Noida,Uttar Pradesh,"Mandir Marg, Delhi, Delhi, India",28.5355,77.391,170.0,170.0,124.0,17.3,2.9,19.0,4.5,2026-10-04 01:00:00,2026-10-03 20:14:36,Moderate
+21007,Agra,Uttar Pradesh,"Mandir Marg, Delhi, Delhi, India",27.1767,78.0081,170.0,170.0,124.0,17.3,2.9,19.0,4.5,2026-10-04 01:00:00,2026-10-03 20:14:36,Moderate
+21008,Chandigarh,Chandigarh,"Punjabi Bagh, Delhi, Delhi, India",30.7333,76.7794,156.0,156.0,133.0,2.1,10.3,8.4,13.0,2026-10-03 18:00:00,2026-10-03 20:14:36,Moderate
+21009,Jaipur,Rajasthan,"Punjabi Bagh, Delhi, Delhi, India",26.9124,75.7873,156.0,156.0,133.0,2.1,10.3,8.4,13.0,2026-10-03 18:00:00,2026-10-03 20:14:36,Moderate
+21010,Mumbai,Maharashtra,"Punjabi Bagh, Delhi, Delhi, India",19.076,72.8777,156.0,156.0,133.0,2.1,10.3,8.4,13.0,2026-10-03 18:00:00,2026-10-03 20:14:36,Moderate
+21011,Ahmedabad,Gujarat,"Punjabi Bagh, Delhi, Delhi, India",23.0225,72.5714,156.0,156.0,133.0,2.1,10.3,8.4,13.0,2026-10-03 18:00:00,2026-10-03 20:14:36,Moderate
+21012,Pune,Maharashtra,"Mandir Marg, Delhi, Delhi, India",18.5204,73.8567,170.0,170.0,124.0,17.3,2.9,19.0,4.5,2026-10-04 01:00:00,2026-10-03 20:14:36,Moderate
+21013,Surat,Gujarat,"Punjabi Bagh, Delhi, Delhi, India",21.1702,72.8311,156.0,156.0,133.0,2.1,10.3,8.4,13.0,2026-10-03 18:00:00,2026-10-03 20:14:36,Moderate
+21014,Indore,Madhya Pradesh,"Mandir Marg, Delhi, Delhi, India",22.7196,75.8577,170.0,170.0,124.0,17.3,2.9,19.0,4.5,2026-10-04 01:00:00,2026-10-03 20:14:36,Moderate
+21015,Bhopal,Madhya Pradesh,"Mandir Marg, Delhi, Delhi, India",23.2599,77.4126,170.0,170.0,124.0,17.3,2.9,19.0,4.5,2026-10-04 01:00:00,2026-10-03 20:14:36,Moderate
+21016,Dehradun,Uttarakhand,"Mandir Marg, Delhi, Delhi, India",30.3165,78.0322,170.0,170.0,124.0,17.3,2.9,19.0,4.5,2026-10-04 01:00:00,2026-10-03 20:14:36,Moderate
+21017,Coimbatore,Tamil Nadu,"Mandir Marg, Delhi, Delhi, India",11.0168,76.9558,170.0,170.0,124.0,17.3,2.9,19.0,4.5,2026-10-04 01:00:00,2026-10-03 20:14:36,Moderate
+21018,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,23.0,23.0,,,,,,2026-10-04 02:00:00,2026-10-03 20:14:36,Good
+21019,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,32.0,13.0,8.0,4.2,32.1,1.9,3.1,2026-10-04 03:00:00,2026-10-03 20:14:36,Good
+21020,Shimla,Himachal Pradesh,"Punjabi Bagh, Delhi, Delhi, India",31.1048,77.1734,156.0,156.0,133.0,2.1,10.3,8.4,13.0,2026-10-03 18:00:00,2026-10-03 20:14:36,Moderate
+21021,Ooty,Tamil Nadu,"Mandir Marg, Delhi, Delhi, India",11.4102,76.695,170.0,170.0,124.0,17.3,2.9,19.0,4.5,2026-10-04 01:00:00,2026-10-03 20:14:36,Moderate
