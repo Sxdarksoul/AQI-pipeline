@@ -18764,3 +18764,21 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 21073,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,47.0,13.0,15.0,2.3,47.2,1.9,3.1,2026-10-04 16:00:00,2026-10-04 08:56:30,Good
 21074,Shimla,Himachal Pradesh,"Mandir Marg, Delhi, Delhi, India",31.1048,77.1734,121.0,117.0,121.0,6.0,14.3,10.9,3.2,2026-10-04 14:00:00,2026-10-04 08:56:30,Moderate
 21075,Ooty,Tamil Nadu,"Mandir Marg, Delhi, Delhi, India",11.4102,76.695,121.0,117.0,121.0,6.0,14.3,10.9,3.2,2026-10-04 14:00:00,2026-10-04 08:56:30,Moderate
+21076,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21077,Gurugram,Haryana,"Mandir Marg, Delhi, Delhi, India",28.4595,77.0266,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21078,Noida,Uttar Pradesh,"Mandir Marg, Delhi, Delhi, India",28.5355,77.391,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21079,Agra,Uttar Pradesh,"Mandir Marg, Delhi, Delhi, India",27.1767,78.0081,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21080,Chandigarh,Chandigarh,"Mandir Marg, Delhi, Delhi, India",30.7333,76.7794,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21081,Jaipur,Rajasthan,"Mandir Marg, Delhi, Delhi, India",26.9124,75.7873,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21082,Mumbai,Maharashtra,"Mandir Marg, Delhi, Delhi, India",19.076,72.8777,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21083,Ahmedabad,Gujarat,"Mandir Marg, Delhi, Delhi, India",23.0225,72.5714,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21084,Pune,Maharashtra,"Mandir Marg, Delhi, Delhi, India",18.5204,73.8567,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21085,Surat,Gujarat,"Mandir Marg, Delhi, Delhi, India",21.1702,72.8311,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21086,Indore,Madhya Pradesh,"Mandir Marg, Delhi, Delhi, India",22.7196,75.8577,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21087,Bhopal,Madhya Pradesh,"Mandir Marg, Delhi, Delhi, India",23.2599,77.4126,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21088,Dehradun,Uttarakhand,"Mandir Marg, Delhi, Delhi, India",30.3165,78.0322,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21089,Coimbatore,Tamil Nadu,"Mandir Marg, Delhi, Delhi, India",11.0168,76.9558,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21090,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,50.0,50.0,,,,,,2026-10-04 21:00:00,2026-10-04 14:29:43,Good
+21091,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,38.0,13.0,9.0,6.4,38.2,1.9,3.1,2026-10-04 21:00:00,2026-10-04 14:29:43,Good
+21092,Shimla,Himachal Pradesh,"Mandir Marg, Delhi, Delhi, India",31.1048,77.1734,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
+21093,Ooty,Tamil Nadu,"Mandir Marg, Delhi, Delhi, India",11.4102,76.695,107.0,102.0,107.0,11.7,5.4,14.7,2.0,2026-10-04 19:00:00,2026-10-04 14:29:43,Moderate
