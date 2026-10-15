@@ -19626,3 +19626,19 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 21936,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,23.0,23.0,,,,,,2026-10-15 05:00:00,2026-10-14 22:43:50,Good
 21937,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,192.0,191.0,192.0,23.3,3.9,10.0,3.0,2026-10-15 03:00:00,2026-10-14 22:43:50,Moderate
 21938,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,180.0,180.0,129.0,10.4,7.2,4.9,1.5,2026-10-15 04:00:00,2026-10-14 22:43:50,Moderate
+21939,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,171.0,171.0,97.0,18.4,3.3,12.9,6.5,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21940,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,191.0,191.0,137.0,18.9,3.9,5.7,3.2,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21941,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,173.0,173.0,120.0,17.7,2.9,4.1,2.6,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21942,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,176.0,176.0,114.0,11.6,8.2,5.9,2.1,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21944,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,178.0,178.0,101.0,3.7,2.5,6.6,1.0,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21945,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,178.0,178.0,101.0,3.7,2.5,6.6,1.0,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21946,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,178.0,178.0,101.0,3.7,2.5,6.6,1.0,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21947,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,178.0,178.0,101.0,3.7,2.5,6.6,1.0,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21948,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,178.0,178.0,101.0,3.7,2.5,6.6,1.0,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21949,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,176.0,176.0,114.0,11.6,8.2,5.9,2.1,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21950,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,176.0,176.0,114.0,11.6,8.2,5.9,2.1,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21951,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,176.0,176.0,114.0,11.6,8.2,5.9,2.1,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21952,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,188.0,188.0,139.0,13.0,0.5,7.0,1.7,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21953,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,176.0,176.0,114.0,11.6,8.2,5.9,2.1,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
+21954,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,34.0,34.0,,,,,,2026-10-15 07:00:00,2026-10-15 00:59:29,Good
+21956,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,176.0,176.0,114.0,11.6,8.2,5.9,2.1,2026-10-15 06:00:00,2026-10-15 00:59:29,Moderate
