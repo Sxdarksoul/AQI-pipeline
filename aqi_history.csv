@@ -19745,3 +19745,21 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 22062,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,67.0,67.0,,,,,,2026-10-16 07:00:00,2026-10-16 00:50:26,Satisfactory
 22063,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,152.0,152.0,79.0,4.1,2.0,6.1,1.7,2026-10-16 06:00:00,2026-10-16 00:50:26,Moderate
 22064,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,109.0,109.0,62.0,12.9,1.9,6.1,1.8,2026-10-16 06:00:00,2026-10-16 00:50:26,Moderate
+22065,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,142.0,142.0,76.0,16.7,3.1,12.7,6.5,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22066,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,158.0,158.0,94.0,27.6,4.3,11.8,5.9,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22067,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,149.0,149.0,71.0,8.7,5.7,4.9,1.7,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22068,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,151.0,151.0,70.0,7.3,8.7,5.7,1.6,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22069,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,163.0,163.0,119.0,7.6,1.3,7.3,2.3,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22070,Jaipur,Rajasthan,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",26.9124,75.7873,158.0,158.0,94.0,27.6,4.3,11.8,5.9,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22071,Mumbai,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",19.076,72.8777,158.0,158.0,94.0,27.6,4.3,11.8,5.9,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22072,Ahmedabad,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",23.0225,72.5714,158.0,158.0,94.0,27.6,4.3,11.8,5.9,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22073,Pune,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",18.5204,73.8567,151.0,151.0,70.0,7.3,8.7,5.7,1.6,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22074,Surat,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",21.1702,72.8311,158.0,158.0,94.0,27.6,4.3,11.8,5.9,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22075,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,151.0,151.0,70.0,7.3,8.7,5.7,1.6,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22076,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,151.0,151.0,70.0,7.3,8.7,5.7,1.6,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22077,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,151.0,151.0,70.0,7.3,8.7,5.7,1.6,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22078,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,159.0,159.0,101.0,14.1,0.8,6.6,1.4,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22079,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,151.0,151.0,70.0,7.3,8.7,5.7,1.6,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22080,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,96.0,96.0,,,,,,2026-10-16 11:00:00,2026-10-16 05:11:31,Satisfactory
+22081,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,163.0,163.0,119.0,7.6,1.3,7.3,2.3,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
+22082,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,151.0,151.0,70.0,7.3,8.7,5.7,1.6,2026-10-16 10:00:00,2026-10-16 05:11:31,Moderate
