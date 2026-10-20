@@ -20265,3 +20265,10 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 22584,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,31.0,31.0,,,,,,2026-10-20 20:00:00,2026-10-20 13:53:44,Good
 22585,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,162.0,162.0,162.0,6.6,6.8,7.3,2.2,2026-10-20 19:00:00,2026-10-20 13:53:44,Moderate
 22586,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,160.0,160.0,125.0,28.2,6.6,12.9,3.4,2026-10-20 19:00:00,2026-10-20 13:53:44,Moderate
+22587,New Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.6139,77.209,174.0,174.0,139.0,29.3,0.8,15.9,3.0,2026-10-20 23:00:00,2026-10-20 18:08:30,Moderate
+22588,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,166.0,166.0,149.0,31.8,6.3,10.0,7.4,2026-10-20 20:00:00,2026-10-20 18:08:30,Moderate
+22589,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,259.0,252.0,259.0,34.7,1.8,31.2,8.6,2026-10-20 22:00:00,2026-10-20 18:08:30,Poor
+22591,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,187.0,187.0,133.0,8.1,7.3,8.4,2.0,2026-10-20 22:00:00,2026-10-20 18:08:30,Moderate
+22600,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,171.0,171.0,142.0,10.5,5.9,6.6,1.4,2026-10-20 20:00:00,2026-10-20 18:08:30,Moderate
+22602,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,34.0,34.0,,,,,,2026-10-20 23:00:00,2026-10-20 18:08:30,Good
+22603,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,187.0,187.0,133.0,8.1,7.3,8.4,2.0,2026-10-20 22:00:00,2026-10-20 18:08:30,Moderate
