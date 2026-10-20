@@ -20272,3 +20272,16 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 22600,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,171.0,171.0,142.0,10.5,5.9,6.6,1.4,2026-10-20 20:00:00,2026-10-20 18:08:30,Moderate
 22602,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,34.0,34.0,,,,,,2026-10-20 23:00:00,2026-10-20 18:08:30,Good
 22603,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,187.0,187.0,133.0,8.1,7.3,8.4,2.0,2026-10-20 22:00:00,2026-10-20 18:08:30,Moderate
+22605,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,384.0,384.0,279.0,17.4,1.6,37.3,5.5,2026-10-21 03:00:00,2026-10-20 21:57:04,Very Poor
+22608,Agra,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",27.1767,78.0081,259.0,252.0,259.0,34.7,1.8,31.2,8.6,2026-10-20 22:00:00,2026-10-20 21:57:04,Poor
+22610,Jaipur,Rajasthan,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",26.9124,75.7873,166.0,166.0,149.0,31.8,6.3,10.0,7.4,2026-10-20 20:00:00,2026-10-20 21:57:04,Moderate
+22611,Mumbai,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",19.076,72.8777,166.0,166.0,149.0,31.8,6.3,10.0,7.4,2026-10-20 20:00:00,2026-10-20 21:57:04,Moderate
+22612,Ahmedabad,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",23.0225,72.5714,166.0,166.0,149.0,31.8,6.3,10.0,7.4,2026-10-20 20:00:00,2026-10-20 21:57:04,Moderate
+22613,Pune,Maharashtra,"Sri Auribindo Marg, Delhi, Delhi, India",18.5204,73.8567,151.0,151.0,92.0,8.6,3.4,10.9,0.5,2026-10-20 21:00:00,2026-10-20 21:57:04,Moderate
+22614,Surat,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",21.1702,72.8311,166.0,166.0,149.0,31.8,6.3,10.0,7.4,2026-10-20 20:00:00,2026-10-20 21:57:04,Moderate
+22615,Indore,Madhya Pradesh,"Sri Auribindo Marg, Delhi, Delhi, India",22.7196,75.8577,151.0,151.0,92.0,8.6,3.4,10.9,0.5,2026-10-20 21:00:00,2026-10-20 21:57:04,Moderate
+22616,Bhopal,Madhya Pradesh,"Sri Auribindo Marg, Delhi, Delhi, India",23.2599,77.4126,151.0,151.0,92.0,8.6,3.4,10.9,0.5,2026-10-20 21:00:00,2026-10-20 21:57:04,Moderate
+22617,Bengaluru,Karnataka,"Sri Auribindo Marg, Delhi, Delhi, India",12.9716,77.5946,151.0,151.0,92.0,8.6,3.4,10.9,0.5,2026-10-20 21:00:00,2026-10-20 21:57:04,Moderate
+22619,Coimbatore,Tamil Nadu,"Sri Auribindo Marg, Delhi, Delhi, India",11.0168,76.9558,151.0,151.0,92.0,8.6,3.4,10.9,0.5,2026-10-20 21:00:00,2026-10-20 21:57:04,Moderate
+22620,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,11.0,11.0,,,,,,2026-10-21 04:00:00,2026-10-20 21:57:04,Good
+22622,Ooty,Tamil Nadu,"Sri Auribindo Marg, Delhi, Delhi, India",11.4102,76.695,151.0,151.0,92.0,8.6,3.4,10.9,0.5,2026-10-20 21:00:00,2026-10-20 21:57:04,Moderate
