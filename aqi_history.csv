@@ -20621,3 +20621,33 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 22960,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,45.0,45.0,12.0,3.5,4.8,0.1,,2026-10-23 15:00:00,2026-10-23 07:58:43,Good
 22961,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,179.0,179.0,143.0,4.8,7.2,4.9,2.1,2026-10-23 11:00:00,2026-10-23 07:58:43,Moderate
 22962,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,183.0,183.0,137.0,10.1,25.6,7.3,2.3,2026-10-23 11:00:00,2026-10-23 07:58:43,Moderate
+22963,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,169.0,169.0,112.0,22.7,7.9,17.8,1.1,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22964,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,163.0,163.0,126.0,31.8,7.5,18.3,6.9,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22965,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,167.0,167.0,122.0,20.1,13.9,9.4,2.6,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22966,Lucknow,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.8467,80.9462,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22967,Kanpur,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.4499,80.3319,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22968,Patna,Bihar,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.5941,85.1376,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22969,Varanasi,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.3176,82.9739,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22970,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22971,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,269.0,269.0,185.0,9.5,1.6,4.6,2.8,2026-10-23 18:00:00,2026-10-23 13:01:58,Poor
+22972,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,161.0,161.0,109.0,3.1,10.9,6.4,3.9,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22973,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,161.0,161.0,109.0,3.1,10.9,6.4,3.9,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22974,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,161.0,161.0,109.0,3.1,10.9,6.4,3.9,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22975,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,161.0,161.0,109.0,3.1,10.9,6.4,3.9,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22976,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,161.0,161.0,109.0,3.1,10.9,6.4,3.9,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22977,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22978,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22979,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22980,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22981,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22982,Chennai,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",13.0827,80.2707,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22983,Visakhapatnam,Andhra Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.6868,83.2185,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22984,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,165.0,165.0,138.0,24.3,1.3,6.4,0.7,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22985,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22986,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,49.0,49.0,,,,,,2026-10-23 18:00:00,2026-10-23 13:01:58,Good
+22987,Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,61.0,61.0,23.0,3.5,4.8,0.1,,2026-10-23 20:00:00,2026-10-23 13:01:58,Satisfactory
+22988,Ranchi,Jharkhand,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.3441,85.3096,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22989,Bhubaneswar,Odisha,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",20.2961,85.8245,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
+22990,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,61.0,61.0,23.0,3.5,4.8,0.1,,2026-10-23 20:00:00,2026-10-23 13:01:58,Satisfactory
+22991,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,269.0,269.0,185.0,9.5,1.6,4.6,2.8,2026-10-23 18:00:00,2026-10-23 13:01:58,Poor
+22992,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,167.0,167.0,133.0,24.8,11.8,9.3,2.2,2026-10-23 18:00:00,2026-10-23 13:01:58,Moderate
