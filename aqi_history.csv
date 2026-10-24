@@ -20771,3 +20771,33 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 23110,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,30.0,30.0,12.0,3.5,4.8,0.1,,2026-10-24 09:00:00,2026-10-24 02:04:30,Good
 23111,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,191.0,191.0,125.0,5.4,0.7,7.3,2.2,2026-10-24 07:00:00,2026-10-24 02:04:30,Moderate
 23112,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,157.0,157.0,107.0,24.6,0.9,10.2,2.1,2026-10-24 07:00:00,2026-10-24 02:04:30,Moderate
+23113,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,187.0,187.0,164.0,26.0,16.7,9.1,12.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23114,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,158.0,158.0,128.0,16.7,19.6,5.9,5.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23115,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,171.0,171.0,126.0,13.2,27.3,5.5,6.2,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23116,Lucknow,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.8467,80.9462,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23117,Kanpur,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.4499,80.3319,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23118,Patna,Bihar,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.5941,85.1376,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23119,Varanasi,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.3176,82.9739,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23120,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23121,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,212.0,212.0,195.0,9.1,11.3,6.4,3.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Poor
+23122,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,190.0,190.0,173.0,4.0,11.5,7.3,3.2,2026-10-24 12:00:00,2026-10-24 07:38:27,Moderate
+23123,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,190.0,190.0,173.0,4.0,11.5,7.3,3.2,2026-10-24 12:00:00,2026-10-24 07:38:27,Moderate
+23124,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,190.0,190.0,173.0,4.0,11.5,7.3,3.2,2026-10-24 12:00:00,2026-10-24 07:38:27,Moderate
+23125,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,190.0,190.0,173.0,4.0,11.5,7.3,3.2,2026-10-24 12:00:00,2026-10-24 07:38:27,Moderate
+23126,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,190.0,190.0,173.0,4.0,11.5,7.3,3.2,2026-10-24 12:00:00,2026-10-24 07:38:27,Moderate
+23127,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23128,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23129,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23130,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23131,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23132,Chennai,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",13.0827,80.2707,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23133,Visakhapatnam,Andhra Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.6868,83.2185,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23134,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,211.0,211.0,189.0,13.3,7.3,7.0,2.5,2026-10-24 13:00:00,2026-10-24 07:38:27,Poor
+23135,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23136,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,12.0,12.0,,,,,,2026-10-24 14:00:00,2026-10-24 07:38:27,Good
+23137,Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,43.0,43.0,13.0,3.5,4.8,0.1,,2026-10-24 15:00:00,2026-10-24 07:38:27,Good
+23138,Ranchi,Jharkhand,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.3441,85.3096,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23139,Bhubaneswar,Odisha,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",20.2961,85.8245,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
+23140,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,43.0,43.0,13.0,3.5,4.8,0.1,,2026-10-24 15:00:00,2026-10-24 07:38:27,Good
+23141,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,212.0,212.0,195.0,9.1,11.3,6.4,3.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Poor
+23142,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,169.0,169.0,125.0,9.1,34.0,4.6,4.1,2026-10-24 13:00:00,2026-10-24 07:38:27,Moderate
