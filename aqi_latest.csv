@@ -1,31 +1,31 @@
 city,state,station,latitude,longitude,CITY_AQI,pm25,pm10,no2,o3,co,so2,HEALTH_RISK_TIER,last_update,fetched_at
-Agra,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",27.1767,78.0081,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Ahmedabad,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",23.0225,72.5714,170.0,170.0,167.0,36.0,6.5,11.1,6.4,Moderate,2026-10-24 20:00:00,2026-10-24 16:18:13
-Bengaluru,Karnataka,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",12.9716,77.5946,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Bhopal,Madhya Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",23.2599,77.4126,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Bhubaneswar,Odisha,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",20.2961,85.8245,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Chandigarh,Chandigarh,"Alipur, Delhi, Delhi, India",30.7333,76.7794,192.0,172.0,192.0,12.4,6.8,7.5,2.0,Moderate,2026-10-24 18:00:00,2026-10-24 19:06:19
-Chennai,Tamil Nadu,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",13.0827,80.2707,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Coimbatore,Tamil Nadu,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",11.0168,76.9558,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,192.0,172.0,192.0,12.4,6.8,7.5,2.0,Moderate,2026-10-24 18:00:00,2026-10-24 16:18:13
+Agra,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",27.1767,78.0081,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Bengaluru,Karnataka,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",12.9716,77.5946,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Bhopal,Madhya Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",23.2599,77.4126,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Bhubaneswar,Odisha,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",20.2961,85.8245,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Chandigarh,Chandigarh,"ITI Jahangirpuri, Delhi, Delhi, India",30.7333,76.7794,184.0,184.0,173.0,38.5,5.4,25.3,6.6,Moderate,2026-10-24 21:00:00,2026-10-24 22:00:28
+Chennai,Tamil Nadu,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",13.0827,80.2707,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Coimbatore,Tamil Nadu,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",11.0168,76.9558,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Dehradun,Uttarakhand,"ITI Jahangirpuri, Delhi, Delhi, India",30.3165,78.0322,184.0,184.0,173.0,38.5,5.4,25.3,6.6,Moderate,2026-10-24 21:00:00,2026-10-24 22:00:28
 Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,170.0,170.0,167.0,36.0,6.5,11.1,6.4,Moderate,2026-10-24 20:00:00,2026-10-24 16:18:13
-Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,48.0,48.0,18.0,3.5,4.8,0.1,3.1,Good,2026-10-25 02:00:00,2026-10-24 19:06:19
-Hyderabad,Telangana,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",17.385,78.4867,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Indore,Madhya Pradesh,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",22.7196,75.8577,170.0,170.0,167.0,36.0,6.5,11.1,6.4,Moderate,2026-10-24 20:00:00,2026-10-24 19:06:19
-Jaipur,Rajasthan,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",26.9124,75.7873,170.0,170.0,167.0,36.0,6.5,11.1,6.4,Moderate,2026-10-24 20:00:00,2026-10-24 16:18:13
-Kanpur,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",26.4499,80.3319,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,48.0,48.0,18.0,3.5,4.8,0.1,3.6,Good,2026-10-25 02:00:00,2026-10-24 19:06:19
-Lucknow,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",26.8467,80.9462,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Mumbai,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",19.076,72.8777,170.0,170.0,167.0,36.0,6.5,11.1,6.4,Moderate,2026-10-24 20:00:00,2026-10-24 16:18:13
-Nagpur,Maharashtra,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",21.1458,79.0882,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,160.0,160.0,91.0,17.0,6.8,11.1,7.8,Moderate,2026-10-24 18:00:00,2026-10-24 16:18:13
-Noida,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",28.5355,77.391,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Ooty,Tamil Nadu,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",11.4102,76.695,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Patna,Bihar,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",25.5941,85.1376,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Pune,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",18.5204,73.8567,170.0,170.0,167.0,36.0,6.5,11.1,6.4,Moderate,2026-10-24 20:00:00,2026-10-24 19:06:19
-Ranchi,Jharkhand,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",23.3441,85.3096,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Shimla,Himachal Pradesh,"Alipur, Delhi, Delhi, India",31.1048,77.1734,192.0,172.0,192.0,12.4,6.8,7.5,2.0,Moderate,2026-10-24 18:00:00,2026-10-24 19:06:19
-Surat,Gujarat,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",21.1702,72.8311,170.0,170.0,167.0,36.0,6.5,11.1,6.4,Moderate,2026-10-24 20:00:00,2026-10-24 16:18:13
-Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,22.0,22.0,18.0,2.1,6.9,1.9,1.5,Good,2026-10-25 01:00:00,2026-10-24 19:06:19
-Varanasi,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",25.3176,82.9739,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
-Visakhapatnam,Andhra Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",17.6868,83.2185,262.0,262.0,226.0,35.8,2.1,30.1,18.5,Poor,2026-10-24 21:00:00,2026-10-24 19:06:19
+Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,33.0,33.0,14.0,3.5,4.8,0.1,3.1,Good,2026-10-25 05:00:00,2026-10-24 22:00:28
+Hyderabad,Telangana,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",17.385,78.4867,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Indore,Madhya Pradesh,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",22.7196,75.8577,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Kanpur,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",26.4499,80.3319,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,33.0,33.0,14.0,3.5,4.8,0.1,3.6,Good,2026-10-25 05:00:00,2026-10-24 22:00:28
+Lucknow,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",26.8467,80.9462,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Nagpur,Maharashtra,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",21.1458,79.0882,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+New Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.6139,77.209,184.0,184.0,164.0,54.1,0.9,19.3,4.7,Moderate,2026-10-24 20:00:00,2026-10-24 22:00:28
+Noida,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",28.5355,77.391,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Ooty,Tamil Nadu,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",11.4102,76.695,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Patna,Bihar,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",25.5941,85.1376,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Ranchi,Jharkhand,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",23.3441,85.3096,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Shimla,Himachal Pradesh,"ITI Jahangirpuri, Delhi, Delhi, India",31.1048,77.1734,184.0,184.0,173.0,38.5,5.4,25.3,6.6,Moderate,2026-10-24 21:00:00,2026-10-24 22:00:28
+Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,18.0,18.0,18.0,2.1,6.9,1.9,1.5,Good,2026-10-25 04:00:00,2026-10-24 22:00:28
+Varanasi,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",25.3176,82.9739,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Visakhapatnam,Andhra Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",17.6868,83.2185,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
