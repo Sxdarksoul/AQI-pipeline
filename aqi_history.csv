@@ -20837,3 +20837,26 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 23196,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,53.0,53.0,,,,,,2026-10-24 23:00:00,2026-10-24 16:18:13,Satisfactory
 23197,Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,50.0,50.0,16.0,3.5,4.8,0.1,,2026-10-25 00:00:00,2026-10-24 16:18:13,Good
 23200,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,50.0,50.0,16.0,3.5,4.8,0.1,,2026-10-25 00:00:00,2026-10-24 16:18:13,Good
+23205,Noida,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",28.5355,77.391,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23206,Lucknow,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",26.8467,80.9462,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23207,Kanpur,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",26.4499,80.3319,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23208,Patna,Bihar,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",25.5941,85.1376,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23209,Varanasi,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",25.3176,82.9739,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23210,Agra,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",27.1767,78.0081,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23211,Chandigarh,Chandigarh,"Alipur, Delhi, Delhi, India",30.7333,76.7794,192.0,172.0,192.0,12.4,6.8,7.5,2.0,2026-10-24 18:00:00,2026-10-24 19:06:19,Moderate
+23215,Pune,Maharashtra,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",18.5204,73.8567,170.0,170.0,167.0,36.0,6.5,11.1,6.4,2026-10-24 20:00:00,2026-10-24 19:06:19,Moderate
+23217,Indore,Madhya Pradesh,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",22.7196,75.8577,170.0,170.0,167.0,36.0,6.5,11.1,6.4,2026-10-24 20:00:00,2026-10-24 19:06:19,Moderate
+23218,Nagpur,Maharashtra,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",21.1458,79.0882,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23219,Bhopal,Madhya Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",23.2599,77.4126,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23220,Bengaluru,Karnataka,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",12.9716,77.5946,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23221,Hyderabad,Telangana,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",17.385,78.4867,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23222,Chennai,Tamil Nadu,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",13.0827,80.2707,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23223,Visakhapatnam,Andhra Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",17.6868,83.2185,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23225,Coimbatore,Tamil Nadu,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",11.0168,76.9558,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23226,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,22.0,22.0,,,,,,2026-10-25 01:00:00,2026-10-24 19:06:19,Good
+23227,Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,48.0,48.0,18.0,3.5,4.8,0.1,,2026-10-25 02:00:00,2026-10-24 19:06:19,Good
+23228,Ranchi,Jharkhand,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",23.3441,85.3096,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23229,Bhubaneswar,Odisha,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",20.2961,85.8245,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
+23230,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,48.0,48.0,18.0,3.5,4.8,0.1,,2026-10-25 02:00:00,2026-10-24 19:06:19,Good
+23231,Shimla,Himachal Pradesh,"Alipur, Delhi, Delhi, India",31.1048,77.1734,192.0,172.0,192.0,12.4,6.8,7.5,2.0,2026-10-24 18:00:00,2026-10-24 19:06:19,Moderate
+23232,Ooty,Tamil Nadu,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",11.4102,76.695,262.0,262.0,226.0,35.8,2.1,30.1,18.5,2026-10-24 21:00:00,2026-10-24 19:06:19,Poor
