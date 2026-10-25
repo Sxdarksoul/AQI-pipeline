@@ -20889,3 +20889,11 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 23260,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,33.0,33.0,14.0,3.5,4.8,0.1,,2026-10-25 05:00:00,2026-10-24 22:00:28,Good
 23261,Shimla,Himachal Pradesh,"ITI Jahangirpuri, Delhi, Delhi, India",31.1048,77.1734,184.0,184.0,173.0,38.5,5.4,25.3,6.6,2026-10-24 21:00:00,2026-10-24 22:00:28,Moderate
 23262,Ooty,Tamil Nadu,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",11.4102,76.695,118.0,97.0,118.0,3.5,6.3,6.4,3.5,2026-10-25 01:00:00,2026-10-24 22:00:28,Moderate
+23263,New Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.6139,77.209,62.0,61.0,62.0,8.8,7.7,19.3,3.0,2026-10-25 03:00:00,2026-10-25 00:36:19,Satisfactory
+23264,Gurugram,Haryana,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",28.4595,77.0266,118.0,97.0,118.0,3.5,6.3,6.4,3.5,2026-10-25 01:00:00,2026-10-25 00:36:19,Moderate
+23271,Chandigarh,Chandigarh,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",30.7333,76.7794,118.0,97.0,118.0,3.5,6.3,6.4,3.5,2026-10-25 01:00:00,2026-10-25 00:36:19,Moderate
+23284,Dehradun,Uttarakhand,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",30.3165,78.0322,62.0,61.0,62.0,8.8,7.7,19.3,3.0,2026-10-25 03:00:00,2026-10-25 00:36:19,Satisfactory
+23286,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,5.0,5.0,,,,,,2026-10-25 06:00:00,2026-10-25 00:36:19,Good
+23287,Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,49.0,49.0,16.0,3.5,4.8,0.1,,2026-10-25 08:00:00,2026-10-25 00:36:19,Good
+23290,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,49.0,49.0,16.0,3.5,4.8,0.1,,2026-10-25 08:00:00,2026-10-25 00:36:19,Good
+23291,Shimla,Himachal Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",31.1048,77.1734,62.0,61.0,62.0,8.8,7.7,19.3,3.0,2026-10-25 03:00:00,2026-10-25 00:36:19,Satisfactory
