@@ -20897,3 +20897,33 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 23287,Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,49.0,49.0,16.0,3.5,4.8,0.1,,2026-10-25 08:00:00,2026-10-25 00:36:19,Good
 23290,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,49.0,49.0,16.0,3.5,4.8,0.1,,2026-10-25 08:00:00,2026-10-25 00:36:19,Good
 23291,Shimla,Himachal Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",31.1048,77.1734,62.0,61.0,62.0,8.8,7.7,19.3,3.0,2026-10-25 03:00:00,2026-10-25 00:36:19,Satisfactory
+23293,New Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.6139,77.209,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23294,Gurugram,Haryana,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.4595,77.0266,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23295,Noida,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.5355,77.391,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23296,Lucknow,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",26.8467,80.9462,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23297,Kanpur,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",26.4499,80.3319,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23298,Patna,Bihar,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",25.5941,85.1376,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23299,Varanasi,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",25.3176,82.9739,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23300,Agra,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",27.1767,78.0081,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23301,Chandigarh,Chandigarh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",30.7333,76.7794,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23302,Jaipur,Rajasthan,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",26.9124,75.7873,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23303,Mumbai,Maharashtra,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",19.076,72.8777,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23304,Ahmedabad,Gujarat,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",23.0225,72.5714,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23305,Pune,Maharashtra,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",18.5204,73.8567,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23306,Surat,Gujarat,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",21.1702,72.8311,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23307,Indore,Madhya Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",22.7196,75.8577,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23308,Nagpur,Maharashtra,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",21.1458,79.0882,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23309,Bhopal,Madhya Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",23.2599,77.4126,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23310,Bengaluru,Karnataka,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",12.9716,77.5946,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23311,Hyderabad,Telangana,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",17.385,78.4867,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23312,Chennai,Tamil Nadu,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",13.0827,80.2707,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23313,Visakhapatnam,Andhra Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",17.6868,83.2185,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23314,Dehradun,Uttarakhand,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",30.3165,78.0322,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23315,Coimbatore,Tamil Nadu,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",11.0168,76.9558,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23316,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,11.0,11.0,,,,,,2026-10-25 12:00:00,2026-10-25 05:24:23,Good
+23317,Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,43.0,43.0,16.0,3.5,4.8,0.1,,2026-10-25 13:00:00,2026-10-25 05:24:23,Good
+23318,Ranchi,Jharkhand,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",23.3441,85.3096,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23319,Bhubaneswar,Odisha,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",20.2961,85.8245,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23320,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,43.0,43.0,16.0,3.5,4.8,0.1,,2026-10-25 13:00:00,2026-10-25 05:24:23,Good
+23321,Shimla,Himachal Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",31.1048,77.1734,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory
+23322,Ooty,Tamil Nadu,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",11.4102,76.695,95.0,95.0,76.0,14.2,0.9,19.3,3.3,2026-10-25 07:00:00,2026-10-25 05:24:23,Satisfactory

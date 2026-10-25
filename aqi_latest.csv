@@ -1,31 +1,31 @@
 city,state,station,latitude,longitude,CITY_AQI,pm25,pm10,no2,o3,co,so2,HEALTH_RISK_TIER,last_update,fetched_at
-Agra,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",27.1767,78.0081,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Bengaluru,Karnataka,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",12.9716,77.5946,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Bhopal,Madhya Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",23.2599,77.4126,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Bhubaneswar,Odisha,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",20.2961,85.8245,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Chandigarh,Chandigarh,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",30.7333,76.7794,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-25 00:36:19
-Chennai,Tamil Nadu,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",13.0827,80.2707,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Coimbatore,Tamil Nadu,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",11.0168,76.9558,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Dehradun,Uttarakhand,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",30.3165,78.0322,62.0,61.0,62.0,8.8,7.7,19.3,3.0,Satisfactory,2026-10-25 03:00:00,2026-10-25 00:36:19
-Gurugram,Haryana,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",28.4595,77.0266,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-25 00:36:19
-Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,49.0,49.0,16.0,3.5,4.8,0.1,3.1,Good,2026-10-25 08:00:00,2026-10-25 00:36:19
-Hyderabad,Telangana,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",17.385,78.4867,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Indore,Madhya Pradesh,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",22.7196,75.8577,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Kanpur,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",26.4499,80.3319,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,49.0,49.0,16.0,3.5,4.8,0.1,3.6,Good,2026-10-25 08:00:00,2026-10-25 00:36:19
-Lucknow,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",26.8467,80.9462,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Nagpur,Maharashtra,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",21.1458,79.0882,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-New Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.6139,77.209,62.0,61.0,62.0,8.8,7.7,19.3,3.0,Satisfactory,2026-10-25 03:00:00,2026-10-25 00:36:19
-Noida,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",28.5355,77.391,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Ooty,Tamil Nadu,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",11.4102,76.695,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Patna,Bihar,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",25.5941,85.1376,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Ranchi,Jharkhand,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",23.3441,85.3096,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Shimla,Himachal Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",31.1048,77.1734,62.0,61.0,62.0,8.8,7.7,19.3,3.0,Satisfactory,2026-10-25 03:00:00,2026-10-25 00:36:19
-Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,118.0,97.0,118.0,3.5,6.3,6.4,3.5,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,5.0,5.0,18.0,2.1,6.9,1.9,1.5,Good,2026-10-25 06:00:00,2026-10-25 00:36:19
-Varanasi,Uttar Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",25.3176,82.9739,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
-Visakhapatnam,Andhra Pradesh,"PGDAV College, Sriniwaspuri, Delhi, Delhi, India",17.6868,83.2185,110.0,78.0,110.0,8.2,8.3,29.0,8.7,Moderate,2026-10-25 01:00:00,2026-10-24 22:00:28
+Agra,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",27.1767,78.0081,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Ahmedabad,Gujarat,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",23.0225,72.5714,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Bengaluru,Karnataka,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",12.9716,77.5946,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Bhopal,Madhya Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",23.2599,77.4126,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Bhubaneswar,Odisha,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",20.2961,85.8245,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Chandigarh,Chandigarh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",30.7333,76.7794,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Chennai,Tamil Nadu,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",13.0827,80.2707,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Coimbatore,Tamil Nadu,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",11.0168,76.9558,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Dehradun,Uttarakhand,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",30.3165,78.0322,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Gurugram,Haryana,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.4595,77.0266,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,43.0,43.0,16.0,3.5,4.8,0.1,3.1,Good,2026-10-25 13:00:00,2026-10-25 05:24:23
+Hyderabad,Telangana,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",17.385,78.4867,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Indore,Madhya Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",22.7196,75.8577,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Jaipur,Rajasthan,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",26.9124,75.7873,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Kanpur,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",26.4499,80.3319,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,43.0,43.0,16.0,3.5,4.8,0.1,3.6,Good,2026-10-25 13:00:00,2026-10-25 05:24:23
+Lucknow,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",26.8467,80.9462,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Mumbai,Maharashtra,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",19.076,72.8777,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Nagpur,Maharashtra,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",21.1458,79.0882,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+New Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.6139,77.209,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Noida,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.5355,77.391,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Ooty,Tamil Nadu,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",11.4102,76.695,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Patna,Bihar,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",25.5941,85.1376,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Pune,Maharashtra,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",18.5204,73.8567,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Ranchi,Jharkhand,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",23.3441,85.3096,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Shimla,Himachal Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",31.1048,77.1734,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Surat,Gujarat,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",21.1702,72.8311,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,11.0,11.0,18.0,2.1,6.9,1.9,1.5,Good,2026-10-25 12:00:00,2026-10-25 05:24:23
+Varanasi,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",25.3176,82.9739,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
+Visakhapatnam,Andhra Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",17.6868,83.2185,95.0,95.0,76.0,14.2,0.9,19.3,3.3,Satisfactory,2026-10-25 07:00:00,2026-10-25 05:24:23
