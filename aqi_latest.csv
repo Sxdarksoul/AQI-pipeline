@@ -1,31 +1,31 @@
 city,state,station,latitude,longitude,CITY_AQI,pm25,pm10,no2,o3,co,so2,HEALTH_RISK_TIER,last_update,fetched_at
-Agra,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",27.1767,78.0081,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Ahmedabad,Gujarat,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",23.0225,72.5714,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Bengaluru,Karnataka,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",12.9716,77.5946,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Bhopal,Madhya Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",23.2599,77.4126,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Bhubaneswar,Odisha,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",20.2961,85.8245,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Chandigarh,Chandigarh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",30.7333,76.7794,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Chennai,Tamil Nadu,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",13.0827,80.2707,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Coimbatore,Tamil Nadu,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",11.0168,76.9558,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Dehradun,Uttarakhand,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",30.3165,78.0322,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Gurugram,Haryana,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.4595,77.0266,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,44.0,44.0,14.0,3.5,4.8,0.1,3.1,Good,2026-10-25 17:00:00,2026-10-25 10:12:56
-Hyderabad,Telangana,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",17.385,78.4867,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Indore,Madhya Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",22.7196,75.8577,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Jaipur,Rajasthan,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",26.9124,75.7873,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Kanpur,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",26.4499,80.3319,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,44.0,44.0,14.0,3.5,4.8,0.1,3.6,Good,2026-10-25 17:00:00,2026-10-25 10:12:56
-Lucknow,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",26.8467,80.9462,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Mumbai,Maharashtra,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",19.076,72.8777,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Nagpur,Maharashtra,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",21.1458,79.0882,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-New Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.6139,77.209,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Noida,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.5355,77.391,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Ooty,Tamil Nadu,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",11.4102,76.695,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Patna,Bihar,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",25.5941,85.1376,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Pune,Maharashtra,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",18.5204,73.8567,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Ranchi,Jharkhand,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",23.3441,85.3096,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Shimla,Himachal Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",31.1048,77.1734,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Surat,Gujarat,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",21.1702,72.8311,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,6.0,6.0,18.0,2.1,6.9,1.9,1.5,Good,2026-10-25 16:00:00,2026-10-25 10:12:56
-Varanasi,Uttar Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",25.3176,82.9739,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
-Visakhapatnam,Andhra Pradesh,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",17.6868,83.2185,160.0,160.0,118.0,10.3,18.4,1.0,6.3,Moderate,2026-10-25 14:00:00,2026-10-25 10:12:56
+Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,158.0,158.0,100.0,5.6,4.2,12.2,0.1,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Bhubaneswar,Odisha,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",20.2961,85.8245,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,170.0,170.0,162.0,10.2,7.6,8.4,4.3,Moderate,2026-10-25 19:00:00,2026-10-25 14:36:33
+Chennai,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",13.0827,80.2707,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,157.0,157.0,106.0,19.2,2.9,6.4,2.1,Moderate,2026-10-25 19:00:00,2026-10-25 14:36:33
+Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,163.0,163.0,157.0,31.8,4.9,14.1,6.9,Moderate,2026-10-25 19:00:00,2026-10-25 14:36:33
+Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,58.0,58.0,26.0,3.5,4.8,0.1,3.1,Satisfactory,2026-10-25 22:00:00,2026-10-25 14:36:33
+Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,158.0,158.0,100.0,5.6,4.2,12.2,0.1,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Kanpur,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.4499,80.3319,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,58.0,58.0,26.0,3.5,4.8,0.1,3.6,Satisfactory,2026-10-25 22:00:00,2026-10-25 14:36:33
+Lucknow,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.8467,80.9462,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,158.0,158.0,100.0,5.6,4.2,12.2,0.1,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,157.0,157.0,90.0,19.1,3.6,10.9,4.2,Moderate,2026-10-25 19:00:00,2026-10-25 14:36:33
+Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,164.0,164.0,147.0,24.9,5.7,10.0,3.9,Moderate,2026-10-25 19:00:00,2026-10-25 14:36:33
+Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Patna,Bihar,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.5941,85.1376,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,158.0,158.0,100.0,5.6,4.2,12.2,0.1,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Ranchi,Jharkhand,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.3441,85.3096,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,170.0,170.0,162.0,10.2,7.6,8.4,4.3,Moderate,2026-10-25 19:00:00,2026-10-25 14:36:33
+Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,158.0,158.0,100.0,5.6,4.2,12.2,0.1,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,14.0,14.0,18.0,2.1,6.9,1.9,1.5,Good,2026-10-25 21:00:00,2026-10-25 14:36:33
+Varanasi,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.3176,82.9739,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
+Visakhapatnam,Andhra Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.6868,83.2185,164.0,164.0,127.0,37.1,5.2,14.5,1.6,Moderate,2026-10-25 20:00:00,2026-10-25 14:36:33
