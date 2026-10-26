@@ -21105,3 +21105,33 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 23499,Bhubaneswar,Odisha,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",20.2961,85.8245,170.0,170.0,118.0,21.9,1.9,7.3,2.5,2026-10-26 06:00:00,2026-10-26 00:46:51,Moderate
 23500,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,53.0,53.0,18.0,3.5,4.8,0.1,,2026-10-26 08:00:00,2026-10-26 00:46:51,Satisfactory
 23502,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,170.0,170.0,118.0,21.9,1.9,7.3,2.5,2026-10-26 06:00:00,2026-10-26 00:46:51,Moderate
+23503,New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,178.0,178.0,124.0,36.7,3.4,8.9,5.4,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23504,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,197.0,197.0,165.0,20.5,8.2,7.1,6.6,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23505,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,174.0,174.0,122.0,18.0,8.0,5.2,5.6,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23506,Lucknow,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.8467,80.9462,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23507,Kanpur,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.4499,80.3319,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23508,Patna,Bihar,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.5941,85.1376,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23509,Varanasi,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.3176,82.9739,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23510,Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23511,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,180.0,180.0,129.0,6.2,5.9,6.4,2.4,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23512,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,178.0,178.0,112.0,5.4,6.6,6.4,7.1,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23513,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,178.0,178.0,112.0,5.4,6.6,6.4,7.1,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23514,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,178.0,178.0,112.0,5.4,6.6,6.4,7.1,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23515,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,178.0,178.0,112.0,5.4,6.6,6.4,7.1,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23516,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,178.0,178.0,112.0,5.4,6.6,6.4,7.1,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23517,Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23518,Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23519,Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23520,Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23521,Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23522,Chennai,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",13.0827,80.2707,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23523,Visakhapatnam,Andhra Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.6868,83.2185,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23524,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,171.0,171.0,121.0,12.0,1.9,6.7,2.0,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23525,Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23526,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,35.0,35.0,,,,,,2026-10-26 12:00:00,2026-10-26 05:29:05,Good
+23527,Kolkata,West Bengal,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",22.5726,88.3639,43.0,43.0,17.0,3.5,4.8,0.1,,2026-10-26 13:00:00,2026-10-26 05:29:05,Good
+23528,Ranchi,Jharkhand,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.3441,85.3096,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23529,Bhubaneswar,Odisha,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",20.2961,85.8245,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23530,Guwahati,Assam,"Natural Resources and Environment Office, Mae Hongson, Thailand (สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน)",26.1445,91.7362,43.0,43.0,17.0,3.5,4.8,0.1,,2026-10-26 13:00:00,2026-10-26 05:29:05,Good
+23531,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,180.0,180.0,129.0,6.2,5.9,6.4,2.4,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
+23532,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,174.0,174.0,125.0,26.9,12.4,8.4,6.3,2026-10-26 10:00:00,2026-10-26 05:29:05,Moderate
