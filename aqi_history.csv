@@ -21584,3 +21584,33 @@ id,city,state,station,latitude,longitude,aqi,pm25,pm10,no2,o3,co,so2,last_update
 23980,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,40.0,13.0,9.0,3.7,39.8,1.0,2.6,2026-10-29 16:00:00,2026-10-29 09:18:51,Good
 23981,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,161.0,161.0,109.0,5.2,8.8,2.8,4.2,2026-10-29 14:00:00,2026-10-29 09:18:51,Moderate
 23982,Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,222.0,222.0,175.0,43.1,1.7,15.4,5.0,2026-10-29 09:00:00,2026-10-29 09:18:51,Poor
+23983,New Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi, Delhi, India",28.6139,77.209,32.0,30.0,32.0,14.5,7.7,7.3,3.5,2026-10-29 21:00:00,2026-10-29 16:28:02,Good
+23984,Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,129.0,129.0,52.0,24.3,1.6,13.1,4.3,2026-10-29 21:00:00,2026-10-29 16:28:02,Moderate
+23985,Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,82.0,82.0,60.0,16.8,6.7,0.7,2.0,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23986,Lucknow,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",26.8467,80.9462,82.0,82.0,60.0,16.8,6.7,0.7,2.0,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23987,Kanpur,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",26.4499,80.3319,82.0,82.0,60.0,16.8,6.7,0.7,2.0,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23988,Patna,Bihar,"District radiation station, Lhasa (拉萨区辐射站)",25.5941,85.1376,63.0,63.0,51.0,27.5,17.1,4.6,4.6,2026-10-29 20:00:00,2026-10-29 16:28:02,Satisfactory
+23989,Varanasi,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",25.3176,82.9739,82.0,82.0,60.0,16.8,6.7,0.7,2.0,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23990,Agra,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",27.1767,78.0081,82.0,82.0,60.0,16.8,6.7,0.7,2.0,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23991,Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,102.0,102.0,71.0,4.5,7.5,4.6,4.7,2026-10-29 18:00:00,2026-10-29 16:28:02,Moderate
+23992,Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,76.0,76.0,34.0,2.8,4.2,3.3,0.4,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23993,Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,76.0,76.0,34.0,2.8,4.2,3.3,0.4,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23994,Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,76.0,76.0,34.0,2.8,4.2,3.3,0.4,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23995,Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,76.0,76.0,34.0,2.8,4.2,3.3,0.4,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23996,Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,76.0,76.0,34.0,2.8,4.2,3.3,0.4,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23997,Indore,Madhya Pradesh,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",22.7196,75.8577,76.0,76.0,34.0,2.8,4.2,3.3,0.4,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23998,Nagpur,Maharashtra,"DITE Okhla, Delhi, Delhi, India",21.1458,79.0882,82.0,82.0,60.0,16.8,6.7,0.7,2.0,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+23999,Bhopal,Madhya Pradesh,"Sri Auribindo Marg, Delhi, Delhi, India",23.2599,77.4126,76.0,76.0,53.0,15.7,4.3,10.0,5.3,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+24000,Bengaluru,Karnataka,"Sri Auribindo Marg, Delhi, Delhi, India",12.9716,77.5946,76.0,76.0,53.0,15.7,4.3,10.0,5.3,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+24001,Hyderabad,Telangana,"DITE Okhla, Delhi, Delhi, India",17.385,78.4867,82.0,82.0,60.0,16.8,6.7,0.7,2.0,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+24002,Chennai,Tamil Nadu,"DITE Okhla, Delhi, Delhi, India",13.0827,80.2707,82.0,82.0,60.0,16.8,6.7,0.7,2.0,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+24003,Visakhapatnam,Andhra Pradesh,"DITE Okhla, Delhi, Delhi, India",17.6868,83.2185,82.0,82.0,60.0,16.8,6.7,0.7,2.0,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+24004,Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,63.0,63.0,23.0,7.0,2.8,3.3,1.4,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+24005,Coimbatore,Tamil Nadu,"Sri Auribindo Marg, Delhi, Delhi, India",11.0168,76.9558,76.0,76.0,53.0,15.7,4.3,10.0,5.3,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
+24006,Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,39.0,39.0,,,,,,2026-10-29 23:00:00,2026-10-29 16:28:02,Good
+24007,Kolkata,West Bengal,"District radiation station, Lhasa (拉萨区辐射站)",22.5726,88.3639,63.0,63.0,51.0,27.5,17.1,4.6,4.6,2026-10-29 20:00:00,2026-10-29 16:28:02,Satisfactory
+24008,Ranchi,Jharkhand,"District radiation station, Lhasa (拉萨区辐射站)",23.3441,85.3096,63.0,63.0,51.0,27.5,17.1,4.6,4.6,2026-10-29 20:00:00,2026-10-29 16:28:02,Satisfactory
+24009,Bhubaneswar,Odisha,"District radiation station, Lhasa (拉萨区辐射站)",20.2961,85.8245,63.0,63.0,51.0,27.5,17.1,4.6,4.6,2026-10-29 20:00:00,2026-10-29 16:28:02,Satisfactory
+24010,Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,42.0,42.0,20.0,13.8,30.5,2.8,3.6,2026-10-29 20:00:00,2026-10-29 16:28:02,Good
+24011,Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,102.0,102.0,71.0,4.5,7.5,4.6,4.7,2026-10-29 18:00:00,2026-10-29 16:28:02,Moderate
+24012,Ooty,Tamil Nadu,"Sri Auribindo Marg, Delhi, Delhi, India",11.4102,76.695,76.0,76.0,53.0,15.7,4.3,10.0,5.3,2026-10-29 21:00:00,2026-10-29 16:28:02,Satisfactory
