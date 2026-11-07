@@ -1,31 +1,31 @@
 city,state,station,latitude,longitude,CITY_AQI,pm25,pm10,no2,o3,co,so2,HEALTH_RISK_TIER,last_update,fetched_at
-Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,300.0,300.0,170.0,7.8,1.9,10.0,1.9,Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Bhubaneswar,Odisha,"District radiation station, Lhasa (拉萨区辐射站)",20.2961,85.8245,46.0,46.0,12.0,12.4,12.2,3.7,3.6,Good,2026-11-07 08:00:00,2026-11-07 01:19:38
-Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,459.0,459.0,444.0,5.3,2.1,11.8,1.9,Severe,2026-11-07 06:00:00,2026-11-07 01:19:38
-Chennai,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",13.0827,80.2707,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,497.0,442.0,497.0,11.2,1.1,14.5,0.8,Severe,2026-11-07 06:00:00,2026-11-07 01:19:38
-Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,294.0,294.0,192.0,19.2,1.7,10.0,4.8,Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,30.0,30.0,13.0,17.0,11.0,5.5,2.6,Good,2026-11-07 08:00:00,2026-11-07 01:19:38
-Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,300.0,300.0,170.0,7.8,1.9,10.0,1.9,Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Kanpur,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.4499,80.3319,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Kolkata,West Bengal,"District radiation station, Lhasa (拉萨区辐射站)",22.5726,88.3639,46.0,46.0,12.0,12.4,12.2,3.7,3.6,Good,2026-11-07 08:00:00,2026-11-07 01:19:38
-Lucknow,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.8467,80.9462,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,300.0,300.0,170.0,7.8,1.9,10.0,1.9,Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,363.0,363.0,213.0,11.0,3.0,5.9,28.6,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,381.0,381.0,296.0,25.7,1.9,5.9,4.4,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Patna,Bihar,"District radiation station, Lhasa (拉萨区辐射站)",25.5941,85.1376,46.0,46.0,12.0,12.4,12.2,3.7,3.6,Good,2026-11-07 08:00:00,2026-11-07 01:19:38
-Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,300.0,300.0,170.0,7.8,1.9,10.0,1.9,Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Ranchi,Jharkhand,"District radiation station, Lhasa (拉萨区辐射站)",23.3441,85.3096,46.0,46.0,12.0,12.4,12.2,3.7,3.6,Good,2026-11-07 08:00:00,2026-11-07 01:19:38
-Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,459.0,459.0,444.0,5.3,2.1,11.8,1.9,Severe,2026-11-07 06:00:00,2026-11-07 01:19:38
-Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,300.0,300.0,170.0,7.8,1.9,10.0,1.9,Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,57.0,57.0,18.0,2.1,6.9,1.9,1.5,Satisfactory,2026-11-07 07:00:00,2026-11-07 01:19:38
-Varanasi,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.3176,82.9739,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
-Visakhapatnam,Andhra Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.6868,83.2185,387.0,387.0,314.0,19.3,4.7,10.3,5.0,Very Poor,2026-11-07 06:00:00,2026-11-07 01:19:38
+Agra,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",27.1767,78.0081,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Ahmedabad,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",23.0225,72.5714,484.0,484.0,443.0,7.9,13.9,9.5,2.6,Severe,2026-11-07 13:00:00,2026-11-07 07:52:05
+Bengaluru,Karnataka,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",12.9716,77.5946,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Bhopal,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",23.2599,77.4126,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Bhubaneswar,Odisha,"District radiation station, Lhasa (拉萨区辐射站)",20.2961,85.8245,36.0,30.0,12.0,6.0,35.8,1.9,3.1,Good,2026-11-07 15:00:00,2026-11-07 07:52:05
+Chandigarh,Chandigarh,"Narela, Delhi, Delhi, India",30.7333,76.7794,348.0,348.0,323.0,7.8,10.3,4.6,2.2,Very Poor,2026-11-07 12:00:00,2026-11-07 07:52:05
+Chennai,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",13.0827,80.2707,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Coimbatore,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.0168,76.9558,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Dehradun,Uttarakhand,"Alipur, Delhi, Delhi, India",30.3165,78.0322,260.0,260.0,195.0,7.2,9.3,7.5,1.3,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Gurugram,Haryana,"National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",28.4595,77.0266,390.0,390.0,339.0,18.7,23.7,13.8,7.2,Very Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Guwahati,Assam,"Lhasa Railway Station, Lhasa (拉萨拉萨火车站)",26.1445,91.7362,40.0,13.0,8.0,2.8,39.8,2.8,3.1,Good,2026-11-07 15:00:00,2026-11-07 07:52:05
+Hyderabad,Telangana,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.385,78.4867,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Indore,Madhya Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",22.7196,75.8577,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Jaipur,Rajasthan,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",26.9124,75.7873,484.0,484.0,443.0,7.9,13.9,9.5,2.6,Severe,2026-11-07 13:00:00,2026-11-07 07:52:05
+Kanpur,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.4499,80.3319,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Kolkata,West Bengal,"District radiation station, Lhasa (拉萨区辐射站)",22.5726,88.3639,36.0,30.0,12.0,6.0,35.8,1.9,3.1,Good,2026-11-07 15:00:00,2026-11-07 07:52:05
+Lucknow,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",26.8467,80.9462,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Mumbai,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",19.076,72.8777,484.0,484.0,443.0,7.9,13.9,9.5,2.6,Severe,2026-11-07 13:00:00,2026-11-07 07:52:05
+Nagpur,Maharashtra,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",21.1458,79.0882,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+New Delhi,Delhi,"Mandir Marg, Delhi, Delhi, India",28.6139,77.209,232.0,232.0,170.0,13.1,38.0,1.0,31.0,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Noida,Uttar Pradesh,"DITE Okhla, Delhi, Delhi, India",28.5355,77.391,243.0,243.0,170.0,15.4,31.0,1.4,5.7,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Ooty,Tamil Nadu,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",11.4102,76.695,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Patna,Bihar,"District radiation station, Lhasa (拉萨区辐射站)",25.5941,85.1376,36.0,30.0,12.0,6.0,35.8,1.9,3.1,Good,2026-11-07 15:00:00,2026-11-07 07:52:05
+Pune,Maharashtra,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",18.5204,73.8567,484.0,484.0,443.0,7.9,13.9,9.5,2.6,Severe,2026-11-07 13:00:00,2026-11-07 07:52:05
+Ranchi,Jharkhand,"District radiation station, Lhasa (拉萨区辐射站)",23.3441,85.3096,36.0,30.0,12.0,6.0,35.8,1.9,3.1,Good,2026-11-07 15:00:00,2026-11-07 07:52:05
+Shimla,Himachal Pradesh,"Narela, Delhi, Delhi, India",31.1048,77.1734,348.0,348.0,323.0,7.8,10.3,4.6,2.2,Very Poor,2026-11-07 12:00:00,2026-11-07 07:52:05
+Surat,Gujarat,"Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",21.1702,72.8311,484.0,484.0,443.0,7.9,13.9,9.5,2.6,Severe,2026-11-07 13:00:00,2026-11-07 07:52:05
+Thiruvananthapuram,Kerala,"Indrapuri, Indonesia",8.5241,76.9366,53.0,53.0,18.0,2.1,6.9,1.9,1.5,Satisfactory,2026-11-07 14:00:00,2026-11-07 07:52:05
+Varanasi,Uttar Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",25.3176,82.9739,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
+Visakhapatnam,Andhra Pradesh,"Dr. Karni Singh Shooting Range, Delhi, Delhi, India",17.6868,83.2185,250.0,250.0,176.0,13.9,42.6,7.7,6.9,Poor,2026-11-07 13:00:00,2026-11-07 07:52:05
