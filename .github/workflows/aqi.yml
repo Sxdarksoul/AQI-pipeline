@@ -35,3 +35,56 @@ jobs:
           git add air.db aqi_history.csv aqi_latest.csv aqi_state.csv
           git commit -m "Update AQI data" || echo "No changes"
           git push
+
+      # Runs only if every step above succeeded (CSV generated + pushed).
+      - name: Sync history to Google Sheets
+        timeout-minutes: 10
+        env:
+          APPS_SCRIPT_URL: ${{ secrets.AQI_APPS_SCRIPT_URL }}
+          SHEETS_TOKEN: ${{ secrets.AQI_SHEETS_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${APPS_SCRIPT_URL}" ] || [ -z "${SHEETS_TOKEN}" ]; then
+            echo "::error::Secret AQI_APPS_SCRIPT_URL or AQI_SHEETS_TOKEN is missing or empty."
+            exit 1
+          fi
+
+          # Exact commit just pushed -> Apps Script fetches this immutable version (avoids raw CDN cache).
+          COMMIT_SHA="$(git rev-parse HEAD)"
+          export COMMIT_SHA
+          EXPECTED_ROWS="$(python -c "import csv; print(sum(1 for _ in csv.reader(open('aqi_history.csv', newline=''))) - 1)")"
+          echo "Syncing aqi_history.csv @ ${COMMIT_SHA} (${EXPECTED_ROWS} data rows)"
+
+          # Token goes env -> jq -> stdin: never on the command line, never echoed.
+          # -L follows Apps Script's 302 redirect; do NOT add -X POST (it breaks the redirect).
+          HTTP_CODE="$(jq -n '{token: env.SHEETS_TOKEN, sha: env.COMMIT_SHA, run_id: env.GITHUB_RUN_ID}' \
+            | curl -sS -L --max-time 360 --retry 2 --retry-delay 15 \
+                -H "Content-Type: application/json" \
+                --data-binary @- \
+                -o sheets_response.json -w '%{http_code}' \
+                "${APPS_SCRIPT_URL}")" || {
+            echo "::error::Could not reach the Apps Script Web App (network error or timeout)."
+            exit 1
+          }
+
+          if [ "${HTTP_CODE}" != "200" ]; then
+            echo "::error::Apps Script returned HTTP ${HTTP_CODE}."
+            head -c 500 sheets_response.json || true
+            exit 1
+          fi
+
+          # Apps Script always answers 200, so success must be confirmed from the JSON body.
+          if ! jq -e '.ok == true or .status == "success" or .success == true' sheets_response.json > /dev/null 2>&1; then
+            echo "::error::Google Sheets sync failed. Response (first 500 chars):"
+            head -c 500 sheets_response.json || true
+            exit 1
+          fi
+
+          SHEET_ROWS="$(jq -r '.data_rows // empty' sheets_response.json)"
+          if [ -n "${SHEET_ROWS}" ] && [ "${SHEET_ROWS}" != "${EXPECTED_ROWS}" ]; then
+            echo "::error::Row mismatch: CSV has ${EXPECTED_ROWS} rows, Sheet received ${SHEET_ROWS}."
+            exit 1
+          fi
+
+          echo "Google Sheets sync OK: $(jq -c '{data_rows, sha}' sheets_response.json)"
