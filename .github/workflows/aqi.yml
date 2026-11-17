@@ -87,4 +87,7 @@ jobs:
             exit 1
           fi
 
-          echo "Google Sheets sync OK: $(jq -c '{data_rows, sha}' sheets_response.json)"
+          if [ -z "$(jq -r '.bump_rows // empty' sheets_response.json)" ]; then
+            echo "::warning::Apps Script returned no bump_rows - the deployed script is the OLD version (Bump tab not written)."
+          fi
+          echo "Google Sheets sync OK: $(jq -c '{data_rows, bump_rows, sha}' sheets_response.json)"
